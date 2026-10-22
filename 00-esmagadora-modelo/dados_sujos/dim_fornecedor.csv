@@ -1,0 +1,161 @@
+id_fornecedor;cod_fornecedor;fornecedor;tipo;regiao
+1;F0001;Fazenda Aroeira;Produtor;Noroeste Paulista
+2;F0002;Agropecuária Mata Velha;Produtor;Triângulo Mineiro
+3;F0003;Sítio Três Irmãos;Produtor;Sudoeste de Goiás
+4;F0004;Cooperativa Agrícola Aroeira;Cooperativa;Sul de Goiás
+5;F0005;Agropecuária Vale Verde;Produtor;Noroeste Paulista
+6;F0006;Agropecuária Palmeiras;Produtor;Sudoeste de Goiás
+7;F0007;Cooperativa Agrícola Santa Helena;Cooperativa;Centro-Oeste Paulista
+8;F0008;Agropecuária São Pedro;Produtor;Alta Mogiana
+9;F0009;Fazenda Pinheiros;Produtor;Alta Mogiana
+10;F0010;Grupo Duas Pontes;Grupo;Triângulo Mineiro
+11;F0011;Fazenda Aroeira Velha;Produtor;Sudoeste de Goiás
+12;F0012;Sítio São Pedro;Produtor;Sul de Goiás
+13;F0013;Grupo Aroeira;Grupo;Noroeste Paulista
+14;F0014;Fazenda Paraíso;Produtor;Alta Mogiana
+15;F0015;Fazenda Ipê Amarelo;Produtor;Sul de Goiás
+16;F0016;Cooperativa Agrícola Palmeiras;Cooperativa;Noroeste Paulista
+17;F0017;Grupo Horizonte;Grupo;Noroeste Paulista
+18;F0018;Sítio Cerrado Vivo;Produtor;Alta Mogiana
+19;F0019;Fazenda Bandeirantes;Produtor;Alta Mogiana
+20;F0020;Agropecuária Pinheiros;Produtor;Noroeste Paulista
+21;F0021;Cooperativa Agrícola Santa Rita;Cooperativa;Sul de Goiás
+22;F0022;Grupo Três Irmãos;Grupo;Centro-Oeste Paulista
+23;F0023;Sítio São Pedro Velha;Produtor;Noroeste Paulista
+24;F0024;Grupo Santo Antônio;Grupo;Triângulo Mineiro
+25;F0025;Cooperativa Agrícola Vale Verde;Cooperativa;Alta Mogiana
+26;F0026;Grupo Santa Clara;Grupo;Sul de Goiás
+27;F0027;Cooperativa Agrícola Cachoeira;Cooperativa;Sul de Goiás
+28;F0028;Sítio Cerrado Vivo Sul;Produtor;Triângulo Mineiro
+29;F0029;Agropecuária Boa Vista;Produtor;Alta Mogiana
+30;F0030;Fazenda São Pedro;Produtor;Noroeste Paulista
+31;F0031;Cooperativa Agrícola Mata Velha;Cooperativa;Sul de Goiás
+32;F0032;Agropecuária Pinheiros Sul;Produtor;Triângulo Mineiro
+33;F0033;Fazenda Pinheiros Velha;Produtor;Alta Mogiana
+34;F0034;Sítio Ouro Verde;Produtor;Alta Mogiana
+35;F0035;Agropecuária Santo Antônio;Produtor;Centro-Oeste Paulista
+36;F0036;Agropecuária Boa Vista II;Produtor;Alta Mogiana
+37;F0037;Grupo Santo Antônio Nova;Grupo;Triângulo Mineiro
+38;F0038;Sítio Vale Verde;Produtor;Sul de Goiás
+39;F0039;Agropecuária Coqueiros;Produtor;Noroeste Paulista
+40;F0040;Cooperativa Agrícola Rio Claro;Cooperativa;Alta Mogiana
+41;F0041;Grupo Ouro Verde;Grupo;Alta Mogiana
+42;F0042;Cooperativa Agrícola Monte Alegre;Cooperativa;Alta Mogiana
+43;F0043;Grupo Campo Belo;Grupo;Alta Mogiana
+44;F0044;Agropecuária Bandeirantes;Produtor;Noroeste Paulista
+45;F0045;Fazenda Serra Azul;Produtor;Noroeste Paulista
+46;F0046;Cooperativa Agrícola Santa Helena Sul;Cooperativa;Alta Mogiana
+47;F0047;Sítio Ouro Verde I;Produtor;Sudoeste de Goiás
+48;F0048;Sítio Horizonte;Produtor;Triângulo Mineiro
+49;F0049;Agropecuária Bom Jardim;Produtor;Sudoeste de Goiás
+50;F0050;Sítio Cerrado Vivo II;Produtor;Noroeste Paulista
+51;F0051;Cooperativa Agrícola Ipê Amarelo;Cooperativa;Alta Mogiana
+52;F0052;Sítio São Pedro Nova;Produtor;Noroeste Paulista
+53;F0053;Cooperativa Agrícola Primavera;Cooperativa;Noroeste Paulista
+54;F0054;Grupo Lagoa Seca;Grupo;Alta Mogiana
+55;F0055;Agropecuária Mata Velha I;Produtor;Sul de Goiás
+56;F0056;Cooperativa Agrícola Cachoeira Norte;Cooperativa;Triângulo Mineiro
+57;F0057;Fazenda Lagoa Seca;Produtor;Triângulo Mineiro
+58;F0058;Cooperativa Agrícola Três Irmãos;Cooperativa;Noroeste Paulista
+59;F0059;Cooperativa Agrícola Boa Vista;Cooperativa;Noroeste Paulista
+60;F0060;Fazenda Ouro Verde;Produtor;Alta Mogiana
+61;F0061;Cooperativa Agrícola Bela Aurora;Cooperativa;Triângulo Mineiro
+62;F0062;Cooperativa Agrícola Santa Rita II;Cooperativa;Triângulo Mineiro
+63;F0063;Grupo São Pedro;Grupo;Triângulo Mineiro
+64;F0064;Sítio Santo Antônio;Produtor;Sudoeste de Goiás
+65;F0065;Fazenda Rio Claro;Produtor;Sul de Goiás
+66;F0066;Agropecuária São João;Produtor;Noroeste Paulista
+67;F0067;Fazenda Cachoeira;Produtor;Sudoeste de Goiás
+68;F0068;Agropecuária Santa Rita;Produtor;Noroeste Paulista
+69;F0069;Agropecuária Sol Nascente;Produtor;Noroeste Paulista
+70;F0070;Sítio Estrela;Produtor;Noroeste Paulista
+71;F0071;Agropecuária Santo Antônio I;Produtor;Centro-Oeste Paulista
+72;F0072;Fazenda Santa Luzia;Produtor;Alta Mogiana
+73;F0073;Sítio Pinheiros;Produtor;Alta Mogiana
+74;F0074;Cooperativa Agrícola Cachoeira I;Cooperativa;Triângulo Mineiro
+75;F0075;Sítio Ipê Amarelo;Produtor;Sul de Goiás
+76;F0076;Cooperativa Agrícola Água Limpa;Cooperativa;Centro-Oeste Paulista
+77;F0077;Fazenda Coqueiros;Produtor;Alta Mogiana
+78;F0078;Sítio Vale Verde Sul;Produtor;Noroeste Paulista
+79;F0079;Sítio Duas Pontes;Produtor;Sul de Goiás
+80;F0080;Grupo Água Limpa;Grupo;Sudoeste de Goiás
+81;F0081;Cooperativa Agrícola Santo Antônio;Cooperativa;Triângulo Mineiro
+82;F0082;Grupo Bom Jardim;Grupo;Sudoeste de Goiás
+83;F0083;Fazenda Santa Rita;Produtor;Alta Mogiana
+84;F0084;Grupo Santa Rita;Grupo;Sul de Goiás
+85;F0085;Grupo Duas Pontes Nova;Grupo;Centro-Oeste Paulista
+86;F0086;Fazenda Campo Belo;Produtor;Noroeste Paulista
+87;F0087;Fazenda Aroeira Norte;Produtor;Noroeste Paulista
+88;F0088;Cooperativa Agrícola Santa Luzia;Cooperativa;Sul de Goiás
+89;F0089;Fazenda Serra Azul II;Produtor;Sudoeste de Goiás
+90;F0090;Grupo Esperança;Grupo;Alta Mogiana
+91;F0091;Fazenda Duas Pontes;Produtor;Alta Mogiana
+92;F0092;Cooperativa Agrícola Recanto;Cooperativa;Triângulo Mineiro
+93;F0093;Cooperativa Agrícola Mata Velha I;Cooperativa;Noroeste Paulista
+94;F0094;Fazenda Coqueiros Velha;Produtor;Sudoeste de Goiás
+95;F0095;Agropecuária Campo Belo;Produtor;Alta Mogiana
+96;F0096;Grupo Santa Clara II;Grupo;Alta Mogiana
+97;F0097;Sítio Santa Clara;Produtor;Alta Mogiana
+98;F0098;Cooperativa Agrícola Santo Antônio Sul;Cooperativa;Triângulo Mineiro
+99;F0099;Cooperativa Agrícola Lagoa Seca;Cooperativa;Alta Mogiana
+100;F0100;Grupo Sol Nascente;Grupo;Sul de Goiás
+101;F0101;Fazenda Ipê Amarelo Velha;Produtor;Alta Mogiana
+102;F0102;Fazenda Pinheiros Nova;Produtor;Noroeste Paulista
+103;F0103;Grupo Água Limpa I;Grupo;Triângulo Mineiro
+104;F0104;Agropecuária Água Limpa;Produtor;Noroeste Paulista
+105;F0105;Grupo Pedra Branca;Grupo;Alta Mogiana
+106;F0106;Grupo Lagoa Seca Sul;Grupo;Triângulo Mineiro
+107;F0107;Grupo Bela Aurora;Grupo;Alta Mogiana
+108;F0108;Cooperativa Agrícola Rio Claro I;Cooperativa;Triângulo Mineiro
+109;F0109;Grupo Recanto;Grupo;Sul de Goiás
+110;F0110;Grupo São Pedro Norte;Grupo;Sul de Goiás
+111;F0111;Grupo Santa Clara Sul;Grupo;Centro-Oeste Paulista
+112;F0112;Fazenda Bom Jardim;Produtor;Alta Mogiana
+113;F0113;Cooperativa Agrícola Ouro Verde;Cooperativa;Triângulo Mineiro
+114;F0114;Agropecuária Capim Dourado;Produtor;Triângulo Mineiro
+115;F0115;Grupo Santo Antônio Norte;Grupo;Noroeste Paulista
+116;F0116;Grupo São Pedro I;Grupo;Centro-Oeste Paulista
+117;F0117;Cooperativa Agrícola Bom Jardim;Cooperativa;Alta Mogiana
+118;F0118;Agropecuária Bom Jardim II;Produtor;Sul de Goiás
+119;F0119;Grupo Sol Nascente Nova;Grupo;Alta Mogiana
+120;F0120;Fazenda Paraíso Sul;Produtor;Alta Mogiana
+121;F0121;Fazenda Sol Nascente;Produtor;Noroeste Paulista
+122;F0122;Grupo Vale Verde;Grupo;Sudoeste de Goiás
+123;F0123;Agropecuária Santa Rita I;Produtor;Alta Mogiana
+124;F0124;Sítio Monte Alegre;Produtor;Alta Mogiana
+125;F0125;Fazenda Jatobá;Produtor;Alta Mogiana
+126;F0126;Fazenda Duas Pontes I;Produtor;Triângulo Mineiro
+127;F0127;Agropecuária Bandeirantes Velha;Produtor;Noroeste Paulista
+128;F0128;Sítio Coqueiros;Produtor;Centro-Oeste Paulista
+129;F0129;Agropecuária Cerrado Vivo;Produtor;Alta Mogiana
+130;F0130;Grupo Paraíso;Grupo;Alta Mogiana
+131;F0131;Fazenda Esperança;Produtor;Triângulo Mineiro
+132;F0132;Sítio Capim Dourado;Produtor;Alta Mogiana
+133;F0133;Agropecuária Santa Clara;Produtor;Triângulo Mineiro
+134;F0134;Sítio Santa Luzia;Produtor;Centro-Oeste Paulista
+135;F0135;Fazenda Bela Aurora;Produtor;Sudoeste de Goiás
+136;F0136;Fazenda Bandeirantes I;Produtor;Centro-Oeste Paulista
+137;F0137;Grupo Horizonte II;Grupo;Sul de Goiás
+138;F0138;Grupo Lagoa Seca Velha;Grupo;Triângulo Mineiro
+139;F0139;Cooperativa Agrícola Cerrado Vivo;Cooperativa;Alta Mogiana
+140;F0140;Grupo Estrela;Grupo;Triângulo Mineiro
+141;F0141;Grupo Mata Velha;Grupo;Noroeste Paulista
+142;F0142;Cooperativa Agrícola Serra Azul;Cooperativa;Triângulo Mineiro
+143;F0143;Sítio Bom Jardim;Produtor;Alta Mogiana
+144;F0144;Agropecuária Paraíso;Produtor;Noroeste Paulista
+145;F0145;Cooperativa Agrícola Esperança;Cooperativa;Noroeste Paulista
+146;F0146;Agropecuária Palmeiras Velha;Produtor;Noroeste Paulista
+147;F0147;Sítio Recanto;Produtor;Noroeste Paulista
+148;F0148;Cooperativa Agrícola Cerrado Vivo Nova;Cooperativa;Centro-Oeste Paulista
+149;F0149;Grupo Paraíso Velha;Grupo;Triângulo Mineiro
+150;F0150;Sítio Pedra Branca;Produtor;Triângulo Mineiro
+151;F0151;Grupo Primavera;Grupo;Triângulo Mineiro
+152;F0152;Grupo Aroeira Sul;Grupo;Noroeste Paulista
+153;F0153;Fazenda Ipê Amarelo I;Produtor;Triângulo Mineiro
+154;F0154;Sítio Campo Belo;Produtor;Alta Mogiana
+155;F0155;Grupo Pedra Branca Sul;Grupo;Alta Mogiana
+156;F0156;Cooperativa Agrícola Ipê Amarelo Sul;Cooperativa;Sudoeste de Goiás
+157;F0157;Fazenda Jatobá I;Produtor;Sudoeste de Goiás
+158;F0158;Fazenda Sol Nascente Norte;Produtor;Sul de Goiás
+159;F0159;Agropecuária Coqueiros Velha;Produtor;Sudoeste de Goiás
+160;F0160;Fazenda Bom Jardim Velha;Produtor;Alta Mogiana

@@ -1,0 +1,16 @@
+id_cliente,cliente,segmento,produto
+1,Nutri Ração Ltda,Fábrica de ração,Farelo
+2,Rações Campo Forte,Fábrica de ração,Farelo
+3,Avícola Planalto,Integradora avícola,Farelo
+4,Granja Sete Lagoas,Integradora suína,Farelo
+5,Coop. Leiteira Vale do Rio,Cooperativa,Farelo
+6,Trading Atlântico Grãos,Trading (exportação),Farelo
+7,Exporta Sul Commodities,Trading (exportação),Farelo
+8,Pecuária Três Marias,Confinamento,Farelo
+9,Rações Bom Trato,Fábrica de ração,Farelo
+10,Avícola Serra Dourada,Integradora avícola,Farelo
+11,Refinadora Ouro Fino,Refinaria de óleo,Óleo
+12,BioEnergia Cerrado,Usina de biodiesel,Óleo
+13,Óleos Vegetais Paulista,Refinaria de óleo,Óleo
+14,Trading Atlântico Grãos,Trading (exportação),Óleo
+15,Biodiesel Rio Grande,Usina de biodiesel,Óleo

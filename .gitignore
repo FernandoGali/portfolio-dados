@@ -1,0 +1,22 @@
+# Gabarito dos exercícios (gerado pelo sujar_dados.py)
+_gabarito/
+
+# Dados reais e documentos de ex-empregador: guarde fora do repositório ou nesta pasta
+confidencial/
+
+# Credenciais
+.env
+*.env
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Excel e Office (arquivos temporários)
+~$*
+
+# Sistema
+.DS_Store
+Thumbs.db

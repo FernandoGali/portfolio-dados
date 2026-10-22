@@ -1,0 +1,1261 @@
+id_parada;data;hora_inicio;turno;motivo;equipamento;duracao;descricao
+PA000001;03/01/2022;10:23;Turno I;Falha mecânica;RSC-01;90;Quebra de eixo RSC-01
+PA000002;04-01-22;03:46;III;Manutenção preventiva;;843;Manutenção preventiva programada
+PA000003;07/01/2022;19:54;Turno II;falta de energia (externa);SUB01;106;Queda de energia da concessionária
+PA000004;10-01-22;13:29;I;Falta de energia (externa);SUB01;291;Queda de energia da concessionária
+PA000005;12/01/2022;02:40;III;Processo  ;EXP-01;31;Excesso de umidade na massa EXP-01
+PA000006;14/01/2022;06:12;III;Falta de energia (externa);SUB-01;0h18;Queda de energia da concessionária
+PA000007;2022-01-16;14:23;I; Processo;CND01;20;Excesso de umidade na massa CND-01
+PA000008;19/01/2022;03:15;III;Falha mecânica;qbr 01;3h43;Troca de rolamento QBR-01
+PA000009;28/01/2022;14:34;I;Falha de automação / instrumentação;EXT-01;00:26;Falha de comunicação CLP EXT-01
+PA000010;29/01/2022;00:18;III;Processo  ;EXP-01;52;Excesso de umidade na massa EXP-01
+PA000011;29-01-22;20:12;II;Processo;CND-01;3;Excesso de umidade na massa CND-01
+PA000012;02/02/2022;17:56;2;Falha mecânica;QBR01;24;Troca de rolamento QBR-01
+PA000013;09/02/2022;16:58;II;Outras paradas;DST-01;41;Limpeza emergencial DST-01
+PA000014;10/02/2022;20:58;II;Falha mecânica;EXT-01;86;Quebra de corrente EXT-01
+PA000015;10/02/2022;07:00;I;Falha de automação / instrumentação;DT-01;0h17;Leitura incorreta de temperatura DT-01
+PA000016;11/02/2022;13:54;I;Processo;CND1;9;Excesso de umidade na massa CND-01
+PA000017;11/02/2022;06:21;III;Falha mecânica;EXT-01;60;Quebra de corrente EXT-01
+PA000018;14/02/2022;09:25;1;manutenção preventiva;;688;Manutenção preventiva programada
+PA000019;14/02/2022;08:35;Turno I;Falha mecânica;LAM-01;155;Desalinhamento de rolos LAM-01
+PA000020;15-02-22;00:38;III;Falha mecânica;CND1;33;Vazamento de vapor CND-01
+PA000021;2022-02-15;18:46;II; Falha de automação / instrumentação;EXT-01;0h40;Falha de comunicação CLP EXT-01
+PA000022;16/02/2022;17:21;II;Falha de automação / instrumentação;EXT-01;66;Desarme sensor de nível EXT-01
+PA000023;2022-02-19;08:25;I;processo;CND-01;30;Ajuste de temperatura CND-01
+PA000024;23/02/2022;20:05;2;Falha elétrica;EXT-01;60;Falha no inversor EXT-01
+PA000025;26/02/2022;05:58;III;Falha mecânica;EXP-01;289;Quebra de eixo EXP-01
+PA000026;01/03/2022;08:02;I;Falta de energia (externa);SUB-01;86;Queda de energia da concessionária
+PA000027;02/03/2022;14:57;I;Falha mecânica;DT-01;1h00;Vazamento de vapor DT-01
+PA000028;08/03/2022;04:22;III;Falha mecânica;LAM-01;00:32;Desalinhamento de rolos LAM-01
+PA000029;10-03-22;15:37;II;Falha mecânica;LAM-02;01:34;Troca de rolamento LAM-02
+PA000030;10/03/2022;05:54;III;Falha mecânica;LAM-01;74;Troca de rolamento LAM-01
+PA000031;11/03/2022;20:48;II;Falha mecânica;LAM02;76;Desalinhamento de rolos LAM-02
+PA000032;12/03/2022;00:10;III;Processo;EXP-01;90;Excesso de umidade na massa EXP-01
+PA000033;13/03/2022;16:54;II;Falha mecânica;LAM1;120;Desalinhamento de rolos LAM-01
+PA000034;15/03/2022;09:29;Turno I;Manutenção preventiva;;09:12;Manutenção preventiva programada
+PA000035;20/03/2022;23:16;Turno III;Processo;DT-01;35;Ajuste de temperatura DT-01
+PA000036;22/03/2022;02:57;III; Falha mecânica;EXT-01;62;Quebra de corrente EXT-01
+PA000037;2022-03-23;06:14;III;Falha mecânica;LAM-01;921;Troca de rolamento LAM-01
+PA000038;26/03/2022;18:31;II;Falha mecânica;EXT-01;24;Quebra de corrente EXT-01
+PA000039;28/03/2022;13:48;I;Processo;DT-01;20;Ajuste de temperatura DT-01
+PA000040;04/04/2022;18:41;II;Falha de automação / instrumentação  ;EXT-01;25;Desarme sensor de nível EXT-01
+PA000041;08/04/2022;12:10;1;Manutenção preventiva;;567;Manutenção preventiva programada
+PA000042;15/04/2022;02:58;III;Processo;DT-02;19;Embuchamento válvula rotativa DT-02
+PA000043;22/04/2022;04:52;III;Falha mecânica;EXP-01;51;Quebra de eixo EXP-01
+PA000044;22/04/2022;16:47;II;Falha de automação / instrumentação;DST-01;50;Falha de comunicação CLP DST-01
+PA000045;05/05/2022;01:07;III;Falha elétrica  ;EXP-01;21;Queima de motor EXP-01
+PA000046;06/05/2022;11:40;I;FALHA ELÉTRICA;RSC1;21;Falha no inversor RSC-01
+PA000047;07/05/2022;22:50;II;Falta de energia (externa);sub 01;00:39;Queda de energia da concessionária
+PA000048;08/05/2022;11:56;I;Falha mecânica;RSC-01;80;Quebra de corrente RSC-01
+PA000049;2022-05-09;05:12;III;Falha elétrica;lam 01;3h12;Queima de motor LAM-01
+PA000050;11/05/2022;17:23;II;Falha de automacao / instrumentacao;DT-01;50;Leitura incorreta de temperatura DT-01
+PA000051;14/05/2022;19:45;II;Processo;RSC-01;20;Entupimento de rosca RSC-01
+PA000052;14/05/2022;15:24;II;Processo;EXP-01;0h23;Excesso de umidade na massa EXP-01
+PA000053;18/05/2022;06:54;III;Falha mecânica;EXT-01;26;Quebra de corrente EXT-01
+PA000054;18/05/2022;16:58;II;FALHA MECÂNICA;lam 02;250;Desalinhamento de rolos LAM-02
+PA000055;19-05-22;07:55;I;Processo;EXT-01;7;Embuchamento válvula rotativa EXT-01
+PA000056;19/05/2022;01:52;III;Falha mecânica;lam 01;16;Desalinhamento de rolos LAM-01
+PA000057;22/05/2022;05:36;Turno III;Falha de automação / instrumentação;DT-01;22;Leitura incorreta de temperatura DT-01
+PA000058;23/05/2022;04:56;III;Processo;EXP-01;14;Excesso de umidade na massa EXP-01
+PA000059;2022-05-23;16:01;II;Processo;EXT-01;9;Embuchamento válvula rotativa EXT-01
+PA000060;26/05/2022;18:29;II;Outras paradas;EXT1;63;Parada por inspeção de segurança
+PA000061;27/05/2022;11:42;Turno I; Manutenção preventiva;;501 min;Manutenção preventiva programada
+PA000062;29-05-22;04:56;III;Falha mecânica;lam 02;109 min;Desalinhamento de rolos LAM-02
+PA000063;30/05/2022;09:32;I;Falha mecânica;DT-01;35;Vazamento de vapor DT-01
+PA000064;2022-06-01;08:01;I;Processo;RSC1;22;Entupimento de rosca RSC-01
+PA000065;2022-06-03;02:26;III;Falha elétrica;RSC-01;132;Falha no inversor RSC-01
+PA000066;04/06/2022;05:15;III;Processo;RSC01;9;Entupimento de rosca RSC-01
+PA000067;07/06/2022;07:18;I;Manutenção preventiva;;592;Manutenção preventiva programada
+PA000068;08/06/2022;03:05;3;Processo;EXT-01;15;Embuchamento válvula rotativa EXT-01
+PA000069;2022-06-10;11:24;I; Falha de automação / instrumentação;EXT-01;71;Desarme sensor de nível EXT-01
+PA000070;16/06/2022;04:21;III;Processo;cnd 01;80;Ajuste de temperatura CND-01
+PA000071;16/06/2022;05:00;III;Processo;DT-01;28;Embuchamento válvula rotativa DT-01
+PA000072;18/06/2022;16:57;2;Processo;DT-01;30;Ajuste de temperatura DT-01
+PA000073;20/06/2022;18:40;II;Falha elétrica;RSC-01;57;Queima de motor RSC-01
+PA000074;23/06/2022;04:54;3;Falha mecânica;DT01;00:14;Vazamento de vapor DT-01
+PA000075;28/06/2022;07:00;I;Processo;DT-02;00:40;Ajuste de temperatura DT-02
+PA000076;2022-06-30;06:08;III;Processo;DT-02;7 min;Embuchamento válvula rotativa DT-02
+PA000077;04/07/2022;02:20;III;Falha de automação / instrumentação;DT02;0h41;Desarme sensor de nível DT-02
+PA000078;2022-07-06;07:03;I;processo;DT-02;13;Embuchamento válvula rotativa DT-02
+PA000079;09-07-22;07:48;I;Processo;EXT-01;19;Entupimento de rosca EXT-01
+PA000080;09/07/2022;04:23;III;Falha elétrica;EXT-01;35;Desarme de disjuntor EXT-01
+PA000081;11/07/2022;11:53;I;Manutenção preventiva  ;;715;Manutenção preventiva programada
+PA000082;16/07/2022;03:28;III;Outras paradas;EXT-01;15;Parada por inspeção de segurança
+PA000083;18/07/2022;13:02;I;Falha mecânica;CND-01;93;Vazamento de vapor CND-01
+PA000084;21/07/2022;05:47;III;Processo  ;RSC-01;4;Entupimento de rosca RSC-01
+PA000085;23/07/2022;17:36;II;Processo;EXT-01;60;Entupimento de rosca EXT-01
+PA000086;24-07-22;17:32;II;Falha mecânica;LAM-01;42;Desalinhamento de rolos LAM-01
+PA000087;26/07/2022;15:09;II;Falha mecânica;LAM-02;130;Desalinhamento de rolos LAM-02
+PA000088;06/08/2022;12:29;Turno I;Falha mecânica;LAM2;57;Troca de rolamento LAM-02
+PA000089;06/08/2022;12:33;I;Falha mecânica;QBR-01;1h35;Troca de rolamento QBR-01
+PA000090;12/08/2022;09:09;I;Falha mecânica;LAM-02;93;Troca de rolamento LAM-02
+PA000090;12/08/2022;09:09;I;Falha mecânica;LAM-02;93;Troca de rolamento LAM-02
+PA000091;15/08/2022;09:05;I;Falha mecânica;LAM-01;115;Desalinhamento de rolos LAM-01
+PA000092;20/08/2022;09:02;I;Falha mecânica;LAM1;1h47;Desalinhamento de rolos LAM-01
+PA000093;23/08/2022;05:46;III;Manutenção preventiva;;761;Manutenção preventiva programada
+PA000094;24/08/2022;19:28;II;Outras paradas;EXT-01;154;Parada por inspeção de segurança
+PA000095;2022-08-26;08:16;I;Falha mecânica;EXP-01;48;Quebra de eixo EXP-01
+PA000096;01/09/2022;04:10;III;Falha mecânica;DSC-01;199;Quebra de eixo DSC-01
+PA000097;02/09/2022;22:47;II;Falha mecânica  ;CND-01;38;Vazamento de vapor CND-01
+PA000098;2022-09-04;11:00;I;Falha de automacao / instrumentacao;DT-01;10;Leitura incorreta de temperatura DT-01
+PA000099;06/09/2022;10:04;I;Falha mecânica;EXP-01;70;Quebra de eixo EXP-01
+PA000100;08/09/2022;18:49;II;Falha mecânica;EXT-01;276;Quebra de corrente EXT-01
+PA000101;15/09/2022;08:09;I;Manutenção preventiva;;520;Manutenção preventiva programada
+PA000102;15/09/2022;18:30;II;Falha mecânica  ;LAM-02;14;Troca de rolamento LAM-02
+PA000103;23/09/2022;10:22;I;Processo;DT-02;73;Embuchamento válvula rotativa DT-02
+PA000104;24/09/2022;05:16;3;Falha mecânica;QBR-01;237;Troca de rolamento QBR-01
+PA000105;24/09/2022;15:08;II;Falha de automação / instrumentação;EXT-01;32;Falha de comunicação CLP EXT-01
+PA000106;27/09/2022;10:27;Turno I;Falha elétrica;RSC-01;46;Falha no inversor RSC-01
+PA000107;30/09/2022;11:25;1;Falha mecânica;lam 02;3h15;Troca de rolamento LAM-02
+PA000108;30/09/2022;19:32;II;Falha elétrica;EXP-01;84;Queima de motor EXP-01
+PA000109;01/10/2022;01:23;Turno III;Falha mecânica;LAM-01;44;Troca de rolamento LAM-01
+PA000110;01-10-22;09:23;I;Falha mecânica;LAM-01;31;Desalinhamento de rolos LAM-01
+PA000111;2022-10-03;02:37;III;Processo;EXT-01;25;Entupimento de rosca EXT-01
+PA000112;04/10/2022;02:04;III;PROCESSO;DT-01;0h37;Embuchamento válvula rotativa DT-01
+PA000113;04-10-22;11:25;I;Falha mecânica;EXT-01;58;Quebra de corrente EXT-01
+PA000114;06/10/2022;22:30;II;Processo;EXP-01;1h05;Excesso de umidade na massa EXP-01
+PA000115;07/10/2022;10:51;I;Falha mecânica;DT-02;130;Vazamento de vapor DT-02
+PA000116;16/10/2022;01:06;III;Falha mecânica;LAM-02;22;Desalinhamento de rolos LAM-02
+PA000117;16/10/2022;07:55;I;FALHA ELÉTRICA;RSC-01;02:43;Queima de motor RSC-01
+PA000118;21/10/2022;09:02;I;Falha mecanica;LAM-01;52;Desalinhamento de rolos LAM-01
+PA000119;22/10/2022;06:15;III;Falha mecânica;DT-02;106;Vazamento de vapor DT-02
+PA000120;26/10/2022;11:22;I; Manutenção preventiva;;597;Manutenção preventiva programada
+PA000121;2022-11-01;07:15;I;Processo;cnd 01;11;Ajuste de temperatura CND-01
+PA000122;02/11/2022;19:03;II;Falha elétrica;RSC01;28;Queima de motor RSC-01
+PA000123;02/11/2022;13:36;I;Falha de automação / instrumentação;DT-02;0h17;Desarme sensor de nível DT-02
+PA000124;03/11/2022;07:36;I;Falta de matéria-prima;;7h22;Falta de MP
+PA000125;04/11/2022;09:34;I;Falta de matéria-prima;;740;Falta de MP
+PA000126;05/11/2022;02:00;III;Falta de matéria-prima;;1147;Falta de MP
+PA000127;06/11/2022;09:29;I;Falha mecânica;CND-01;118;Vazamento de vapor CND-01
+PA000128;2022-11-06;04:29;3;Falta de matéria-prima;;1134;Falta de MP
+PA000129;07/11/2022;05:34;III;Falta de matéria-prima;;1024 min;Falta de MP
+PA000130;08/11/2022;09:32;I; Processo;EXT-01;26;Entupimento de rosca EXT-01
+PA000131;08/11/2022;15:42;II;Falha mecânica;LAM-01;33;Desalinhamento de rolos LAM-01
+PA000132;2022-11-08;11:31;I;falta de matéria-prima;;739;Falta de MP
+PA000133;09/11/2022;07:14;I;Falha de automação / instrumentação;DT-02;17;Leitura incorreta de temperatura DT-02
+PA000134;09/11/2022;04:54;III;FALTA DE MATÉRIA-PRIMA;;915;Falta de MP
+PA000135;10/11/2022;22:36;II;Falha mecânica;LAM-02;1h18;Desalinhamento de rolos LAM-02
+PA000136;10/11/2022;09:22;I;Falta de matéria-prima  ;;771;Falta de MP
+PA000137;11/11/2022;03:39;III;Falta de matéria-prima;;895;Falta de MP
+PA000138;12/11/2022;06:51;III;Falta de matéria-prima;;934;Falta de MP
+PA000139;13/11/2022;00:18;III;Falta de matéria-prima;;1135;Falta de MP
+PA000140;14/11/2022;01:20;III;Falta de matéria-prima;;1205;Falta de MP
+PA000141;15/11/2022;00:30;III;Falta de matéria-prima;;1035;Falta de MP
+PA000142;16/11/2022;04:27;III;Falta de matéria-prima;;1155;Falta de MP
+PA000143;17/11/2022;06:11;III;Falta de matéria-prima  ;;1050;Falta de MP
+PA000144;18/11/2022;01:21;3;Falha mecânica;LAM-01;102;Troca de rolamento LAM-01
+PA000145;18-11-22;05:58;III;Falta de matéria-prima;;13h21;Falta de MP
+PA000146;19/11/2022;00:10;III;falta de matéria-prima;;1134;Falta de MP
+PA000147;20/11/2022;00:10;III;Falta de matéria-prima;;1347;Falta de MP
+PA000148;21/11/2022;01:54;III;Falta de matéria-prima;;1197 min;Falta de MP
+PA000149;22/11/2022;05:14;III;Falta de matéria-prima;;17h44;Falta de MP
+PA000150;2022-11-23;03:17;III;Falta de matéria-prima;;18:59;Falta de MP
+PA000151;24/11/2022;01:15;III;Falha mecânica;RSC-01;32;Quebra de corrente RSC-01
+PA000152;24/11/2022;00:12;III;Falta de matéria-prima;;1060;Falta de MP
+PA000153;25/11/2022;06:40;III;Manutenção preventiva;;786;Manutenção preventiva programada
+PA000154;25/11/2022;14:44;I; Outras paradas;DST01;208;Limpeza emergencial DST-01
+PA000155;25/11/2022;03:18;III;Falta de matéria-prima;;54;Falta de MP
+PA000156;26/11/2022;16:18;II;Falha de automação / instrumentação;EXT-01;36;Desarme sensor de nível EXT-01
+PA000157;26/11/2022;00:05;III;Falta de materia-prima;;1136;Falta de MP
+PA000158;27/11/2022;22:52;II;Outras paradas;EXT-01;67;Parada por inspeção de segurança
+PA000159;27/11/2022;03:01;III;Falta de matéria-prima;;1139;Falta de MP
+PA000160;28/11/2022;03:04;III;Falta de matéria-prima;;1183;Falta de MP
+PA000161;29/11/2022;03:04;III;Falta de matéria-prima;;1141;Falta de MP
+PA000162;2022-11-30;06:49;III;Falha de automação / instrumentação;EXT-01;58;Desarme sensor de nível EXT-01
+PA000163;2022-11-30;06:05;3;Falta de matéria-prima;;16h31;Falta de MP
+PA000164;01/12/2022;06:20;III;Falta de matéria-prima;;977;Falta de MP
+PA000165;02/12/2022;06:07;III;Falta de matéria-prima;;17:35;Falta de MP
+PA000166;03/12/2022;00:28;III;Falta de matéria-prima;;1111;Falta de MP
+PA000167;04/12/2022;22:18;II; Falha elétrica;EXT-01;37;Desarme de disjuntor EXT-01
+PA000168;04/12/2022;01:14;III;Falta de matéria-prima;;1152;Falta de MP
+PA000169;05/12/2022;00:03;III;Falta de matéria-prima;;20h55;Falta de MP
+PA000170;06/12/2022;00:04;3;Falta de matéria-prima;;1202;Falta de MP
+PA000171;07/12/2022;05:07;III;Manutenção preventiva;;792;Manutenção preventiva programada
+PA000172;07/12/2022;00:01;3;Falta de matéria-prima;;452;Falta de MP
+PA000173;2022-12-08;06:13;III;Falta de matéria-prima;;776;Falta de MP
+PA000174;09/12/2022;14:24;I;Falta de matéria-prima;;497;Falta de MP
+PA000175;10/12/2022;05:51;III;Processo  ;cnd 01;133;Excesso de umidade na massa CND-01
+PA000176;10/12/2022;05:52;III;Falta de matéria-prima;;745;Falta de MP
+PA000177;11-12-22;00:46;III;falta de matéria-prima;;1244 min;Falta de MP
+PA000178;12/12/2022;03:56;3;Falta de matéria-prima;;1145;Falta de MP
+PA000179;13/12/2022;00:56;III;Falta de matéria-prima;;1071;Falta de MP
+PA000180;14/12/2022;04:15;III;Falta de matéria-prima;;1185;Falta de MP
+PA000181;15/12/2022;04:22;III;falta de matéria-prima;;1163;Falta de MP
+PA000182;16/12/2022;05:31;III;Falta de matéria-prima;;935;Falta de MP
+PA000183;17/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000184;18/12/2022;00:00;III;Entressafra;;1440 min;Parada programada de entressafra
+PA000185;19/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000186;20/12/2022;00:00;III;Entressafra;;1440 min;Parada programada de entressafra
+PA000187;2022-12-21;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000188;22/12/2022;00:00;Turno III;Entressafra  ;;1440;Parada programada de entressafra
+PA000189;2022-12-23;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000190;2022-12-24;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000191;25/12/2022;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000192;26/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000193;27/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000194;28/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000195;29/12/2022;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000196;30/12/2022;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000197;2022-12-31;00:00;3;entressafra;;1440;Parada programada de entressafra
+PA000198;01/01/2023;00:00;3;Entressafra;;24h00;Parada programada de entressafra
+PA000199;02/01/2023;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000200;03-01-23;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000201;04/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000202;2023-01-05;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000203;06/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000204;07/01/2023;00:00;III;entressafra;;1440;Parada programada de entressafra
+PA000205;08/01/2023;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000206;09/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000207;2023-01-10;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000208;11/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000209;12/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000210;13/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000211;2023-01-14;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000212;15/01/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000213;16/01/2023;06:37;III;Falha mecanica;RSC-01;67;Quebra de corrente RSC-01
+PA000214;2023-01-17;15:30;II;Falha mecânica;LAM-02;250;Troca de rolamento LAM-02
+PA000215;18/01/2023;16:34;2;Falha de automacao / instrumentacao;CND-01;28;Leitura incorreta de temperatura CND-01
+PA000216;18/01/2023;11:11;I;FALHA DE AUTOMAÇÃO / INSTRUMENTAÇÃO;EXT-01;34;Falha de comunicação CLP EXT-01
+PA000217;2023-01-26;01:55;III;Manutencao preventiva;;846;Manutenção preventiva programada
+PA000218;27/01/2023;11:04;I;Processo  ;EXT-01;44;Embuchamento válvula rotativa EXT-01
+PA000219;28/01/2023;17:42;II;Processo;DT-02;5;Embuchamento válvula rotativa DT-02
+PA000220;30/01/2023;11:23;Turno I;Falha mecânica;RSC-01;83;Quebra de eixo RSC-01
+PA000221;07/02/2023;13:57;Turno I;Falha mecânica;EXT-01;513;Quebra de corrente EXT-01
+PA000222;09/02/2023;13:25;I;Falha mecânica;QBR-01;29;Troca de rolamento QBR-01
+PA000223;11/02/2023;03:40;III;Falha mecânica;QBR-01;52;Troca de rolamento QBR-01
+PA000224;17/02/2023;09:05;Turno I;Processo;DT-01;34;Embuchamento válvula rotativa DT-01
+PA000225;18/02/2023;13:36;1;Falta de energia (externa);SUB-01;12;Queda de energia da concessionária
+PA000226;21-02-23;14:11;I;Manutenção preventiva;;508;Manutenção preventiva programada
+PA000227;22/02/2023;11:04;1;Processo;CND-01;01:02;Ajuste de temperatura CND-01
+PA000228;22/02/2023;02:09;III;PROCESSO;DT-02;8;Ajuste de temperatura DT-02
+PA000229;2023-02-27;21:57;2;Processo;CND-01;0h28;Excesso de umidade na massa CND-01
+PA000230;06/03/2023;08:25;I;Processo;CND-01;9;Ajuste de temperatura CND-01
+PA000231;06/03/2023;08:40;I;Falha mecânica;DSC-01;0h45;Quebra de eixo DSC-01
+PA000232;12/03/2023;14:19;I;Falha mecânica;RSC-01;00:25;Quebra de eixo RSC-01
+PA000233;13/03/2023;00:30;3;Manutenção preventiva;;739;Manutenção preventiva programada
+PA000234;14/03/2023;06:54;III;Falha mecânica;EXP-01;01:39;Quebra de eixo EXP-01
+PA000235;16/03/2023;10:27;I;Falha de automação / instrumentação;dt 01;75;Desarme sensor de nível DT-01
+PA000236;18/03/2023;11:31;I;Falha mecânica;LAM-01;104;Troca de rolamento LAM-01
+PA000237;18/03/2023;18:07;2;Falha de automação / instrumentação;CND-01;03:07;Leitura incorreta de temperatura CND-01
+PA000238;19/03/2023;17:37;II;Falha mecânica;LAM-01;25;Troca de rolamento LAM-01
+PA000239;19/03/2023;13:51;I;Falha elétrica;EXT-01;58;Falha no inversor EXT-01
+PA000240;19/03/2023;05:49;III;Falha de automação / instrumentação;DT01;58;Leitura incorreta de temperatura DT-01
+PA000241;24/03/2023;20:01;2;Falha de automação / instrumentação;DST1;58;Falha de comunicação CLP DST-01
+PA000242;25/03/2023;11:51;Turno I;Falha mecânica;DT-02;170;Vazamento de vapor DT-02
+PA000243;29/03/2023;18:34;II; Falha mecânica;LAM-02;54;Troca de rolamento LAM-02
+PA000244;06/04/2023;18:21;2;Processo;EXT-01;23;Embuchamento válvula rotativa EXT-01
+PA000245;08/04/2023;08:19;I;Falha mecânica;RSC-01;70 min;Quebra de corrente RSC-01
+PA000246;08-04-23;19:19;II;Falha de automação / instrumentação;DT-02;15;Leitura incorreta de temperatura DT-02
+PA000247;15/04/2023;01:42;III;Falha mecânica;LAM-01;50;Troca de rolamento LAM-01
+PA000248;16/04/2023;22:33;II;Processo;DT-02;40;Ajuste de temperatura DT-02
+PA000249;27/04/2023;00:06;Turno III;Manutenção preventiva;;642;Manutenção preventiva programada
+PA000250;01/05/2023;17:58;II; Falha elétrica;EXT-01;0h15;Desarme de disjuntor EXT-01
+PA000251;04/05/2023;01:11;III;Falha elétrica;EXT-01;227;Desarme de disjuntor EXT-01
+PA000252;05/05/2023;05:55;III;Falha mecânica;LAM-01;03:04;Desalinhamento de rolos LAM-01
+PA000253;07/05/2023;13:13;I;Falha mecânica;LAM01;93;Desalinhamento de rolos LAM-01
+PA000254;08/05/2023;23:28;III;FALHA ELÉTRICA;EXT1;17;Desarme de disjuntor EXT-01
+PA000255;09-05-23;20:28;II;Processo;EXT-01;5;Embuchamento válvula rotativa EXT-01
+PA000256;10/05/2023;04:30;III;Processo  ;EXT-01;18;Embuchamento válvula rotativa EXT-01
+PA000257;10/05/2023;14:37;I;Falha mecânica;QBR-01;113;Troca de rolamento QBR-01
+PA000258;11/05/2023;14:27;I;Falha mecânica;EXT-01;91;Quebra de corrente EXT-01
+PA000259;2023-05-21;18:30;II;falha de automação / instrumentação;DST-01;55;Falha de comunicação CLP DST-01
+PA000260;24/05/2023;20:12;II;Falha mecânica;DSC-01;47;Quebra de eixo DSC-01
+PA000261;26/05/2023;05:13;III;Manutenção preventiva;;712;Manutenção preventiva programada
+PA000262;26/05/2023;06:42;III;FALHA MECÂNICA;RSC-01;252;Quebra de eixo RSC-01
+PA000263;29/05/2023;18:15;II;Processo;DT-01;58;Ajuste de temperatura DT-01
+PA000264;30/05/2023;10:57;I;Falha mecânica;EXP-01;72;Quebra de eixo EXP-01
+PA000265;01/06/2023;03:24;III;Outras paradas;EXT-01;74;Parada por inspeção de segurança
+PA000266;06/06/2023;06:30;Turno III;Processo;RSC-01;6;Entupimento de rosca RSC-01
+PA000267;08/06/2023;10:48;I;Processo;dt 02;50;Embuchamento válvula rotativa DT-02
+PA000268;08/06/2023;16:22;II; Falha elétrica;RSC-01;32;Falha no inversor RSC-01
+PA000269;10/06/2023;17:10;II;Falha mecânica;CND-01;254;Vazamento de vapor CND-01
+PA000270;11-06-23;07:41;1;FALHA DE AUTOMAÇÃO / INSTRUMENTAÇÃO;EXT-01;23;Falha de comunicação CLP EXT-01
+PA000271;13/06/2023;08:09;I;Falha elétrica;EXT-01;3h05;Desarme de disjuntor EXT-01
+PA000272;15/06/2023;07:57;Turno I;Falha mecânica;RSC-01;68;Quebra de eixo RSC-01
+PA000273;16/06/2023;12:23;I;Falha mecânica;LAM-02;69;Desalinhamento de rolos LAM-02
+PA000273;16/06/2023;12:23;I;Falha mecânica;LAM-02;69;Desalinhamento de rolos LAM-02
+PA000274;18/06/2023;07:03;Turno I;falha mecânica;LAM-01;68;Desalinhamento de rolos LAM-01
+PA000275;19/06/2023;10:05;I;Processo;RSC-01;32;Entupimento de rosca RSC-01
+PA000276;22/06/2023;04:45;III; Manutenção preventiva;;849;Manutenção preventiva programada
+PA000277;24/06/2023;18:49;2; Falha mecânica;LAM01;231;Troca de rolamento LAM-01
+PA000278;27/06/2023;04:27;Turno III;Falha mecânica;DSC-01;152 min;Quebra de eixo DSC-01
+PA000279;30/06/2023;11:45;I;processo;DT-01;68;Embuchamento válvula rotativa DT-01
+PA000280;01/07/2023;01:30;III;Falha mecânica;RSC-01;53;Quebra de eixo RSC-01
+PA000281;10-07-23;11:24;I;Falha mecânica;LAM-02;0h19;Troca de rolamento LAM-02
+PA000282;11/07/2023;11:18;Turno I;Processo;EXT-01;12;Entupimento de rosca EXT-01
+PA000283;13/07/2023;14:46;I;Processo;EXP-01;14;Excesso de umidade na massa EXP-01
+PA000284;20/07/2023;18:34;II;Processo;RSC-01;107;Entupimento de rosca RSC-01
+PA000285;23/07/2023;15:02;II;Falha de automação / instrumentação;DT-01;28;Leitura incorreta de temperatura DT-01
+PA000286;24/07/2023;11:19;Turno I;Processo;EXT-01;00:04;Entupimento de rosca EXT-01
+PA000287;25/07/2023;01:21;III;Processo;CND01;36;Ajuste de temperatura CND-01
+PA000288;26/07/2023;02:21;III;Manutenção preventiva;;722;Manutenção preventiva programada
+PA000289;2023-08-02;22:10;II;PROCESSO;EXP-01;11 min;Excesso de umidade na massa EXP-01
+PA000289;02/08/2023;22:10;II;PROCESSO;EXP-01;11 min;Excesso de umidade na massa EXP-01
+PA000290;07/08/2023;07:25;I; Falha mecânica;RSC1;381;Quebra de corrente RSC-01
+PA000291;10/08/2023;06:49;3;Manutenção preventiva;;917;Manutenção preventiva programada
+PA000292;12/08/2023;12:08;I;Falta de energia (externa);SUB-01;37;Queda de energia da concessionária
+PA000293;16/08/2023;02:39;III;falha mecânica;EXP-01;82;Quebra de eixo EXP-01
+PA000294;18/08/2023;20:41;Turno II;Falha mecânica;RSC-01;14;Quebra de corrente RSC-01
+PA000295;18-08-23;05:14;III;Falha mecânica;LAM-01;192;Desalinhamento de rolos LAM-01
+PA000296;18/08/2023;08:39;I; Falha elétrica;RSC-01;63;Falha no inversor RSC-01
+PA000297;18-08-23;18:21;Turno II;Falha de automação / instrumentação;EXT-01;48 min;Desarme sensor de nível EXT-01
+PA000298;21/08/2023;16:29;II;Processo;CND-01;24;Excesso de umidade na massa CND-01
+PA000299;21/08/2023;10:56;I;Falha de automação / instrumentação;DT-02;00:18;Leitura incorreta de temperatura DT-02
+PA000300;23/08/2023;04:03;III;falha mecânica;EXP1;45;Quebra de eixo EXP-01
+PA000301;03/09/2023;15:48;II;processo;DT-02;40;Ajuste de temperatura DT-02
+PA000302;04/09/2023;23:19;III;Processo;EXT-01;20;Embuchamento válvula rotativa EXT-01
+PA000303;05/09/2023;13:50;Turno I;Outras paradas;EXT-01;89;Limpeza emergencial EXT-01
+PA000304;2023-09-06;00:48;III; Processo;EXT-01;5;Entupimento de rosca EXT-01
+PA000305;06/09/2023;21:44;2;Processo;EXT-01;62;Entupimento de rosca EXT-01
+PA000306;07/09/2023;09:50;I;Falha mecânica;CND-01;3h00;Vazamento de vapor CND-01
+PA000307;10/09/2023;13:04;I;Falha de automação / instrumentação;DT-01;34;Desarme sensor de nível DT-01
+PA000308;12/09/2023;14:18;I;Processo;EXT-01;116;Entupimento de rosca EXT-01
+PA000309;13/09/2023;06:14;III;processo;DT-02;10;Ajuste de temperatura DT-02
+PA000310;19/09/2023;05:22;III;Manutenção preventiva;;14:48;Manutenção preventiva programada
+PA000311;2023-09-21;12:05;1;Outras paradas;EXT1;147;Limpeza emergencial EXT-01
+PA000312;22/09/2023;06:15;III;Falha mecânica;EXP-01;115;Quebra de eixo EXP-01
+PA000313;23/09/2023;12:54;I;Falha mecânica;EXP-01;8 min;Quebra de eixo EXP-01
+PA000314;25/09/2023;01:57;III;Falha mecânica;DT-02;59;Vazamento de vapor DT-02
+PA000315;26/09/2023;20:52;II;FALHA MECÂNICA;ext 01;87;Quebra de corrente EXT-01
+PA000316;26/09/2023;05:53;III;Falha elétrica;ext 01;335;Falha no inversor EXT-01
+PA000317;2023-10-01;10:35;I;Processo;RSC-01;27;Entupimento de rosca RSC-01
+PA000318;2023-10-03;08:31;1;Falha elétrica;EXP-01;248;Queima de motor EXP-01
+PA000319;10/10/2023;12:18;I;Processo;EXP-01;0h19;Excesso de umidade na massa EXP-01
+PA000320;2023-10-12;18:31;II;Falha mecânica;lam 01;51;Desalinhamento de rolos LAM-01
+PA000321;14/10/2023;20:44;II;Processo;RSC1;105;Entupimento de rosca RSC-01
+PA000322;14/10/2023;01:39;III;falha elétrica;LAM-02;22;Queima de motor LAM-02
+PA000323;14/10/2023;00:17;III;Falta de energia (externa);SUB-01;01:37;Queda de energia da concessionária
+PA000324;18/10/2023;04:08;III;MANUTENÇÃO PREVENTIVA;;643;Manutenção preventiva programada
+PA000325;2023-10-23;00:40;III;Falha mecânica;RSC01;266;Quebra de eixo RSC-01
+PA000326;25-10-23;05:33;III;Falha elétrica;EXP-01;143;Queima de motor EXP-01
+PA000327;30/10/2023;09:00;1;Falha mecânica;RSC-01;03:53;Quebra de corrente RSC-01
+PA000328;31/10/2023;11:13;I;Falha de automação / instrumentação;DT-01;19;Desarme sensor de nível DT-01
+PA000329;2023-11-01;05:01;III;Falta de matéria-prima;;561;Falta de MP
+PA000330;02/11/2023;01:14;III; Falta de matéria-prima;;946;Falta de MP
+PA000330;02/11/2023;01:14;III; Falta de matéria-prima;;946;Falta de MP
+PA000331;03/11/2023;06:31;III;Falta de matéria-prima;;16h26;Falta de MP
+PA000332;04/11/2023;19:21;II;Falha mecânica;CND-01;41;Vazamento de vapor CND-01
+PA000333;04/11/2023;03:49;III;Falta de matéria-prima;;1009;Falta de MP
+PA000334;05/11/2023;00:43;III;FALHA MECÂNICA;DT-01;150;Vazamento de vapor DT-01
+PA000335;05/11/2023;02:41;III; Falta de matéria-prima;;1028;Falta de MP
+PA000336;06-11-23;06:27;III;Falha mecânica;EXT-01;121;Quebra de corrente EXT-01
+PA000337;06-11-23;00:48;III;Falta de materia-prima;;1168;Falta de MP
+PA000338;07/11/2023;04:54;III;Falta de matéria-prima;;970;Falta de MP
+PA000339;08/11/2023;09:44;I;Falta de matéria-prima  ;;662;Falta de MP
+PA000340;2023-11-09;09:21;I;Falta de matéria-prima;;817;Falta de MP
+PA000341;10/11/2023;01:56;III;Falta de matéria-prima;;973;Falta de MP
+PA000342;11/11/2023;04:58;III;Processo;RSC-01;73;Entupimento de rosca RSC-01
+PA000343;11/11/2023;01:22;III;falta de energia (interna);SUB-01;61;Queda de energia interna SUB-01
+PA000344;11/11/2023;03:47;Turno III;FALTA DE MATÉRIA-PRIMA;;13h07;Falta de MP
+PA000345;12/11/2023;05:52;III;Processo;DT-02;22;Embuchamento válvula rotativa DT-02
+PA000346;12/11/2023;03:52;III;Falta de matéria-prima  ;;1127;Falta de MP
+PA000347;13/11/2023;04:20;III;Falta de matéria-prima;;1105;Falta de MP
+PA000348;14/11/2023;01:02;III;Falta de matéria-prima;;909;Falta de MP
+PA000349;15/11/2023;09:52;I;manutenção preventiva;;735;Manutenção preventiva programada
+PA000350;15/11/2023;05:35;3;Falta de matéria-prima;;240;Falta de MP
+PA000351;16/11/2023;15:21;II;Processo;CND-01;11;Ajuste de temperatura CND-01
+PA000352;16/11/2023;03:02;III;Falta de matéria-prima;;1178;Falta de MP
+PA000353;17-11-23;01:24;III;Falta de matéria-prima;;1234 min;Falta de MP
+PA000354;18/11/2023;03:12;III;Processo;CND-01;5;Ajuste de temperatura CND-01
+PA000355;18-11-23;01:30;3;Falta de matéria-prima;;1100;Falta de MP
+PA000356;19/11/2023;03:01;III;Falta de matéria-prima;;20:29;Falta de MP
+PA000357;2023-11-20;00:32;III;Falha elétrica;SUB-01;195;Desarme de disjuntor SUB-01
+PA000358;20/11/2023;04:15;III;Falta de matéria-prima;;961;Falta de MP
+PA000359;21/11/2023;06:00;III;Falta de matéria-prima;;12:09;Falta de MP
+PA000360;22/11/2023;11:30;I;FALHA DE AUTOMAÇÃO / INSTRUMENTAÇÃO;DT-01;45;Desarme sensor de nível DT-01
+PA000361;22/11/2023;05:01;III;Falta de matéria-prima;;566;Falta de MP
+PA000362;23/11/2023;09:05;I;FALTA DE MATÉRIA-PRIMA;;781;Falta de MP
+PA000363;2023-11-24;16:02;II;falha mecânica;EXT-01;48;Quebra de corrente EXT-01
+PA000364;24/11/2023;07:46;I; Falta de matéria-prima;;731;Falta de MP
+PA000365;25/11/2023;15:07;II;PROCESSO;DT-02;20;Ajuste de temperatura DT-02
+PA000366;25/11/2023;06:15;III;Falta de matéria-prima  ;;1033;Falta de MP
+PA000367;2023-11-26;02:21;III;Falta de matéria-prima;;1274;Falta de MP
+PA000368;2023-11-27;00:53;III;Falta de matéria-prima;;1150;Falta de MP
+PA000369;28/11/2023;07:16;1;Falta de matéria-prima;;965;Falta de MP
+PA000370;29/11/2023;10:42;I;Falha mecânica;LAM-02;205;Troca de rolamento LAM-02
+PA000371;29/11/2023;07:39;Turno I;Falta de matéria-prima;;731;Falta de MP
+PA000372;30/11/2023;15:50;Turno II;Falha mecânica;DSC-01;137;Quebra de eixo DSC-01
+PA000373;30/11/2023;06:51;III;Falta de matéria-prima;;14h08;Falta de MP
+PA000374;01-12-23;04:58;III;Manutenção preventiva;;530;Manutenção preventiva programada
+PA000375;2023-12-01;09:55;I;FALTA DE MATÉRIA-PRIMA;;8h03;Falta de MP
+PA000376;02/12/2023;00:13;III;Falta de matéria-prima  ;;1152;Falta de MP
+PA000377;03/12/2023;00:45;III;Falta de matéria-prima  ;;1305;Falta de MP
+PA000378;04/12/2023;00:11;III;falta de matéria-prima;;1283;Falta de MP
+PA000379;05/12/2023;02:33;III;Falta de energia (externa);sub 01;14;Queda de energia da concessionária
+PA000380;05/12/2023;13:19;I;Outras paradas;DST-01;104;Limpeza emergencial DST-01
+PA000381;05/12/2023;05:05;III;Falta de matéria-prima;;1105;Falta de MP
+PA000382;06/12/2023;01:56;III;Falta de matéria-prima;;19h17;Falta de MP
+PA000383;07/12/2023;00:18;3;Falta de matéria-prima;;831;Falta de MP
+PA000384;08/12/2023;00:00;Turno III;Entressafra;;1440;Parada programada de entressafra
+PA000385;2023-12-09;00:00;Turno III;Entressafra;;1440;Parada programada de entressafra
+PA000386;10/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000387;11/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000388;12/12/2023;00:00;III;entressafra;;24:00;Parada programada de entressafra
+PA000389;2023-12-13;00:00;III;ENTRESSAFRA;;1440;Parada programada de entressafra
+PA000390;2023-12-14;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000391;2023-12-15;00:00;III;entressafra;;24h00;Parada programada de entressafra
+PA000392;16-12-23;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000393;17/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000394;2023-12-18;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000395;19/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000396;20/12/2023;00:00;III;Entressafra;;1440 min;Parada programada de entressafra
+PA000397;21/12/2023;00:00;3;Entressafra;;24h00;Parada programada de entressafra
+PA000398;22/12/2023;00:00;III; Entressafra;;24h00;Parada programada de entressafra
+PA000399;23/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000400;24-12-23;00:00;III; Entressafra;;1440;Parada programada de entressafra
+PA000401;25/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000402;26/12/2023;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000403;27/12/2023;00:00;3;Entressafra;;1440;Parada programada de entressafra
+PA000404;28/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000405;2023-12-29;00:00;III;Entressafra  ;;1440;Parada programada de entressafra
+PA000406;30/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000407;31/12/2023;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000408;01/01/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000409;02/01/2024;00:00;3;Entressafra;;1440;Parada programada de entressafra
+PA000410;03/01/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000411;04/01/2024;00:00;3;Entressafra;;1440;Parada programada de entressafra
+PA000412;05/01/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000413;06/01/2024;15:00;II;Falha elétrica;RSC-01;29;Queima de motor RSC-01
+PA000414;10/01/2024;20:40;II;Falha mecânica;RSC01;94;Quebra de corrente RSC-01
+PA000415;10/01/2024;13:01;I;Falha elétrica;RSC-01;02:40;Falha no inversor RSC-01
+PA000416;10/01/2024;12:27;I;Falha de automação / instrumentação;DT-01;19;Desarme sensor de nível DT-01
+PA000417;14/01/2024;09:14;I;Falha mecânica  ;QBR-01;69;Troca de rolamento QBR-01
+PA000418;17/01/2024;06:36;III;Manutenção preventiva;;920;Manutenção preventiva programada
+PA000419;20/01/2024;20:26;II;Processo;cnd 01;16 min;Excesso de umidade na massa CND-01
+PA000420;2024-01-20;22:47;II;Falta de matéria-prima;;49;Falta de MP
+PA000421;21/01/2024;06:02;III;Processo;CND-01;23;Excesso de umidade na massa CND-01
+PA000422;21/01/2024;03:54;3;Falta de matéria-prima;;1175;Falta de MP
+PA000423;22/01/2024;09:05;I;Falta de matéria-prima;;598;Falta de MP
+PA000424;23/01/2024;07:05;I;Falta de matéria-prima;;359;Falta de MP
+PA000425;24/01/2024;05:48;III;Processo;CND-01;0h33;Excesso de umidade na massa CND-01
+PA000426;24-01-24;05:38;III;processo;RSC1;0h29;Entupimento de rosca RSC-01
+PA000427;24/01/2024;02:30;3;Falta de matéria-prima;;513;Falta de MP
+PA000428;25/01/2024;08:57;I;Falta de matéria-prima;;11h14;Falta de MP
+PA000429;26/01/2024;05:50;III;Falta de matéria-prima;;625;Falta de MP
+PA000430;27/01/2024;03:36;III;Falta de matéria-prima;;817;Falta de MP
+PA000431;28/01/2024;04:45;III;Falta de matéria-prima;;1152;Falta de MP
+PA000432;29/01/2024;03:47;III;Falha elétrica;RSC-01;121;Queima de motor RSC-01
+PA000433;29/01/2024;04:04;III;Falta de matéria-prima;;1144;Falta de MP
+PA000434;30/01/2024;00:20;III;Falta de matéria-prima;;06:53;Falta de MP
+PA000435;2024-01-31;18:26;II;Falha mecânica;LAM-02;4h40;Desalinhamento de rolos LAM-02
+PA000436;31/01/2024;05:56;III;Falta de matéria-prima;;4h22;Falta de MP
+PA000437;01/02/2024;20:03;II;Falta de matéria-prima;;3h40;Falta de MP
+PA000438;2024-02-03;08:27;I;Falta de matéria-prima;;7h01;Falta de MP
+PA000439;2024-02-04;06:12;III;FALTA DE MATÉRIA-PRIMA;;715;Falta de MP
+PA000440;05/02/2024;06:40;III;Falta de matéria-prima;;902;Falta de MP
+PA000441;06/02/2024;04:16;III;Falha de automação / instrumentação;DT-02;15;Leitura incorreta de temperatura DT-02
+PA000442;10/02/2024;09:00;I;Falha mecânica;CND-01;260;Vazamento de vapor CND-01
+PA000443;12/02/2024;00:05;III;Falha mecânica;RSC-01;1136;Quebra de corrente RSC-01
+PA000444;13/02/2024;03:11;III;Manutenção preventiva;;13:03;Manutenção preventiva programada
+PA000445;16/02/2024;12:47;I;Falha mecânica;LAM-01;2h26;Desalinhamento de rolos LAM-01
+PA000446;18/02/2024;12:48;I;Processo;CND-01;15;Excesso de umidade na massa CND-01
+PA000447;29/02/2024;08:34;I;falha mecânica;QBR-01;148;Troca de rolamento QBR-01
+PA000448;02/03/2024;04:26;III;Falha de automação / instrumentação;DT-01;0h57;Leitura incorreta de temperatura DT-01
+PA000449;2024-03-03;14:42;I;falha mecânica;RSC-01;93;Quebra de corrente RSC-01
+PA000450;05/03/2024;16:00;II;Processo;DT-02;17;Ajuste de temperatura DT-02
+PA000451;06/03/2024;05:49;III;Manutenção preventiva;;643;Manutenção preventiva programada
+PA000452;2024-03-07;16:46;II;falha mecânica;DSC-01;41;Quebra de eixo DSC-01
+PA000453;10/03/2024;19:38;Turno II;Falha de automação / instrumentação;DST-01;0h10;Falha de comunicação CLP DST-01
+PA000454;13/03/2024;04:08;III;Falha de automação / instrumentação;DST01;19;Falha de comunicação CLP DST-01
+PA000455;14/03/2024;16:56;2;Falha elétrica;RSC-01;131;Falha no inversor RSC-01
+PA000456;19/03/2024;16:10;2;Falha mecânica;LAM-01;116;Troca de rolamento LAM-01
+PA000457;23/03/2024;02:05;III;Falha mecânica;DSC-01;97;Quebra de eixo DSC-01
+PA000458;27/03/2024;04:19;III;Processo;EXP-01;71;Excesso de umidade na massa EXP-01
+PA000459;27/03/2024;00:23;III;Falha mecânica;EXP-01;67;Quebra de eixo EXP-01
+PA000460;2024-04-04;10:53;I;FALHA DE AUTOMAÇÃO / INSTRUMENTAÇÃO;EXT-01;254;Desarme sensor de nível EXT-01
+PA000461;2024-04-05;10:16;I;Falha mecânica  ;RSC-01;116;Quebra de eixo RSC-01
+PA000462;07/04/2024;19:01;II;Falha mecânica;EXT-01;160;Quebra de corrente EXT-01
+PA000463;2024-04-08;09:56;I;Manutenção preventiva;;572;Manutenção preventiva programada
+PA000464;11/04/2024;05:36;III;Processo;DT-01;00:27;Embuchamento válvula rotativa DT-01
+PA000465;16/04/2024;11:11;1;Processo;DT2;35;Ajuste de temperatura DT-02
+PA000466;20/04/2024;13:45;I;Falha mecânica;RSC-01;39;Quebra de eixo RSC-01
+PA000467;21/04/2024;17:46;II;Falha mecânica;LAM-02;161;Troca de rolamento LAM-02
+PA000468;25/04/2024;08:37;I;Falha mecânica;RSC-01;117;Quebra de eixo RSC-01
+PA000469;28/04/2024;07:43;I; Falha de automação / instrumentação;DT01;27;Desarme sensor de nível DT-01
+PA000470;28/04/2024;10:19;I;Falha de automacao / instrumentacao;EXT-01;39;Falha de comunicação CLP EXT-01
+PA000471;29/04/2024;16:31;II;falha mecânica;LAM01;0h59;Desalinhamento de rolos LAM-01
+PA000472;30/04/2024;01:48;III;falha mecânica;RSC-01;178;Quebra de eixo RSC-01
+PA000473;30-04-24;11:45;I;FALHA ELÉTRICA;RSC-01;695;Falha no inversor RSC-01
+PA000474;01/05/2024;03:28;III;Manutenção preventiva;;925;Manutenção preventiva programada
+PA000475;02/05/2024;19:02;II;Falha mecânica;EXT01;102;Quebra de corrente EXT-01
+PA000476;2024-05-03;17:08;II;Processo;EXT-01;50;Entupimento de rosca EXT-01
+PA000477;04/05/2024;14:39;Turno I;Falha elétrica;LAM-01;86;Queima de motor LAM-01
+PA000478;06/05/2024;04:13;III;Falha mecânica;EXT-01;02:51;Quebra de corrente EXT-01
+PA000479;07/05/2024;05:07;III;Processo;CND-01;88;Excesso de umidade na massa CND-01
+PA000480;2024-05-12;04:54;III;Falha mecânica;EXT-01;1h11;Quebra de corrente EXT-01
+PA000481;15/05/2024;14:06;I;Processo;EXT01;12;Entupimento de rosca EXT-01
+PA000482;19/05/2024;07:59;I;Falha mecânica;LAM-02;208;Desalinhamento de rolos LAM-02
+PA000483;2024-05-21;07:12;I;PROCESSO;EXT-01;42;Entupimento de rosca EXT-01
+PA000484;23/05/2024;12:26;I; Falha mecânica;RSC-01;104;Quebra de corrente RSC-01
+PA000485;24/05/2024;07:46;I;Falha mecânica  ;LAM-02;58;Troca de rolamento LAM-02
+PA000486;25/05/2024;02:29;III;Processo;CND-01;43;Excesso de umidade na massa CND-01
+PA000487;26/05/2024;15:43;Turno II;Processo;DT-01;28;Ajuste de temperatura DT-01
+PA000488;27/05/2024;13:10;I;Falha mecânica;EXP-01;64;Quebra de eixo EXP-01
+PA000489;29/05/2024;21:50;II;Processo;CND-01;14;Excesso de umidade na massa CND-01
+PA000490;31/05/2024;08:18;I;PROCESSO;EXT-01;31;Embuchamento válvula rotativa EXT-01
+PA000491;02/06/2024;08:32;I;Falha mecânica;QBR-01;1h16;Troca de rolamento QBR-01
+PA000492;03/06/2024;01:59;III;Processo;DT-01;59;Embuchamento válvula rotativa DT-01
+PA000493;03/06/2024;11:42;1;PROCESSO;CND-01;00:37;Ajuste de temperatura CND-01
+PA000494;04/06/2024;03:57;III;Processo;CND-01;1h49;Excesso de umidade na massa CND-01
+PA000495;05/06/2024;17:29;2;Falta de energia (externa);SUB-01;119;Queda de energia da concessionária
+PA000496;12/06/2024;11:10;I;Processo;RSC-01;8;Entupimento de rosca RSC-01
+PA000497;13/06/2024;00:00;III;Manutenção preventiva;;695;Manutenção preventiva programada
+PA000498;14/06/2024;07:28;I;Processo;EXT-01;15;Entupimento de rosca EXT-01
+PA000499;16/06/2024;00:50;III;Processo;CND-01;0h50;Excesso de umidade na massa CND-01
+PA000500;24/06/2024;20:36;II;Falha de automação / instrumentação;DST-01;0h24;Falha de comunicação CLP DST-01
+PA000501;25/06/2024;02:53;III;falha mecânica;LAM-02;41;Desalinhamento de rolos LAM-02
+PA000502;28/06/2024;06:08;III;Falha mecânica;DT2;00:45;Vazamento de vapor DT-02
+PA000503;28/06/2024;17:46;II;FALHA ELÉTRICA;EXP-01;18;Queima de motor EXP-01
+PA000504;29/06/2024;11:23;I;Falha mecânica;DT-02;41;Vazamento de vapor DT-02
+PA000505;02/07/2024;03:13;III;Falha mecânica;EXP-01;81;Quebra de eixo EXP-01
+PA000506;02/07/2024;13:32;I;Falha eletrica;SUB-01;15;Desarme de disjuntor SUB-01
+PA000507;03/07/2024;20:00;II;Processo;EXP01;45;Excesso de umidade na massa EXP-01
+PA000508;03/07/2024;17:50;Turno II;Falha elétrica;RSC1;123;Queima de motor RSC-01
+PA000509;08/07/2024;14:41;I;Falta de energia (externa);SUB-01;49;Queda de energia da concessionária
+PA000510;09/07/2024;00:13;III;Processo;DT-02;00:31;Embuchamento válvula rotativa DT-02
+PA000511;10/07/2024;00:09;III;Manutenção preventiva;;12:47;Manutenção preventiva programada
+PA000512;2024-07-13;16:29;II;Falha elétrica;DT-01;141;Desarme de disjuntor DT-01
+PA000513;23-07-24;17:47;II;Falha mecânica;DSC-01;117;Quebra de eixo DSC-01
+PA000514;28/07/2024;00:01;III;Falha elétrica;EXT-01;99;Desarme de disjuntor EXT-01
+PA000515;03/08/2024;12:01;I;Falha mecânica;QBR-01;66;Troca de rolamento QBR-01
+PA000516;04/08/2024;09:09;I;Falha mecânica;rsc 01;228;Quebra de corrente RSC-01
+PA000517;05/08/2024;11:13;I;Falha mecânica;RSC01;74;Quebra de corrente RSC-01
+PA000518;05/08/2024;10:15;1; Falha mecânica;LAM-01;70;Troca de rolamento LAM-01
+PA000519;06/08/2024;20:12;II;Falha mecânica;EXT-01;103;Quebra de corrente EXT-01
+PA000520;09/08/2024;16:47;II;Processo;EXP-01;8;Excesso de umidade na massa EXP-01
+PA000521;09/08/2024;14:46;I;Processo;EXT01;13;Entupimento de rosca EXT-01
+PA000522;10/08/2024;13:12;1;Falha mecânica;LAM-01;222;Desalinhamento de rolos LAM-01
+PA000523;10/08/2024;18:19;II;Falha mecânica  ;DT-02;292;Vazamento de vapor DT-02
+PA000524;11/08/2024;02:09;III;Falha mecânica;LAM-01;83;Troca de rolamento LAM-01
+PA000525;14/08/2024;10:49;I; Manutenção preventiva;;8h04;Manutenção preventiva programada
+PA000526;15/08/2024;03:09;III;Falha mecanica;EXT-01;235;Quebra de corrente EXT-01
+PA000527;2024-08-15;00:35;III;falha de automação / instrumentação;EXT-01;33;Falha de comunicação CLP EXT-01
+PA000528;18/08/2024;12:20;I;Falta de energia (externa);SUB1;1h54;Queda de energia da concessionária
+PA000529;24/08/2024;19:38;II;Processo;cnd 01;20;Excesso de umidade na massa CND-01
+PA000530;29/08/2024;11:19;I;Falha mecânica;DT-02;201;Vazamento de vapor DT-02
+PA000531;30/08/2024;13:12;I;Falha mecânica;EXP-01;148;Quebra de eixo EXP-01
+PA000532;02/09/2024;04:14;III;Falha mecânica;DT-02;954;Vazamento de vapor DT-02
+PA000533;06/09/2024;10:19;I; Falha de automação / instrumentação;ext 01;01:18;Falha de comunicação CLP EXT-01
+PA000534;07/09/2024;12:27;I;Falha mecânica;LAM-01;96;Desalinhamento de rolos LAM-01
+PA000535;08/09/2024;17:13;II;Falha mecânica;RSC-01;48;Quebra de eixo RSC-01
+PA000536;09/09/2024;05:05;3;Manutenção preventiva;;817 min;Manutenção preventiva programada
+PA000537;09/09/2024;12:31;I;Processo;RSC-01;38;Entupimento de rosca RSC-01
+PA000538;09/09/2024;15:39;II;Falha de automação / instrumentação;DT-01;0h23;Leitura incorreta de temperatura DT-01
+PA000539;11/09/2024;08:46;I; Falha mecânica;LAM-02;20;Troca de rolamento LAM-02
+PA000540;12/09/2024;09:15;I;Processo;CND-01;26;Ajuste de temperatura CND-01
+PA000541;12/09/2024;11:19;I;Processo;cnd 01;58;Excesso de umidade na massa CND-01
+PA000542;12/09/2024;04:31;Turno III;Processo;RSC-01;0h11;Entupimento de rosca RSC-01
+PA000543;13/09/2024;13:47;Turno I;Processo;RSC-01;20;Entupimento de rosca RSC-01
+PA000544;19/09/2024;11:14;I;Outras paradas;EXT-01;57;Limpeza emergencial EXT-01
+PA000545;24/09/2024;03:47;III;processo;CND-01;16;Excesso de umidade na massa CND-01
+PA000546;26/09/2024;05:54;III;Processo;EXT-01;20;Entupimento de rosca EXT-01
+PA000547;27/09/2024;12:28;I;Processo;EXT-01;25;Embuchamento válvula rotativa EXT-01
+PA000548;04/10/2024;10:15;I;Processo;EXT-01;29;Entupimento de rosca EXT-01
+PA000549;06/10/2024;21:33;II;Falha mecânica;QBR-01;41;Troca de rolamento QBR-01
+PA000550;14/10/2024;06:00;III;Falta de energia (externa);SUB1;59;Queda de energia da concessionária
+PA000551;2024-10-20;02:22;Turno III;Falha mecânica;RSC-01;53;Quebra de eixo RSC-01
+PA000552;2024-10-23;10:40;1;MANUTENÇÃO PREVENTIVA;;784;Manutenção preventiva programada
+PA000553;24/10/2024;20:55;II;Falha mecânica;DT-02;78;Vazamento de vapor DT-02
+PA000554;26/10/2024;11:52;I;Falha mecânica;RSC-01;3h18;Quebra de eixo RSC-01
+PA000555;26/10/2024;07:47;Turno I;falha elétrica;LAM-02;39;Queima de motor LAM-02
+PA000556;31/10/2024;06:19;III;Processo;DT-02;36;Ajuste de temperatura DT-02
+PA000557;02/11/2024;09:03;I;falha mecânica;CND-01;115;Vazamento de vapor CND-01
+PA000558;03/11/2024;13:40;I;Falha mecânica;LAM2;65;Desalinhamento de rolos LAM-02
+PA000559;03/11/2024;00:03;III;Falta de matéria-prima;;560;Falta de MP
+PA000560;04/11/2024;03:28;III;Falta de matéria-prima;;1231;Falta de MP
+PA000561;05/11/2024;07:23;I;Falha de automacao / instrumentacao;EXT-01;192;Falha de comunicação CLP EXT-01
+PA000562;05/11/2024;05:57;III;Falta de matéria-prima  ;;17:16;Falta de MP
+PA000563;06/11/2024;08:32;I;FALTA DE MATÉRIA-PRIMA;;886;Falta de MP
+PA000564;07/11/2024;19:12;II;Processo;DT-02;16;Embuchamento válvula rotativa DT-02
+PA000565;07/11/2024;06:27;III;Falta de materia-prima;;861;Falta de MP
+PA000566;08/11/2024;04:20;III;Falta de matéria-prima;;1059;Falta de MP
+PA000567;09/11/2024;06:54;III;Falta de matéria-prima;;926;Falta de MP
+PA000568;10/11/2024;05:34;III;Falta de materia-prima;;18h01;Falta de MP
+PA000569;11/11/2024;08:58;1;Falha mecânica;lam 01;70;Troca de rolamento LAM-01
+PA000570;11/11/2024;01:06;III;Falta de matéria-prima;;1039;Falta de MP
+PA000571;12/11/2024;13:33;I;Processo;EXP-01;13;Excesso de umidade na massa EXP-01
+PA000572;12/11/2024;22:11;Turno II;Processo;CND-01;21;Excesso de umidade na massa CND-01
+PA000573;12/11/2024;08:57;I;Falta de matéria-prima;;821;Falta de MP
+PA000574;13/11/2024;03:34;III;Falta de matéria-prima;;11:39;Falta de MP
+PA000575;14/11/2024;16:01;II;Falha mecânica;LAM-01;32;Desalinhamento de rolos LAM-01
+PA000576;2024-11-14;02:35;III; Falta de matéria-prima;;06:09;Falta de MP
+PA000577;15/11/2024;05:52;III;Falta de matéria-prima;;461;Falta de MP
+PA000578;16/11/2024;02:53;III;Falta de matéria-prima;;950;Falta de MP
+PA000579;17/11/2024;01:49;III;Falta de matéria-prima;;21:14;Falta de MP
+PA000580;18/11/2024;04:40;3;Falta de matéria-prima;;977;Falta de MP
+PA000581;2024-11-19;20:15;II;Processo;RSC-01;12;Entupimento de rosca RSC-01
+PA000582;19/11/2024;02:45;III; Falta de matéria-prima;;674;Falta de MP
+PA000583;20/11/2024;01:28;III;Falta de matéria-prima;;777;Falta de MP
+PA000584;21/11/2024;17:53;II;PROCESSO;DT-01;67;Embuchamento válvula rotativa DT-01
+PA000585;21/11/2024;01:59;III;Falta de matéria-prima  ;;834;Falta de MP
+PA000586;22/11/2024;09:12;I;Falta de matéria-prima;;785;Falta de MP
+PA000587;23-11-24;01:33;III;Falta de matéria-prima;;1130;Falta de MP
+PA000588;24/11/2024;00:30;III;Falta de matéria-prima;;1333;Falta de MP
+PA000589;2024-11-25;00:06;III;FALTA DE MATÉRIA-PRIMA;;21:49;Falta de MP
+PA000590;26/11/2024;05:30;III;Falha mecânica;LAM-01;2h53;Troca de rolamento LAM-01
+PA000591;26/11/2024;03:40;III;Falta de matéria-prima;;613;Falta de MP
+PA000592;27/11/2024;10:35;I;Falta de matéria-prima;;787;Falta de MP
+PA000593;28/11/2024;16:54;II;Falha mecânica;EXT1;116;Quebra de corrente EXT-01
+PA000594;28/11/2024;04:44;III;Falta de matéria-prima;;928;Falta de MP
+PA000595;29/11/2024;06:34;III;Manutenção preventiva;;778;Manutenção preventiva programada
+PA000596;29/11/2024;03:23;III;Falta de matéria-prima;;05:52;Falta de MP
+PA000597;30/11/2024;00:31;III;Falta de matéria-prima;;1241;Falta de MP
+PA000598;01/12/2024;02:56;III;Falha mecânica;LAM-02;50;Troca de rolamento LAM-02
+PA000599;01/12/2024;00:02;III;Falta de matéria-prima;;1243;Falta de MP
+PA000600;02/12/2024;02:59;III;Falta de matéria-prima;;1221;Falta de MP
+PA000601;03/12/2024;09:27;I;Falha elétrica;rsc 01;107;Queima de motor RSC-01
+PA000602;03/12/2024;06:06;III;Falta de matéria-prima;;1050;Falta de MP
+PA000603;04/12/2024;00:30;III;Falta de matéria-prima;;15h53;Falta de MP
+PA000604;05/12/2024;01:25;III;Falta de matéria-prima;;1003;Falta de MP
+PA000605;06/12/2024;21:45;II; Falha elétrica;EXT-01;00:22;Desarme de disjuntor EXT-01
+PA000606;06-12-24;01:14;III;Falta de materia-prima;;1167;Falta de MP
+PA000606;06/12/2024;01:14;III;Falta de materia-prima;;1167;Falta de MP
+PA000607;07/12/2024;13:26;I;Falha elétrica;LAM-02;17;Queima de motor LAM-02
+PA000608;07/12/2024;00:14;III;Falta de matéria-prima;;20h06;Falta de MP
+PA000609;2024-12-08;00:24;Turno III;Falta de matéria-prima  ;;1273 min;Falta de MP
+PA000610;2024-12-09;13:47;I;Falha mecânica;DT-01;112 min;Vazamento de vapor DT-01
+PA000611;09/12/2024;03:05;III;Falta de matéria-prima;;1065;Falta de MP
+PA000612;10/12/2024;01:46;Turno III;Falta de matéria-prima;;883;Falta de MP
+PA000613;11/12/2024;01:41;III;Falta de matéria-prima;;902;Falta de MP
+PA000614;2024-12-12;02:59;III;falta de matéria-prima;;14:44;Falta de MP
+PA000615;13/12/2024;00:31;III;Manutenção preventiva;;709;Manutenção preventiva programada
+PA000616;14/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000617;2024-12-15;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000618;16/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000619;17/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000620;18/12/2024;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000621;19/12/2024;00:00;Turno III;Entressafra;;1440;Parada programada de entressafra
+PA000622;20/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000623;21-12-24;00:00;III; Entressafra;;1440;Parada programada de entressafra
+PA000624;22/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000625;23/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000626;24/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000627;25/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000628;26/12/2024;00:00;Turno III;Entressafra  ;;24h00;Parada programada de entressafra
+PA000629;27/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000630;28/12/2024;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000631;2024-12-29;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000632;30/12/2024;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000633;2024-12-31;00:00;III;entressafra;;1440;Parada programada de entressafra
+PA000634;01/01/2025;00:00;Turno III;entressafra;;1440;Parada programada de entressafra
+PA000635;02/01/2025;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000636;03/01/2025;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000637;2025-01-04;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000638;05/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000639;06/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000640;07/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000641;08/01/2025;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000642;09/01/2025;00:00;III;Entressafra  ;;1440;Parada programada de entressafra
+PA000643;10/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000644;11/01/2025;00:00;III;Entressafra;;24h00;Parada programada de entressafra
+PA000645;12/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000646;13/01/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000647;14-01-25;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000648;15/01/2025;09:44;I;Processo;cnd 01;15;Excesso de umidade na massa CND-01
+PA000649;15/01/2025;07:33;I;Processo  ;CND-01;43;Excesso de umidade na massa CND-01
+PA000650;19/01/2025;05:40;III;Falta de energia (externa);SUB-01;141;Queda de energia da concessionária
+PA000651;23/01/2025;08:56;I;Falha mecânica  ;LAM-01;1h30;Desalinhamento de rolos LAM-01
+PA000652;23/01/2025;10:02;I;Falha elétrica;EXT1;118;Desarme de disjuntor EXT-01
+PA000653;24/01/2025;21:10;II;Processo;EXT-01;00:52;Entupimento de rosca EXT-01
+PA000654;24/01/2025;21:31;II;Processo;DT01;0h24;Embuchamento válvula rotativa DT-01
+PA000655;27/01/2025;12:10;I;Falha elétrica;DT-01;00:09;Desarme de disjuntor DT-01
+PA000656;28/01/2025;03:36;III;Manutenção preventiva;;914;Manutenção preventiva programada
+PA000657;31/01/2025;09:53;Turno I;Falha mecânica;LAM-02;130;Troca de rolamento LAM-02
+PA000658;01/02/2025;12:12;I;Falha mecânica;LAM-01;51;Troca de rolamento LAM-01
+PA000659;01/02/2025;04:51;III;Falta de matéria-prima;;11:54;Falta de MP
+PA000660;02/02/2025;08:52;I;Falta de matéria-prima;;735;Falta de MP
+PA000661;2025-02-03;07:16;I;Falta de energia (externa);SUB-01;35;Queda de energia da concessionária
+PA000662;05/02/2025;02:53;III;FALTA DE MATÉRIA-PRIMA;;118;Falta de MP
+PA000663;07/02/2025;02:52;Turno III;FALHA MECÂNICA;RSC01;195;Quebra de eixo RSC-01
+PA000664;09/02/2025;11:42;I;Falha mecânica;DT02;253;Vazamento de vapor DT-02
+PA000665;2025-02-10;03:35;3; Manutenção preventiva;;826;Manutenção preventiva programada
+PA000666;11/02/2025;08:25;I;Falha mecânica;RSC-01;391;Quebra de eixo RSC-01
+PA000667;16/02/2025;16:40;II;Processo;CND-01;77;Excesso de umidade na massa CND-01
+PA000668;2025-02-17;07:58;I;Falta de matéria-prima;;906;Falta de MP
+PA000669;18/02/2025;07:21;Turno I;Falta de matéria-prima;;607;Falta de MP
+PA000670;21/02/2025;18:10;II;Falha mecânica;LAM-02;00:46;Desalinhamento de rolos LAM-02
+PA000671;21/02/2025;03:50;III;FALHA ELÉTRICA;DT-01;1h06;Desarme de disjuntor DT-01
+PA000672;23/02/2025;16:35;II;PROCESSO;CND-01;35;Excesso de umidade na massa CND-01
+PA000673;26/02/2025;04:26;III;Falta de energia (externa);SUB-01;22;Queda de energia da concessionária
+PA000674;02/03/2025;07:37;I;Processo;DT01;33;Ajuste de temperatura DT-01
+PA000675;02/03/2025;04:02;III;Falha de automação / instrumentação;dt 01;00:27;Leitura incorreta de temperatura DT-01
+PA000676;04/03/2025;02:55;III;Falha mecânica;QBR1;00:46;Troca de rolamento QBR-01
+PA000677;07/03/2025;06:33;III;Falha elétrica;DT-01;57;Desarme de disjuntor DT-01
+PA000678;08/03/2025;11:50;I;Falha mecânica;EXT-01;33;Quebra de corrente EXT-01
+PA000679;09/03/2025;12:03;I;processo;EXP-01;88;Excesso de umidade na massa EXP-01
+PA000680;10/03/2025;11:03;I;falha de automação / instrumentação;EXT-01;12;Falha de comunicação CLP EXT-01
+PA000681;13/03/2025;08:29;I;FALHA MECÂNICA;DT-02;26;Vazamento de vapor DT-02
+PA000682;2025-03-14;13:55;1;Falha elétrica;LAM-01;128;Queima de motor LAM-01
+PA000683;2025-03-15;16:02;2;Falha mecânica;EXT-01;0h48;Quebra de corrente EXT-01
+PA000684;16/03/2025;06:33;III;Processo;EXT-01;00:17;Embuchamento válvula rotativa EXT-01
+PA000684;16/03/2025;06:33;III;Processo;EXT-01;00:17;Embuchamento válvula rotativa EXT-01
+PA000685;16/03/2025;14:15;I;Falta de energia (externa);SUB-01;195;Queda de energia da concessionária
+PA000686;17/03/2025;16:10;II;Falha de automação / instrumentação;DT-01;26;Desarme sensor de nível DT-01
+PA000687;18/03/2025;00:53;III;Processo;RSC-01;29;Entupimento de rosca RSC-01
+PA000688;20/03/2025;19:37;Turno II;Processo;EXT-01;71;Embuchamento válvula rotativa EXT-01
+PA000689;21/03/2025;07:22;I;Falha elétrica;LAM-01;114;Queima de motor LAM-01
+PA000690;21/03/2025;00:01;III;Falta de energia (externa);SUB1;13;Queda de energia da concessionária
+PA000691;23/03/2025;07:53;Turno I;Processo;CND-01;0h35;Excesso de umidade na massa CND-01
+PA000692;2025-03-23;21:41;Turno II;Falha mecânica;RSC-01;50;Quebra de corrente RSC-01
+PA000692;2025-03-23;21:41;Turno II;Falha mecânica;RSC-01;50;Quebra de corrente RSC-01
+PA000693;2025-03-25;09:11;I;Falha mecânica;RSC01;79;Quebra de corrente RSC-01
+PA000694;29/03/2025;01:46;III;Outras paradas;EXT-01;166;Parada por inspeção de segurança
+PA000695;31/03/2025;06:49;III;Manutenção preventiva;;855 min;Manutenção preventiva programada
+PA000696;02-04-25;03:32;III;manutenção preventiva;;896;Manutenção preventiva programada
+PA000697;04/04/2025;05:15;III;Processo;EXT-01;27;Entupimento de rosca EXT-01
+PA000698;06/04/2025;10:28;I;Falha mecânica;RSC01;153;Quebra de corrente RSC-01
+PA000699;2025-04-06;08:51;Turno I;Falha elétrica;LAM-02;1h01;Queima de motor LAM-02
+PA000700;07/04/2025;23:22;III;Processo;DT-02;37;Ajuste de temperatura DT-02
+PA000701;08-04-25;15:18;II;falha elétrica;exp 01;33;Queima de motor EXP-01
+PA000702;15-04-25;02:15;III;Falha mecânica;RSC-01;31;Quebra de eixo RSC-01
+PA000703;17/04/2025;11:22;I;Processo;EXP-01;31;Excesso de umidade na massa EXP-01
+PA000704;17/04/2025;13:18;Turno I;Falha mecânica;RSC-01;53;Quebra de eixo RSC-01
+PA000705;20/04/2025;05:10;III;Falha mecânica;LAM-01;149;Desalinhamento de rolos LAM-01
+PA000706;20/04/2025;06:21;Turno III;Falha mecânica;CND-01;879;Vazamento de vapor CND-01
+PA000707;22/04/2025;00:01;III;Falta de energia (externa);SUB-01;0h54;Queda de energia da concessionária
+PA000708;24/04/2025;05:04;III;Falha elétrica;EXT-01;78;Falha no inversor EXT-01
+PA000709;24/04/2025;14:04;I;Falta de energia (interna);SUB-01;19;Queda de energia interna SUB-01
+PA000710;26/04/2025;16:55;II;Falha elétrica;EXP1;111;Queima de motor EXP-01
+PA000711;30/04/2025;00:23;III;Falha mecânica;EXT-01;138;Quebra de corrente EXT-01
+PA000712;30/04/2025;08:36;I;Falha elétrica;EXP-01;24;Queima de motor EXP-01
+PA000713;05/05/2025;01:08;3;Manutenção preventiva;;832;Manutenção preventiva programada
+PA000714;07/05/2025;01:50;III;Processo;DT-01;85;Ajuste de temperatura DT-01
+PA000715;09/05/2025;16:02;II;Processo;CND-01;10;Ajuste de temperatura CND-01
+PA000716;11/05/2025;03:37;III;falha mecânica;LAM-01;39;Troca de rolamento LAM-01
+PA000717;13-05-25;16:11;Turno II;Processo;DT-01;11;Ajuste de temperatura DT-01
+PA000718;13/05/2025;00:05;3;Processo;cnd 01;54;Excesso de umidade na massa CND-01
+PA000719;2025-05-13;22:08;II;processo;EXT-01;34;Entupimento de rosca EXT-01
+PA000720;15/05/2025;08:29;I;falha mecânica;LAM-02;121 min;Desalinhamento de rolos LAM-02
+PA000721;15/05/2025;14:22;I;Falha de automação / instrumentação;dt 01;43;Desarme sensor de nível DT-01
+PA000722;17/05/2025;14:40;1;FALTA DE ESPAÇO PARA ARMAZENAR;RSC01;85;Armazém de farelo cheio
+PA000723;18/05/2025;06:49;III;Falha mecânica;EXT-01;31;Quebra de corrente EXT-01
+PA000724;18/05/2025;03:23;3;Falha mecânica;LAM-02;872;Desalinhamento de rolos LAM-02
+PA000725;18/05/2025;02:01;3;Falta de espaço para armazenar;RSC-01;107;Armazém de farelo cheio
+PA000726;2025-05-19;15:31;II;Falta de espaço para armazenar;rsc 01;7h29;Armazém de farelo cheio
+PA000727;20/05/2025;06:17;III;Falta de espaço para armazenar;rsc 01;754;Armazém de farelo cheio
+PA000728;21/05/2025;17:37;II; Processo;CND1;23;Ajuste de temperatura CND-01
+PA000729;21/05/2025;06:24;III;Processo;EXP-01;00:41;Excesso de umidade na massa EXP-01
+PA000730;21/05/2025;08:35;I;Falha mecânica;rsc 01;00:19;Quebra de corrente RSC-01
+PA000731;21/05/2025;01:53;III;Falta de espaço para armazenar;RSC1;09:10;Armazém de farelo cheio
+PA000732;23/05/2025;02:05;III;Falha de automação / instrumentação;DST-01;138;Falha de comunicação CLP DST-01
+PA000733;23/05/2025;05:08;III;Falta de espaço para armazenar;RSC-01;735;Armazém de farelo cheio
+PA000734;25/05/2025;07:49;I;Falha mecânica;EXT-01;2h42;Quebra de corrente EXT-01
+PA000735;27/05/2025;09:10;I;Falta de espaço para armazenar;RSC-01;255;Armazém de farelo cheio
+PA000736;28/05/2025;06:47;III;Processo;DT-01;00:36;Embuchamento válvula rotativa DT-01
+PA000737;28/05/2025;02:55;III;Falta de espaço para armazenar;RSC-01;399;Armazém de farelo cheio
+PA000738;31/05/2025;07:35;I;Falta de espaço para armazenar;RSC-01;445;Armazém de farelo cheio
+PA000739;03/06/2025;05:21;III;Falha de automação / instrumentação  ;EXT-01;20;Falha de comunicação CLP EXT-01
+PA000740;05/06/2025;22:00;II;Processo;EXT-01;29;Embuchamento válvula rotativa EXT-01
+PA000741;05/06/2025;13:17;I;Falta de energia (interna);SUB-01;200;Queda de energia interna SUB-01
+PA000742;10/06/2025;21:03;Turno II;Falha de automação / instrumentação;EXT-01;00:30;Desarme sensor de nível EXT-01
+PA000743;10/06/2025;04:42;III;Falta de espaço para armazenar;RSC-01;354;Armazém de farelo cheio
+PA000744;11/06/2025;03:39;III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC-01;13:57;Armazém de farelo cheio
+PA000745;12/06/2025;13:32;I;Falta de espaço para armazenar;RSC-01;616;Armazém de farelo cheio
+PA000746;14/06/2025;01:08;Turno III;Processo;RSC1;60;Entupimento de rosca RSC-01
+PA000747;14/06/2025;13:28;I;falha elétrica;EXT-01;55;Desarme de disjuntor EXT-01
+PA000748;16/06/2025;19:54;II;Falha elétrica;EXP-01;65 min;Queima de motor EXP-01
+PA000749;19/06/2025;05:44;III;Manutencao preventiva;;691;Manutenção preventiva programada
+PA000750;27/06/2025;03:44;III;Falta de espaço para armazenar;RSC-01;5h02;Armazém de farelo cheio
+PA000751;28/06/2025;17:37;2;Falha mecânica;RSC-01;97;Quebra de eixo RSC-01
+PA000752;28/06/2025;06:35;III;Falta de espaço para armazenar;RSC-01;00:56;Armazém de farelo cheio
+PA000753;29/06/2025;09:22;I;Falha mecânica;EXP1;28;Quebra de eixo EXP-01
+PA000754;29/06/2025;01:27;III;Falta de espaço para armazenar;RSC1;567;Armazém de farelo cheio
+PA000755;30/06/2025;02:34;III;Processo;ext 01;31;Entupimento de rosca EXT-01
+PA000756;30/06/2025;04:19;III;Falha mecânica;DT-01;44;Vazamento de vapor DT-01
+PA000757;30/06/2025;17:53;II;Outras paradas;EXT-01;33;Limpeza emergencial EXT-01
+PA000758;30/06/2025;07:52;I;Falta de espaço para armazenar;RSC-01;723;Armazém de farelo cheio
+PA000759;01/07/2025;19:54;II; Falha mecânica;DT-01;16;Vazamento de vapor DT-01
+PA000760;01/07/2025;01:10;III;Falta de espaço para armazenar;RSC-01;728;Armazém de farelo cheio
+PA000761;02/07/2025;19:52;II;outras paradas;EXT01;15;Parada por inspeção de segurança
+PA000762;02/07/2025;07:54;I;Falta de espaço para armazenar;RSC-01;877;Armazém de farelo cheio
+PA000763;2025-07-03;07:15;I;Falta de espaço para armazenar;RSC-01;04:45;Armazém de farelo cheio
+PA000764;04/07/2025;07:25;I;Falta de espaço para armazenar;RSC-01;905;Armazém de farelo cheio
+PA000765;05/07/2025;05:41;III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC1;587;Armazém de farelo cheio
+PA000766;06/07/2025;10:05;Turno I;Falta de espaço para armazenar;RSC1;631;Armazém de farelo cheio
+PA000767;07/07/2025;11:48;1;Falta de espaço para armazenar;RSC-01;173;Armazém de farelo cheio
+PA000768;08/07/2025;19:52;II;Falha mecânica;RSC-01;44;Quebra de corrente RSC-01
+PA000769;09/07/2025;09:34;I;Falta de espaço para armazenar;RSC-01;648;Armazém de farelo cheio
+PA000770;11/07/2025;13:19;I;Falta de espaço para armazenar  ;RSC-01;316;Armazém de farelo cheio
+PA000771;12/07/2025;15:31;II; Falta de espaço para armazenar;RSC-01;432;Armazém de farelo cheio
+PA000772;13/07/2025;02:00;III;Falta de espaço para armazenar;RSC-01;906;Armazém de farelo cheio
+PA000773;14/07/2025;15:49;II;Processo;EXT-01;53;Entupimento de rosca EXT-01
+PA000774;16/07/2025;01:09;Turno III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC1;389;Armazém de farelo cheio
+PA000775;17/07/2025;10:32;I;Manutenção preventiva  ;;794;Manutenção preventiva programada
+PA000776;18/07/2025;16:07;II;Falha elétrica;LAM-01;25;Queima de motor LAM-01
+PA000777;18/07/2025;17:50;II; Falha elétrica;RSC01;89;Falha no inversor RSC-01
+PA000778;19/07/2025;09:58;I;Falha mecânica;LAM-02;103;Troca de rolamento LAM-02
+PA000779;19/07/2025;17:05;II;Falha mecânica;lam 01;48;Troca de rolamento LAM-01
+PA000780;19/07/2025;18:12;II;Falta de espaço para armazenar;RSC-01;257;Armazém de farelo cheio
+PA000781;20/07/2025;02:09;III;falha mecânica;CND-01;188;Vazamento de vapor CND-01
+PA000782;20/07/2025;01:07;III;Falha mecânica;DSC-01;1h10;Quebra de eixo DSC-01
+PA000783;20/07/2025;11:18;I;Falta de espaço para armazenar;RSC-01;426;Armazém de farelo cheio
+PA000784;21/07/2025;05:16;III;Falta de espaço para armazenar;rsc 01;363;Armazém de farelo cheio
+PA000785;22/07/2025;06:05;III;Falta de espaço para armazenar;RSC-01;1039;Armazém de farelo cheio
+PA000786;23/07/2025;15:58;II;Outras paradas  ;EXT-01;2h11;Parada por inspeção de segurança
+PA000787;24/07/2025;12:21;I;Falha elétrica;LAM-01;145;Queima de motor LAM-01
+PA000788;24/07/2025;06:02;III;Falta de espaço para armazenar  ;RSC1;3h44;Armazém de farelo cheio
+PA000789;25/07/2025;17:17;II;Outras paradas;EXT-01;05:19;Limpeza emergencial EXT-01
+PA000790;2025-07-25;17:20;II;Falta de espaco para armazenar;rsc 01;39;Armazém de farelo cheio
+PA000791;2025-07-26;09:14;I;Processo  ;EXT-01;43;Entupimento de rosca EXT-01
+PA000792;26-07-25;02:30;III;Falta de espaço para armazenar;RSC-01;248;Armazém de farelo cheio
+PA000793;29/07/2025;00:36;III;FALHA ELÉTRICA;EXT-01;44;Falha no inversor EXT-01
+PA000794;29/07/2025;10:52;I;Falta de espaço para armazenar;RSC-01;78;Armazém de farelo cheio
+PA000795;30/07/2025;11:11;I;falha elétrica;EXT-01;18;Falha no inversor EXT-01
+PA000796;2025-07-30;01:37;Turno III;Falha mecânica;EXT01;1114;Quebra de corrente EXT-01
+PA000797;31/07/2025;10:01;I;Falha mecânica;RSC-01;03:44;Quebra de corrente RSC-01
+PA000798;03/08/2025;20:55;Turno II;Falha de automação / instrumentação;DT-01;0h38;Leitura incorreta de temperatura DT-01
+PA000799;05/08/2025;08:00;I;Manutenção preventiva;;946;Manutenção preventiva programada
+PA000800;05/08/2025;02:33;III;Processo;DT-01;23;Ajuste de temperatura DT-01
+PA000801;06/08/2025;17:10;II;Falha de automação / instrumentação;DST1;16 min;Falha de comunicação CLP DST-01
+PA000802;09/08/2025;07:57;I;Falta de espaço para armazenar;RSC-01;56;Armazém de farelo cheio
+PA000803;10/08/2025;06:26;III;Falta de espaço para armazenar;RSC-01;14:15;Armazém de farelo cheio
+PA000804;11/08/2025;15:44;II;FALTA DE ESPAÇO PARA ARMAZENAR;rsc 01;494;Armazém de farelo cheio
+PA000805;12/08/2025;02:26;III;Falta de espaço para armazenar;RSC-01;638;Armazém de farelo cheio
+PA000806;13/08/2025;02:20;3;Falta de espaço para armazenar;RSC-01;816;Armazém de farelo cheio
+PA000807;14/08/2025;10:54;I;Falta de espaço para armazenar;RSC-01;445;Armazém de farelo cheio
+PA000808;15/08/2025;05:01;III;Falta de espaço para armazenar;RSC-01;588;Armazém de farelo cheio
+PA000809;16/08/2025;19:00;2;falha mecânica;DSC-01;51;Quebra de eixo DSC-01
+PA000810;16/08/2025;22:30;II;Falta de espaço para armazenar;RSC-01;00:55;Armazém de farelo cheio
+PA000811;22/08/2025;07:09;Turno I;Falha elétrica;EXT01;81 min;Falha no inversor EXT-01
+PA000812;22/08/2025;01:56;III; Falta de espaço para armazenar;RSC-01;351;Armazém de farelo cheio
+PA000813;23/08/2025;02:15;III;Falta de espaço para armazenar;rsc 01;796;Armazém de farelo cheio
+PA000814;24/08/2025;00:45;Turno III;Falta de espaço para armazenar;RSC-01;91;Armazém de farelo cheio
+PA000815;26/08/2025;08:52;I;Falta de espaço para armazenar;rsc 01;895;Armazém de farelo cheio
+PA000816;27/08/2025;01:40;III;Falta de espaço para armazenar;RSC-01;1231;Armazém de farelo cheio
+PA000817;2025-08-28;03:02;III;Falta de espaço para armazenar;RSC-01;704;Armazém de farelo cheio
+PA000818;29/08/2025;11:34;I;Falta de espaço para armazenar;RSC-01;386;Armazém de farelo cheio
+PA000819;30/08/2025;10:58;I;Falta de espaço para armazenar;RSC-01;712;Armazém de farelo cheio
+PA000820;31/08/2025;05:06;III;Falta de espaço para armazenar;RSC-01;459;Armazém de farelo cheio
+PA000821;03/09/2025;21:02;II;Falta de espaço para armazenar;RSC-01;116;Armazém de farelo cheio
+PA000822;04/09/2025;08:32;I;Falta de espaço para armazenar;RSC-01;169;Armazém de farelo cheio
+PA000823;05/09/2025;18:46;II;Processo;DT-02;25;Embuchamento válvula rotativa DT-02
+PA000824;05/09/2025;10:13;Turno I;Falta de espaço para armazenar;RSC01;688;Armazém de farelo cheio
+PA000825;06/09/2025;13:57;I;Falta de espaço para armazenar  ;RSC-01;168;Armazém de farelo cheio
+PA000826;07/09/2025;06:32;III;Falta de espaço para armazenar;RSC-01;835;Armazém de farelo cheio
+PA000827;08/09/2025;06:57;III;Falta de espaco para armazenar;RSC-01;16h02;Armazém de farelo cheio
+PA000828;09/09/2025;15:16;II;Falta de espaço para armazenar;RSC-01;356;Armazém de farelo cheio
+PA000829;10/09/2025;05:22;III;Processo;EXT-01;18;Embuchamento válvula rotativa EXT-01
+PA000830;10/09/2025;03:00;III;Falta de espaço para armazenar;RSC-01;869;Armazém de farelo cheio
+PA000831;2025-09-11;00:49;III;Falta de espaço para armazenar;RSC-01;5h49;Armazém de farelo cheio
+PA000832;12/09/2025;09:24;I;Falta de espaço para armazenar;RSC-01;11h18;Armazém de farelo cheio
+PA000833;14/09/2025;18:52;Turno II;Processo;DT1;47;Embuchamento válvula rotativa DT-01
+PA000834;18/09/2025;16:18;II;Falta de espaço para armazenar;RSC-01;206;Armazém de farelo cheio
+PA000835;19/09/2025;09:05;I;Falta de espaço para armazenar;RSC-01;411;Armazém de farelo cheio
+PA000836;2025-09-20;06:07;III;falta de espaço para armazenar;RSC-01;16:33;Armazém de farelo cheio
+PA000837;21/09/2025;00:31;III;Processo  ;DT01;74;Ajuste de temperatura DT-01
+PA000838;21/09/2025;05:41;III;falta de espaço para armazenar;RSC-01;178;Armazém de farelo cheio
+PA000839;23/09/2025;06:45;III;Falha elétrica  ;EXT-01;102;Desarme de disjuntor EXT-01
+PA000840;23/09/2025;03:56;III;Falha elétrica;rsc 01;80 min;Falha no inversor RSC-01
+PA000841;2025-09-23;04:39;3;Falta de espaço para armazenar;RSC-01;344;Armazém de farelo cheio
+PA000842;24/09/2025;19:54;II;Falta de espaço para armazenar;RSC-01;17;Armazém de farelo cheio
+PA000843;26/09/2025;01:32;III; Falta de espaço para armazenar;RSC-01;246;Armazém de farelo cheio
+PA000844;27/09/2025;10:00;I;Falta de espaço para armazenar;RSC-01;10h44;Armazém de farelo cheio
+PA000845;29/09/2025;01:17;III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC-01;10h51;Armazém de farelo cheio
+PA000846;30/09/2025;11:04;I;Manutenção preventiva;;618;Manutenção preventiva programada
+PA000847;01/10/2025;15:31;II; Falha mecânica;DSC-01;112;Quebra de eixo DSC-01
+PA000848;02/10/2025;13:23;I;Processo;DT-02;15 min;Embuchamento válvula rotativa DT-02
+PA000849;02/10/2025;18:42;II;Falta de espaço para armazenar;RSC-01;141;Armazém de farelo cheio
+PA000850;03/10/2025;06:01;III; Falta de espaço para armazenar;rsc 01;828;Armazém de farelo cheio
+PA000851;04/10/2025;14:34;I;Falta de espaço para armazenar;RSC-01;137;Armazém de farelo cheio
+PA000852;06/10/2025;18:07;II;Falha de automação / instrumentação;DT1;0h40;Desarme sensor de nível DT-01
+PA000853;06/10/2025;17:02;II;falta de espaço para armazenar;RSC-01;1h48;Armazém de farelo cheio
+PA000854;07/10/2025;11:52;Turno I;Falha mecânica;LAM-02;55;Troca de rolamento LAM-02
+PA000855;07/10/2025;04:55;3;Falta de espaço para armazenar;rsc 01;244;Armazém de farelo cheio
+PA000856;08/10/2025;20:58;II;Falha mecânica;RSC-01;172;Quebra de eixo RSC-01
+PA000857;09/10/2025;06:56;III;Falta de espaço para armazenar;RSC-01;448 min;Armazém de farelo cheio
+PA000858;10/10/2025;00:23;III;Falta de espaço para armazenar;RSC-01;1181;Armazém de farelo cheio
+PA000859;11/10/2025;00:42;3;Falta de espaço para armazenar;RSC-01;189;Armazém de farelo cheio
+PA000860;12/10/2025;08:25;I;Falha de automacao / instrumentacao;DT-01;2h05;Desarme sensor de nível DT-01
+PA000861;2025-10-12;04:08;III;Falta de espaço para armazenar;RSC-01;595;Armazém de farelo cheio
+PA000862;13/10/2025;03:14;III;Falta de espaço para armazenar;RSC-01;854;Armazém de farelo cheio
+PA000863;14/10/2025;03:16;III;Falta de espaço para armazenar;RSC-01;1136;Armazém de farelo cheio
+PA000864;15/10/2025;21:07;II;FALHA MECÂNICA;LAM-01;159;Troca de rolamento LAM-01
+PA000865;15/10/2025;08:38;I;Falta de energia (externa);SUB-01;1h14;Queda de energia da concessionária
+PA000866;15/10/2025;13:20;I;Falta de espaço para armazenar;RSC-01;01:35;Armazém de farelo cheio
+PA000867;16/10/2025;16:30;II;Falha de automação / instrumentação;DT-01;47;Desarme sensor de nível DT-01
+PA000868;16/10/2025;09:30;I;Falta de espaço para armazenar;rsc 01;582;Armazém de farelo cheio
+PA000869;17/10/2025;09:16;I;Falta de espaço para armazenar;RSC-01;583;Armazém de farelo cheio
+PA000870;18/10/2025;21:42;II;Falha mecânica  ;CND-01;0h11;Vazamento de vapor CND-01
+PA000871;18-10-25;09:00;I;Falta de espaço para armazenar;RSC-01;424;Armazém de farelo cheio
+PA000872;19/10/2025;08:51;I;FALHA MECÂNICA;RSC-01;151;Quebra de eixo RSC-01
+PA000873;19/10/2025;19:48;II;Falta de espaco para armazenar;RSC-01;233;Armazém de farelo cheio
+PA000874;2025-10-20;04:54;3;Falha mecânica;EXT-01;117 min;Quebra de corrente EXT-01
+PA000875;20/10/2025;04:22;III;Falta de espaço para armazenar;RSC1;725;Armazém de farelo cheio
+PA000876;21/10/2025;07:01;I;Falta de espaço para armazenar;RSC-01;1004;Armazém de farelo cheio
+PA000877;22/10/2025;12:29;I;Falta de espaço para armazenar;RSC-01;645;Armazém de farelo cheio
+PA000878;23-10-25;06:09;III;Falta de espaço para armazenar;RSC-01;583;Armazém de farelo cheio
+PA000879;2025-10-24;00:24;III;Falta de espaço para armazenar;RSC-01;1180;Armazém de farelo cheio
+PA000880;25/10/2025;09:21;I;Falta de espaço para armazenar;RSC-01;677;Armazém de farelo cheio
+PA000881;26/10/2025;09:33;I;Falta de espaço para armazenar;RSC-01;476;Armazém de farelo cheio
+PA000882;27/10/2025;08:12;I;Falta de espaço para armazenar;RSC1;145;Armazém de farelo cheio
+PA000883;28-10-25;00:06;III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC-01;760;Armazém de farelo cheio
+PA000884;29/10/2025;10:43;I;falta de espaço para armazenar;RSC-01;741;Armazém de farelo cheio
+PA000885;31/10/2025;01:20;III;Manutenção preventiva  ;;832;Manutenção preventiva programada
+PA000886;31/10/2025;04:42;III;Falha mecânica  ;EXT-01;34;Quebra de corrente EXT-01
+PA000887;01/11/2025;19:14;II;Falta de espaço para armazenar;RSC-01;01:07;Armazém de farelo cheio
+PA000888;2025-11-02;10:17;I;FALHA MECÂNICA;CND-01;83;Vazamento de vapor CND-01
+PA000889;02/11/2025;03:51;III;Falta de espaço para armazenar;RSC-01;805;Armazém de farelo cheio
+PA000890;03/11/2025;15:15;II;Falta de energia (externa);SUB-01;00:28;Queda de energia da concessionária
+PA000891;03/11/2025;01:27;III; Falta de espaço para armazenar;RSC-01;711;Armazém de farelo cheio
+PA000892;04/11/2025;10:12;Turno I;Falta de espaço para armazenar;RSC-01;508;Armazém de farelo cheio
+PA000893;05/11/2025;12:11;I;Falta de espaço para armazenar;RSC-01;444;Armazém de farelo cheio
+PA000894;06/11/2025;16:50;II;Falha de automação / instrumentação;DT01;14;Desarme sensor de nível DT-01
+PA000895;06/11/2025;07:59;I;Falta de espaço para armazenar;RSC-01;737;Armazém de farelo cheio
+PA000896;07/11/2025;20:19;II;Falha de automação / instrumentação;DST-01;21;Falha de comunicação CLP DST-01
+PA000897;07/11/2025;06:43;III;Falta de espaço para armazenar;RSC-01;931;Armazém de farelo cheio
+PA000898;09/11/2025;00:49;3;Falta de espaço para armazenar;RSC-01;656;Armazém de farelo cheio
+PA000899;10/11/2025;03:17;Turno III;Processo;RSC-01;26;Entupimento de rosca RSC-01
+PA000900;10/11/2025;08:11;I;Falta de espaço para armazenar;RSC01;244;Armazém de farelo cheio
+PA000901;11/11/2025;09:29;Turno I;Falha mecânica;QBR-01;143;Troca de rolamento QBR-01
+PA000902;11/11/2025;05:23;III;Falta de espaço para armazenar  ;RSC-01;648;Armazém de farelo cheio
+PA000903;12/11/2025;03:50;Turno III;FALTA DE ESPAÇO PARA ARMAZENAR;RSC01;1185;Armazém de farelo cheio
+PA000904;13/11/2025;01:16;III;Falta de espaço para armazenar;RSC-01;480;Armazém de farelo cheio
+PA000905;14/11/2025;04:56;III;Falta de espaço para armazenar;RSC-01;495;Armazém de farelo cheio
+PA000906;15/11/2025;09:30;I;Falta de espaço para armazenar;RSC-01;489;Armazém de farelo cheio
+PA000907;16/11/2025;22:15;II;Falha mecânica  ;EXP-01;1h30;Quebra de eixo EXP-01
+PA000908;16/11/2025;19:31;II;Falta de espaço para armazenar;RSC-01;112;Armazém de farelo cheio
+PA000909;17/11/2025;15:53;II;Falha mecânica;CND-01;95;Vazamento de vapor CND-01
+PA000910;17/11/2025;06:58;III;falta de espaço para armazenar;RSC-01;09:02;Armazém de farelo cheio
+PA000911;18/11/2025;07:39;I;Falta de espaço para armazenar;RSC-01;841;Armazém de farelo cheio
+PA000912;19/11/2025;21:22;II;Processo;CND-01;0h21;Excesso de umidade na massa CND-01
+PA000913;19/11/2025;09:44;I;Falta de espaço para armazenar;RSC-01;713;Armazém de farelo cheio
+PA000914;20/11/2025;03:00;III;Processo;CND-01;23;Excesso de umidade na massa CND-01
+PA000915;20/11/2025;12:02;1;Falta de energia (externa);SUB-01;0h56;Queda de energia da concessionária
+PA000916;20/11/2025;05:01;III;Falta de espaço para armazenar;RSC-01;1032;Armazém de farelo cheio
+PA000917;21/11/2025;12:23;I;Manutencao preventiva;;646 min;Manutenção preventiva programada
+PA000918;21/11/2025;17:57;II;Falta de espaço para armazenar;RSC-01;3h57;Armazém de farelo cheio
+PA000919;22/11/2025;05:48;Turno III;Falta de espaço para armazenar;rsc 01;770;Armazém de farelo cheio
+PA000920;25/11/2025;07:32;I;Falta de espaco para armazenar;RSC-01;382;Armazém de farelo cheio
+PA000921;2025-11-26;07:31;I;Falta de espaço para armazenar;RSC-01;837;Armazém de farelo cheio
+PA000922;2025-11-27;04:06;III;Falta de espaço para armazenar;RSC-01;752;Armazém de farelo cheio
+PA000923;28/11/2025;15:05;2;Falta de espaço para armazenar;RSC-01;18;Armazém de farelo cheio
+PA000924;29/11/2025;03:07;III;Falta de espaço para armazenar;RSC-01;480 min;Armazém de farelo cheio
+PA000925;30/11/2025;08:25;I;Falha mecânica;DSC-01;99;Quebra de eixo DSC-01
+PA000926;30/11/2025;11:24;I; Falta de espaço para armazenar;RSC01;420;Armazém de farelo cheio
+PA000927;02/12/2025;21:12;II;Falta de energia (interna);SUB1;16;Queda de energia interna SUB-01
+PA000928;02/12/2025;08:43;I;Falta de espaço para armazenar;RSC-01;438;Armazém de farelo cheio
+PA000929;03/12/2025;11:42;I;Manutencao preventiva;;539;Manutenção preventiva programada
+PA000930;04/12/2025;00:24;III;Falta de espaço para armazenar;RSC-01;540;Armazém de farelo cheio
+PA000931;2025-12-05;07:31;I;Falta de espaço para armazenar  ;RSC-01;9h57;Armazém de farelo cheio
+PA000932;06/12/2025;02:35;III;Falha mecânica;EXP-01;198;Quebra de eixo EXP-01
+PA000933;06/12/2025;11:16;I; Falta de espaço para armazenar;RSC01;192;Armazém de farelo cheio
+PA000934;2025-12-07;04:20;III;Falta de materia-prima;;559;Falta de MP
+PA000935;07/12/2025;11:39;Turno I;Falta de espaço para armazenar;rsc 01;196;Armazém de farelo cheio
+PA000936;2025-12-08;05:42;3;Falha mecânica;DT-01;01:02;Vazamento de vapor DT-01
+PA000937;08/12/2025;07:25;Turno I;Outras paradas;DST01;66;Limpeza emergencial DST-01
+PA000938;08/12/2025;06:39;III;Falta de matéria-prima;;13:39;Falta de MP
+PA000939;09/12/2025;13:05;I;FALHA MECÂNICA;EXT-01;215;Quebra de corrente EXT-01
+PA000940;09/12/2025;09:12;Turno I;Falta de matéria-prima;;815;Falta de MP
+PA000941;10/12/2025;02:11;III;Falta de matéria-prima;;1183;Falta de MP
+PA000941;10/12/2025;02:11;III;Falta de matéria-prima;;1183;Falta de MP
+PA000942;11/12/2025;02:13;III;Falta de matéria-prima;;1078;Falta de MP
+PA000943;12/12/2025;13:24;I;Falha mecânica;EXT-01;96;Quebra de corrente EXT-01
+PA000944;12/12/2025;02:30;3;falta de matéria-prima;;908;Falta de MP
+PA000945;13/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000946;14/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000947;15/12/2025;00:00;III;ENTRESSAFRA;;1440;Parada programada de entressafra
+PA000948;16/12/2025;00:00;III;entressafra;;1440;Parada programada de entressafra
+PA000949;17/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000950;18/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000951;19-12-25;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000952;2025-12-20;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000953;2025-12-21;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000954;22/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000955;23/12/2025;00:00;III;Entressafra;;1440 min;Parada programada de entressafra
+PA000956;24/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000956;24/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000957;25-12-25;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000958;26/12/2025;00:00;III; Entressafra;;1440;Parada programada de entressafra
+PA000959;27/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000960;28/12/2025;00:00;III;ENTRESSAFRA;;1440;Parada programada de entressafra
+PA000961;29/12/2025;00:00;III;Entressafra;;24:00;Parada programada de entressafra
+PA000962;30/12/2025;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000963;31/12/2025;00:00;III;ENTRESSAFRA;;24h00;Parada programada de entressafra
+PA000964;01/01/2026;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000965;02/01/2026;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000966;03/01/2026;00:00;III;entressafra;;1440;Parada programada de entressafra
+PA000967;2026-01-04;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000968;05/01/2026;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000969;06/01/2026;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000970;07/01/2026;00:00;III;Entressafra;;1440;Parada programada de entressafra
+PA000971;08/01/2026;00:00;3;Entressafra;;24:00;Parada programada de entressafra
+PA000972;09/01/2026;06:47;III;Manutenção preventiva;;853;Manutenção preventiva programada
+PA000973;10/01/2026;22:53;II;Falha mecânica;DSC-01;18;Quebra de eixo DSC-01
+PA000974;10-01-26;16:48;II;Falha elétrica;EXP01;82;Queima de motor EXP-01
+PA000975;12/01/2026;12:27;I;Processo;EXT-01;33;Embuchamento válvula rotativa EXT-01
+PA000976;19/01/2026;13:31;Turno I;Falta de matéria-prima;;270;Falta de MP
+PA000977;20/01/2026;08:22;I;Falta de matéria-prima;;908;Falta de MP
+PA000978;21/01/2026;04:38;III;Falta de matéria-prima;;1020;Falta de MP
+PA000979;2026-01-22;03:11;III;Processo;CND-01;21;Excesso de umidade na massa CND-01
+PA000980;22/01/2026;00:41;III;Falta de matéria-prima;;1110;Falta de MP
+PA000981;23/01/2026;14:21;I;Falha mecanica;EXT01;0h44;Quebra de corrente EXT-01
+PA000982;23/01/2026;04:26;3; Falta de matéria-prima;;1161;Falta de MP
+PA000983;24/01/2026;02:07;III; Falta de matéria-prima;;1220;Falta de MP
+PA000984;25/01/2026;01:29;III;Falta de matéria-prima;;1260;Falta de MP
+PA000985;26/01/2026;00:42;III;Falha mecânica;LAM-02;00:44;Troca de rolamento LAM-02
+PA000986;26/01/2026;00:30;III;Falta de matéria-prima;;999;Falta de MP
+PA000987;27/01/2026;08:24;I;Falha elétrica;SUB01;38 min;Desarme de disjuntor SUB-01
+PA000988;27/01/2026;07:12;I;Falta de matéria-prima;;579;Falta de MP
+PA000989;28-01-26;05:17;III;Processo;DT02;48;Embuchamento válvula rotativa DT-02
+PA000990;28-01-26;04:32;III;Falta de matéria-prima;;698;Falta de MP
+PA000991;29/01/2026;13:42;I;Outras paradas;EXT-01;105;Limpeza emergencial EXT-01
+PA000992;29/01/2026;05:16;III;Falta de matéria-prima;;929;Falta de MP
+PA000993;30/01/2026;05:27;III;Falta de matéria-prima  ;;831;Falta de MP
+PA000994;31/01/2026;04:30;III;Falta de materia-prima;;1012;Falta de MP
+PA000995;01/02/2026;10:37;I;Falha mecânica  ;DT-02;131;Vazamento de vapor DT-02
+PA000996;01/02/2026;00:19;III;Falta de matéria-prima;;19:54;Falta de MP
+PA000997;02-02-26;23:25;III;Processo;DT01;31;Embuchamento válvula rotativa DT-01
+PA000998;02/02/2026;13:48;I;falha elétrica;EXT-01;17;Falha no inversor EXT-01
+PA000999;02/02/2026;06:36;III;Falta de matéria-prima;;710;Falta de MP
+PA001000;03/02/2026;16:56;II;FALTA DE MATÉRIA-PRIMA;;248;Falta de MP
+PA001001;2026-02-04;12:13;1;Falha de automação / instrumentação;DST-01;13;Falha de comunicação CLP DST-01
+PA001002;06/02/2026;07:36;I;Processo;CND-01;42;Ajuste de temperatura CND-01
+PA001003;06-02-26;17:15;II;Falha elétrica;RSC-01;57;Falha no inversor RSC-01
+PA001004;06/02/2026;01:48;III;Falta de matéria-prima;;09:28;Falta de MP
+PA001005;07/02/2026;12:02;I;Falta de matéria-prima;;11:38;Falta de MP
+PA001006;2026-02-08;04:19;III;Falta de materia-prima;;15h19;Falta de MP
+PA001007;09/02/2026;06:31;III;Falta de matéria-prima;;531;Falta de MP
+PA001008;10/02/2026;04:58;Turno III;Falta de energia (externa);SUB-01;2h35;Queda de energia da concessionária
+PA001009;10/02/2026;05:24;III;Falta de matéria-prima;;226;Falta de MP
+PA001010;11/02/2026;06:15;3;Falha mecânica;RSC-01;840;Quebra de corrente RSC-01
+PA001011;2026-02-12;15:03;II;falta de matéria-prima;;02:24;Falta de MP
+PA001012;13/02/2026;10:50;I;FALTA DE MATÉRIA-PRIMA;;745;Falta de MP
+PA001013;14/02/2026;07:24;Turno I;Falta de matéria-prima;;711;Falta de MP
+PA001014;15/02/2026;03:58;III; Falta de matéria-prima;;974;Falta de MP
+PA001015;16/02/2026;16:58;II;Falha elétrica;EXT1;02:26;Falha no inversor EXT-01
+PA001016;16/02/2026;03:48;III;Falta de matéria-prima;;765;Falta de MP
+PA001017;18/02/2026;21:33;II;falta de matéria-prima;;106 min;Falta de MP
+PA001018;19/02/2026;13:35;I;Falta de matéria-prima;;195;Falta de MP
+PA001019;21/02/2026;22:41;II;Falta de energia (externa);SUB1;17;Queda de energia da concessionária
+PA001020;22/02/2026;03:12;III;Falta de matéria-prima;;927;Falta de MP
+PA001021;23/02/2026;05:13;Turno III;Falta de materia-prima;;963;Falta de MP
+PA001022;24/02/2026;15:45;Turno II;Falta de matéria-prima;;146;Falta de MP
+PA001023;25/02/2026;05:41;III;Manutenção preventiva;;715;Manutenção preventiva programada
+PA001024;27/02/2026;10:57;1;Falta de matéria-prima;;230;Falta de MP
+PA001024;27/02/2026;10:57;1;Falta de matéria-prima;;230;Falta de MP
+PA001025;28/02/2026;16:43;II;Falta de matéria-prima;;306;Falta de MP
+PA001026;01/03/2026;11:17;I;Falta de matéria-prima;;756;Falta de MP
+PA001027;02-03-26;09:54;I;Falta de matéria-prima;;636;Falta de MP
+PA001028;03/03/2026;08:27;I;Falha mecânica;LAM-02;202;Troca de rolamento LAM-02
+PA001029;09/03/2026;17:00;II;Falta de energia (externa);SUB-01;1h42;Queda de energia da concessionária
+PA001030;13/03/2026;20:18;II;Falta de energia (externa);SUB-01;40;Queda de energia da concessionária
+PA001031;14/03/2026;15:01;II;PROCESSO;DT-02;5;Ajuste de temperatura DT-02
+PA001032;14-03-26;02:24;3;processo;EXT-01;74;Entupimento de rosca EXT-01
+PA001033;14/03/2026;22:03;II;Falha de automação / instrumentação;DT2;12;Leitura incorreta de temperatura DT-02
+PA001034;15/03/2026;03:45;III;Falta de matéria-prima;;67;Falta de MP
+PA001035;16/03/2026;02:40;III;falta de matéria-prima;;684;Falta de MP
+PA001036;2026-03-17;05:59;III;Falta de matéria-prima;;332;Falta de MP
+PA001037;18/03/2026;15:46;Turno II;Processo;DT-02;22;Ajuste de temperatura DT-02
+PA001038;18/03/2026;04:43;III;Falta de matéria-prima;;690;Falta de MP
+PA001039;19/03/2026;06:45;Turno III;Falta de matéria-prima;;885;Falta de MP
+PA001040;2026-03-20;13:52;I;Falha mecânica;LAM-01;1h31;Desalinhamento de rolos LAM-01
+PA001041;20/03/2026;01:05;III; Falta de matéria-prima;;248;Falta de MP
+PA001041;20/03/2026;01:05;III; Falta de matéria-prima;;248;Falta de MP
+PA001042;21/03/2026;02:30;3;processo;DT-02;31;Ajuste de temperatura DT-02
+PA001043;21/03/2026;08:20;Turno I;falta de matéria-prima;;132;Falta de MP
+PA001044;22/03/2026;12:39;I;Falta de matéria-prima;;525;Falta de MP
+PA001045;25/03/2026;01:49;III;Falta de matéria-prima;;413;Falta de MP
+PA001046;26/03/2026;11:34;Turno I;Falta de matéria-prima;;262;Falta de MP
+PA001047;27/03/2026;02:37;III;falta de matéria-prima;;269;Falta de MP
+PA001048;28-03-26;00:08;III;Falta de matéria-prima;;601;Falta de MP
+PA001049;2026-03-29;18:01;II;Falha de automação / instrumentação;EXT-01;61;Falha de comunicação CLP EXT-01
+PA001050;29/03/2026;10:31;I;Falta de matéria-prima;;809;Falta de MP
+PA001051;30/03/2026;16:56;2;Falta de matéria-prima;;143;Falta de MP
+PA001052;31/03/2026;04:46;III;manutenção preventiva;;703;Manutenção preventiva programada
+PA001053;04/04/2026;14:07;I;Falha mecânica;LAM-01;151;Troca de rolamento LAM-01
+PA001054;04/04/2026;10:46;1;Falha de automação / instrumentação;DT-01;20;Desarme sensor de nível DT-01
+PA001055;06/04/2026;03:43;III; Falha mecânica;EXP-01;40;Quebra de eixo EXP-01
+PA001056;07/04/2026;18:44;II;Falha mecânica;EXT-01;61;Quebra de corrente EXT-01
+PA001057;08/04/2026;00:13;III;Manutenção preventiva;;949;Manutenção preventiva programada
+PA001058;09/04/2026;15:38;II;Falha mecânica;exp 01;1h44;Quebra de eixo EXP-01
+PA001059;11/04/2026;08:31;I;Processo;RSC-01;6;Entupimento de rosca RSC-01
+PA001060;11/04/2026;10:58;I; Falha mecânica;DSC-01;130;Quebra de eixo DSC-01
+PA001061;12/04/2026;09:12;I;PROCESSO;EXP-01;60;Excesso de umidade na massa EXP-01
+PA001062;14/04/2026;13:24;I;Falha elétrica;LAM-02;33;Queima de motor LAM-02
+PA001063;2026-04-16;20:09;II;Processo;DT-02;0h30;Ajuste de temperatura DT-02
+PA001064;17/04/2026;00:44;III;Falha mecânica;ext 01;390;Quebra de corrente EXT-01
+PA001065;24/04/2026;06:27;III;Falha mecânica;exp 01;49;Quebra de eixo EXP-01
+PA001066;29/04/2026;12:11;I;Falha mecânica;DT-01;165;Vazamento de vapor DT-01
+PA001067;01/05/2026;11:24;I;Falha mecânica;DSC-01;1h11;Quebra de eixo DSC-01
+PA001068;03-05-26;22:41;II;Falha mecânica;exp 01;46;Quebra de eixo EXP-01
+PA001069;04/05/2026;23:26;III;Processo  ;DT1;32;Embuchamento válvula rotativa DT-01
+PA001070;07/05/2026;18:23;Turno II;Falha mecânica;LAM01;32;Troca de rolamento LAM-01
+PA001071;2026-05-10;07:40;I;Falha mecânica;LAM-02;25;Desalinhamento de rolos LAM-02
+PA001072;13/05/2026;06:31;III;Manutenção preventiva;;861;Manutenção preventiva programada
+PA001073;15/05/2026;00:24;III;Falha mecânica;CND-01;53;Vazamento de vapor CND-01
+PA001074;15/05/2026;19:02;2; Falha mecânica;DT-02;179;Vazamento de vapor DT-02
+PA001075;16/05/2026;02:23;III;Falha mecânica;LAM-02;90;Troca de rolamento LAM-02
+PA001076;18/05/2026;15:11;II;Falta de matéria-prima;;407;Falta de MP
+PA001077;2026-05-19;16:39;II;Falta de matéria-prima;;05:22;Falta de MP
+PA001078;20/05/2026;19:23;II;Falta de matéria-prima;;122;Falta de MP
+PA001079;21/05/2026;12:57;I;Falha eletrica;SUB1;28;Desarme de disjuntor SUB-01
+PA001080;2026-05-24;08:29;I;Falta de matéria-prima;;583;Falta de MP
+PA001081;25/05/2026;08:35;I;Processo;CND-01;00:39;Excesso de umidade na massa CND-01
+PA001082;25/05/2026;02:03;3;Falta de matéria-prima;;894;Falta de MP
+PA001083;2026-05-26;01:44;III;Falta de matéria-prima;;644;Falta de MP
+PA001084;27/05/2026;17:21;II;Falta de matéria-prima  ;;337;Falta de MP
+PA001085;28/05/2026;01:34;III;Falta de matéria-prima;;763;Falta de MP
+PA001086;29/05/2026;02:26;III;FALTA DE MATÉRIA-PRIMA;;558;Falta de MP
+PA001087;30/05/2026;13:32;I;Processo;DT-02;13;Embuchamento válvula rotativa DT-02
+PA001088;30/05/2026;01:01;III; Outras paradas;EXT01;75;Parada por inspeção de segurança
+PA001089;2026-05-30;01:44;III;Falta de matéria-prima;;590;Falta de MP
+PA001090;31/05/2026;14:06;I;Falha mecânica;RSC01;45;Quebra de eixo RSC-01
+PA001091;31/05/2026;05:23;III;Falta de matéria-prima;;1100;Falta de MP
+PA001092;01/06/2026;20:01;II;Falha mecânica;CND-01;66;Vazamento de vapor CND-01
+PA001093;01/06/2026;00:59;III;Falta de matéria-prima;;344;Falta de MP
+PA001094;03/06/2026;15:17;2;Falta de matéria-prima  ;;205;Falta de MP
+PA001095;04/06/2026;17:35;II;Falha mecânica;LAM-02;286;Desalinhamento de rolos LAM-02
+PA001096;04/06/2026;19:21;II;Falta de matéria-prima;;111;Falta de MP
+PA001097;05/06/2026;11:35;I;Manutenção preventiva;;521;Manutenção preventiva programada
+PA001098;06/06/2026;10:57;1;Falta de matéria-prima;;3h14;Falta de MP
+PA001099;07/06/2026;02:24;III;FALTA DE MATÉRIA-PRIMA;;1000;Falta de MP
+PA001100;08/06/2026;10:27;I;Processo  ;RSC-01;53;Entupimento de rosca RSC-01
+PA001101;08/06/2026;00:42;III;Falta de matéria-prima;;758;Falta de MP
+PA001102;09/06/2026;15:11;II;Falta de matéria-prima;;8h13;Falta de MP
+PA001103;10/06/2026;03:49;III;Falta de matéria-prima;;661;Falta de MP
+PA001104;11/06/2026;06:42;III;Falta de matéria-prima;;585;Falta de MP
+PA001105;12/06/2026;02:56;III;Falta de matéria-prima;;629;Falta de MP
+PA001106;2026-06-13;02:15;III;Falta de matéria-prima;;834;Falta de MP
+PA001107;14/06/2026;10:13;I;Processo;EXP01;54;Excesso de umidade na massa EXP-01
+PA001108;2026-06-14;05:13;III;Falta de matéria-prima;;891;Falta de MP
+PA001109;15/06/2026;03:05;III;Falha mecânica;QBR-01;188;Troca de rolamento QBR-01
+PA001110;15/06/2026;02:39;3;Falta de matéria-prima;;542;Falta de MP
+PA001111;16/06/2026;16:28;II;Falta de matéria-prima;;3h34;Falta de MP
+PA001112;2026-06-17;05:35;III;Falta de matéria-prima;;640;Falta de MP
+PA001113;18/06/2026;02:06;III;Falta de matéria-prima;;536;Falta de MP
+PA001114;19/06/2026;17:19;II; Falta de matéria-prima;;338;Falta de MP
+PA001115;2026-06-20;07:20;1;Falta de matéria-prima;;814;Falta de MP
+PA001116;21/06/2026;16:58;II;Falha mecânica;LAM-01;24;Desalinhamento de rolos LAM-01
+PA001117;21/06/2026;01:09;III;Falta de materia-prima;;1160;Falta de MP
+PA001118;2026-06-22;07:48;I;Falta de matéria-prima;;897;Falta de MP
+PA001119;23/06/2026;15:25;II;Falta de matéria-prima;;437;Falta de MP
+PA001120;2026-06-24;00:46;III;falta de matéria-prima;;518;Falta de MP
+PA001121;25/06/2026;06:21;III;Falta de matéria-prima;;797;Falta de MP
+PA001122;26/06/2026;15:09;II;Falha mecânica;EXT-01;59;Quebra de corrente EXT-01
+PA001123;2026-06-26;05:27;III;Falha elétrica;EXT-01;104;Desarme de disjuntor EXT-01
+PA001124;26/06/2026;12:20;1;Falta de matéria-prima;;603;Falta de MP
+PA001125;27/06/2026;04:33;III;Processo;RSC-01;0h43;Entupimento de rosca RSC-01
+PA001126;27/06/2026;12:33;Turno I;Falta de matéria-prima;;363;Falta de MP
+PA001127;28/06/2026;07:36;I; Falta de matéria-prima;;653;Falta de MP
+PA001128;29/06/2026;09:07;I;Falta de materia-prima;;790;Falta de MP
+PA001129;30/06/2026;05:08;III;Falta de matéria-prima;;4h59;Falta de MP
+PA001130;01/07/2026;01:28;III;Falta de matéria-prima;;451;Falta de MP
+PA001131;02/07/2026;04:18;III;Falta de matéria-prima;;939;Falta de MP
+PA001132;2026-07-03;03:27;III;Falta de materia-prima;;976;Falta de MP
+PA001133;2026-07-04;01:47;III;Falta de matéria-prima;;1059;Falta de MP
+PA001134;05/07/2026;04:50;III;Falha elétrica;EXT-01;188 min;Desarme de disjuntor EXT-01
+PA001135;05/07/2026;02:55;III;Falta de matéria-prima;;1026;Falta de MP
+PA001136;06/07/2026;09:40;I;Processo;DT-02;31;Embuchamento válvula rotativa DT-02
+PA001137;06/07/2026;01:07;Turno III;Falta de matéria-prima;;20h57;Falta de MP
+PA001138;2026-07-07;05:00;III;Falta de matéria-prima;;897;Falta de MP
+PA001139;08/07/2026;06:35;III; Falta de matéria-prima;;643;Falta de MP
+PA001140;09/07/2026;05:55;III;Falta de matéria-prima;;875;Falta de MP
+PA001141;2026-07-10;08:19;I;Falta de matéria-prima;;13:07;Falta de MP
+PA001142;2026-07-11;07:07;1;Falta de matéria-prima;;703;Falta de MP
+PA001143;12/07/2026;01:40;III;Falta de matéria-prima;;1028;Falta de MP
+PA001144;13/07/2026;07:09;I;Falta de matéria-prima;;952;Falta de MP
+PA001145;14/07/2026;13:00;1;Falta de matéria-prima;;587;Falta de MP
+PA001146;15/07/2026;10:21;I;Falta de matéria-prima;;514;Falta de MP
+PA001147;16/07/2026;00:53;III; Falta de matéria-prima;;588;Falta de MP
+PA001148;17/07/2026;08:25;I;Manutencao preventiva;;865;Manutenção preventiva programada
+PA001149;17/07/2026;00:58;3;Processo;EXT-01;42;Entupimento de rosca EXT-01
+PA001150;19/07/2026;04:14;III;Falta de matéria-prima;;16h02;Falta de MP
+PA001151;20/07/2026;00:33;III;Falta de matéria-prima  ;;770;Falta de MP
+PA001152;21/07/2026;04:34;III;Falta de matéria-prima;;588;Falta de MP
+PA001153;22/07/2026;01:40;III;Falta de materia-prima;;772;Falta de MP
+PA001154;23/07/2026;08:59;I;Falta de matéria-prima;;713;Falta de MP
+PA001155;24/07/2026;03:19;III;Processo;RSC-01;81;Entupimento de rosca RSC-01
+PA001156;24/07/2026;13:51;I;Falta de matéria-prima;;558;Falta de MP
+PA001157;25/07/2026;03:53;3;Falta de matéria-prima;;851;Falta de MP
+PA001158;26/07/2026;02:53;III;Falha mecânica;LAM-02;74;Troca de rolamento LAM-02
+PA001159;26/07/2026;05:46;3;Falta de matéria-prima;;1072;Falta de MP
+PA001160;27/07/2026;09:01;I;Falta de matéria-prima;;710;Falta de MP
+PA001160;27/07/2026;09:01;I;Falta de matéria-prima;;710;Falta de MP
+PA001161;28/07/2026;02:07;III;Falta de matéria-prima;;465;Falta de MP
+PA001162;29/07/2026;11:51;I;Falta de matéria-prima;;519;Falta de MP
+PA001163;30/07/2026;01:30;III;Falha mecânica;lam 01;94 min;Desalinhamento de rolos LAM-01
+PA001164;2026-07-30;13:47;I;Falha de automação / instrumentação;DT-01;53;Desarme sensor de nível DT-01
+PA001165;30/07/2026;08:45;I;Falta de matéria-prima;;11h56;Falta de MP
+PA001166;31/07/2026;02:21;III; Falta de matéria-prima;;1094;Falta de MP
+PA001167;01/08/2026;02:23;III;Falta de matéria-prima;;905;Falta de MP
+PA001168;02/08/2026;05:22;III;Falta de matéria-prima;;1105;Falta de MP
+PA001169;03/08/2026;03:33;Turno III;Processo;EXT-01;0h41;Entupimento de rosca EXT-01
+PA001170;03/08/2026;06:54;III;Processo;DT-02;48;Ajuste de temperatura DT-02
+PA001171;03/08/2026;03:52;III;Falta de matéria-prima;;1201;Falta de MP
+PA001172;2026-08-04;05:59;III;Falta de matéria-prima;;856;Falta de MP
+PA001173;05/08/2026;19:20;II;Processo;CND-01;20;Excesso de umidade na massa CND-01
+PA001174;2026-08-05;01:36;III;Falta de matéria-prima;;12h21;Falta de MP
+PA001175;06/08/2026;05:42;III; Falta de matéria-prima;;907;Falta de MP
+PA001176;07-08-26;15:43;II;Falha mecânica;CND-01;103;Vazamento de vapor CND-01
+PA001177;2026-08-07;03:34;III;Falta de matéria-prima;;656;Falta de MP
+PA001178;08/08/2026;08:46;I;FALHA ELÉTRICA;SUB-01;39;Desarme de disjuntor SUB-01
+PA001179;08/08/2026;08:01;I;Falta de matéria-prima;;956;Falta de MP
+PA001180;09/08/2026;01:33;III;Falta de matéria-prima;;21:34;Falta de MP
+PA001181;2026-08-10;11:31;I;Processo;DT-02;96;Embuchamento válvula rotativa DT-02
+PA001182;10/08/2026;00:38;III;Falta de matéria-prima;;1112;Falta de MP
+PA001183;2026-08-11;02:49;III;Falta de materia-prima;;1093;Falta de MP
+PA001184;12/08/2026;03:05;III;Falta de matéria-prima;;994;Falta de MP
+PA001185;13/08/2026;06:57;III; Falta de matéria-prima;;987;Falta de MP
+PA001186;14/08/2026;04:37;III;Manutenção preventiva;;924 min;Manutenção preventiva programada
+PA001187;2026-08-14;17:23;II;Falha mecânica;CND-01;51;Vazamento de vapor CND-01
+PA001188;2026-08-14;23:05;III;Falta de matéria-prima;;51;Falta de MP
+PA001189;2026-08-15;21:19;II;Falha mecânica;LAM-02;01:11;Troca de rolamento LAM-02
+PA001190;15/08/2026;21:03;II;Falha mecânica;LAM-01;98;Troca de rolamento LAM-01
+PA001191;15/08/2026;03:47;III;Falta de matéria-prima;;13:26;Falta de MP
+PA001192;16/08/2026;19:50;II;Falha mecânica;EXT-01;22;Quebra de corrente EXT-01
+PA001193;16/08/2026;08:07;I;Falha mecânica;LAM-02;543;Troca de rolamento LAM-02
+PA001194;16/08/2026;10:35;I;Falta de matéria-prima;;570;Falta de MP
+PA001195;17/08/2026;02:11;III;FALTA DE MATÉRIA-PRIMA;;857;Falta de MP
+PA001196;18/08/2026;14:10;I;Falha mecânica;lam 02;178;Desalinhamento de rolos LAM-02
+PA001197;19/08/2026;05:59;III;Falta de matéria-prima;;0h35;Falta de MP
+PA001198;20/08/2026;01:35;3; Falta de matéria-prima;;15h40;Falta de MP
+PA001199;21/08/2026;04:50;Turno III;Falta de matéria-prima;;957;Falta de MP
+PA001200;22/08/2026;04:02;III; Falta de matéria-prima;;857;Falta de MP
+PA001201;23/08/2026;00:41;III;Falta de matéria-prima;;1167;Falta de MP
+PA001202;24/08/2026;03:25;3;Falta de matéria-prima;;1175;Falta de MP
+PA001203;25/08/2026;06:35;III;Falta de matéria-prima;;952;Falta de MP
+PA001204;26/08/2026;23:17;III; Falta de energia (externa);SUB-01;00:23;Queda de energia da concessionária
+PA001205;26/08/2026;00:56;III;falta de matéria-prima;;819;Falta de MP
+PA001206;27/08/2026;03:42;III;Falta de matéria-prima;;743;Falta de MP
+PA001207;28/08/2026;00:19;III;Falta de matéria-prima  ;;762;Falta de MP
+PA001208;2026-08-29;09:08;I;Processo;RSC-01;15;Entupimento de rosca RSC-01
+PA001209;29/08/2026;07:21;I;Falta de matéria-prima;;15:00;Falta de MP
+PA001210;2026-08-30;12:56;I;Processo;EXP01;58;Excesso de umidade na massa EXP-01
+PA001211;30/08/2026;03:22;III;Falta de matéria-prima;;1118;Falta de MP
+PA001212;31/08/2026;02:59;III;Falta de matéria-prima;;1204;Falta de MP
+PA001213;01/09/2026;11:13;I;Processo;DT-02;23;Ajuste de temperatura DT-02
+PA001214;01/09/2026;03:51;III;FALTA DE MATÉRIA-PRIMA;;1190;Falta de MP
+PA001215;02/09/2026;08:05;I;Falta de matéria-prima;;893;Falta de MP
+PA001216;03/09/2026;00:15;III;Falta de matéria-prima;;482;Falta de MP
+PA001217;04/09/2026;06:03;III; Falta de matéria-prima;;737;Falta de MP
+PA001218;05/09/2026;05:35;III;Falta de matéria-prima;;17h36;Falta de MP
+PA001219;06/09/2026;21:35;II;Falha elétrica  ;RSC-01;01:03;Falha no inversor RSC-01
+PA001220;2026-09-06;00:11;III;Falta de matéria-prima;;1126;Falta de MP
+PA001221;2026-09-07;01:29;III;Falta de matéria-prima;;1131;Falta de MP
+PA001222;08/09/2026;07:26;I; Falta de matéria-prima;;637;Falta de MP
+PA001223;09/09/2026;05:19;3;Falta de matéria-prima;;575;Falta de MP
+PA001224;10/09/2026;01:47;III;Falta de matéria-prima;;947;Falta de MP
+PA001225;11/09/2026;04:50;III;Falha elétrica;EXT-01;19;Desarme de disjuntor EXT-01
+PA001226;11/09/2026;05:17;III;Falta de matéria-prima;;980;Falta de MP
+PA001227;2026-09-12;02:39;III;Falta de matéria-prima;;1128;Falta de MP
+PA001228;13/09/2026;00:48;III;Falta de matéria-prima;;21h40;Falta de MP
+PA001229;14/09/2026;01:53;III;Falta de matéria-prima;;1121;Falta de MP
+PA001230;15/09/2026;03:01;III;Falta de matéria-prima;;1002;Falta de MP
+PA001231;16/09/2026;03:19;III;Falta de matéria-prima;;1115;Falta de MP
+PA001232;17/09/2026;02:01;Turno III;Falta de matéria-prima;;1091;Falta de MP
+PA001233;18/09/2026;06:16;III;FALTA DE MATÉRIA-PRIMA;;15:24;Falta de MP
+PA001234;19/09/2026;00:48;III;Falta de matéria-prima;;1052;Falta de MP
+PA001235;20/09/2026;00:28;III;Falta de matéria-prima;;1192;Falta de MP
+PA001236;2026-09-21;02:07;III;Falta de matéria-prima;;1202;Falta de MP
+PA001237;22/09/2026;06:17;III;Falta de matéria-prima;;943;Falta de MP
+PA001238;23/09/2026;02:13;III;Falta de materia-prima;;1052;Falta de MP
+PA001239;24/09/2026;01:32;III;Falta de matéria-prima;;984;Falta de MP
+PA001240;25/09/2026;12:08;I;Manutenção preventiva  ;;498;Manutenção preventiva programada
+PA001241;25/09/2026;03:55;III;Falta de matéria-prima;;524;Falta de MP
+PA001242;26-09-26;21:09;II; Falha mecânica;DT-01;13;Vazamento de vapor DT-01
+PA001243;26/09/2026;01:47;III;Falta de matéria-prima;;19h52;Falta de MP
+PA001244;27/09/2026;01:58;Turno III;Falta de matéria-prima;;1251;Falta de MP
+PA001245;28/09/2026;02:13;III;Falta de matéria-prima  ;;1157;Falta de MP
+PA001246;29/09/2026;00:54;III;FALTA DE MATÉRIA-PRIMA;;17h59;Falta de MP
+PA001247;30/09/2026;11:12;I;Processo;CND-01;42;Excesso de umidade na massa CND-01
+PA001248;30/09/2026;04:30;III;Falta de matéria-prima;;826;Falta de MP

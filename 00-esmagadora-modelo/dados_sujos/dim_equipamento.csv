@@ -1,0 +1,18 @@
+id_equipamento;tag;equipamento;setor
+1;MOE-01;Moega de recebimento;Recebimento
+2;SEC-01;Secador de grãos;Preparação
+3;QBR-01;Quebrador;Preparação
+4;DSC-01;Descascador;Preparação
+5;CND-01;Condicionador;Preparação
+6;LAM-01;Laminador 1;Preparação
+7;LAM-02;Laminador 2;Preparação
+8;EXP-01;Expander;Preparação
+9;EXT-01;Extrator;Extração
+10;DT-01;Dessolventizador-tostador 1;Extração
+11;DT-02;Dessolventizador-tostador 2;Extração
+12;DST-01;Destilaria de óleo;Extração
+13;DEG-01;Degomagem;Óleo
+14;PEL-01;Peletizadora de casca;Farelo
+15;RSC-01;Rosca transportadora de farelo;Farelo
+16;CLD-01;Caldeira;Utilidades
+17;SUB-01;Subestação;Utilidades

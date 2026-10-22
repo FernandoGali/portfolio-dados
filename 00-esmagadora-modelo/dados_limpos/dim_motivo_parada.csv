@@ -1,0 +1,12 @@
+id_motivo,motivo,tipo,area_responsavel
+1,Processo,Não planejada,Processo
+2,Falha mecânica,Não planejada,Manutenção
+3,Falha elétrica,Não planejada,Manutenção
+4,Falha de automação / instrumentação,Não planejada,Manutenção
+5,Falta de energia (interna),Não planejada,Utilidades
+6,Falta de energia (externa),Não planejada,Utilidades
+7,Outras paradas,Não planejada,Outros
+8,Entressafra,Planejada,Programação
+9,Falta de matéria-prima,Planejada,Supply Chain
+10,Falta de espaço para armazenar,Planejada,Supply Chain
+11,Manutenção preventiva,Planejada,Manutenção
