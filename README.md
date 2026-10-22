@@ -4,7 +4,7 @@ Engenheiro de Produção com experiência em PCP, Melhoria Contínua e SAP PP em
 
 **Ferramentas:** Excel e Power Query · SQL (PostgreSQL) · Power BI · Python (pandas) · Git
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL) · seu.email@exemplo.com
+**Contato:** [LinkedIn](https://www.linkedin.com/in/fernando-gali/) · fernando_lf@live.com
 
 ## Projetos
 
