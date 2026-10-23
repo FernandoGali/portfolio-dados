@@ -2,7 +2,7 @@
 
 Base usada em todo o roadmap de Analista de Dados. Simula uma unidade de esmagamento de soja de 01/01/2022 a 30/09/2026: recebimento de soja, armazenagem em silo, esmagamento, produção de farelo e óleo degomado, paradas, consumo de utilidades, laboratório e expedição.
 
-A operação segue a lógica de uma planta real: quando roda, roda cheia (1.200 a 1.600 t/dia). Sem matéria-prima ou sem espaço para armazenar, a fábrica para e só volta quando há estoque ou espaço para alguns dias. Dias com produção baixa são pontuais: dias de partida ou de parada.
+A operação segue a lógica de uma planta real: quando roda, roda cheia (1.200 a 1.600 t/dia). Sem matéria-prima ou sem espaço para armazenar, a fábrica para e só volta quando há soja no silo para pelo menos 5 dias de operação (ou espaço no armazém para alguns dias). Dias com produção baixa são pontuais: dias de partida ou de parada.
 
 **Todos os dados são fictícios.** Nomes de fornecedores, clientes, números e eventos foram gerados por script. A estrutura foi inspirada em um boletim diário de produção típico do setor, que não faz parte deste repositório.
 

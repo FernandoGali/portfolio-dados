@@ -131,251 +131,251 @@ PA000129,2022-11-07,00:02,III,9,,1440,Falta de MP
 PA000130,2022-11-08,00:04,III,9,,1440,Falta de MP
 PA000131,2022-11-09,00:05,III,9,,1440,Falta de MP
 PA000132,2022-11-10,00:05,III,9,,1440,Falta de MP
-PA000133,2022-11-11,04:16,III,9,,569,Falta de MP
-PA000134,2022-11-13,02:12,III,2,7,58,Desalinhamento de rolos LAM-02
-PA000135,2022-11-15,04:04,III,2,15,223,Quebra de corrente RSC-01
-PA000136,2022-11-16,02:18,III,9,,1258,Falta de MP
-PA000137,2022-11-17,00:01,III,9,,1440,Falta de MP
-PA000138,2022-11-18,00:00,III,9,,1440,Falta de MP
-PA000139,2022-11-19,00:02,III,9,,1440,Falta de MP
-PA000140,2022-11-20,00:00,III,9,,1440,Falta de MP
-PA000141,2022-11-21,00:04,III,9,,1440,Falta de MP
-PA000142,2022-11-22,03:58,III,2,10,87,Vazamento de vapor DT-01
-PA000143,2022-11-22,00:07,III,9,,1353,Falta de MP
-PA000144,2022-11-23,00:01,III,9,,1440,Falta de MP
-PA000145,2022-11-24,00:01,III,9,,1440,Falta de MP
-PA000146,2022-11-25,02:40,III,11,,786,Manutenção preventiva programada
-PA000147,2022-11-25,04:43,III,9,,654,Falta de MP
-PA000148,2022-11-26,13:02,I,1,11,23,Ajuste de temperatura DT-02
-PA000149,2022-11-26,00:20,III,9,,1417,Falta de MP
-PA000150,2022-11-27,00:00,III,9,,1440,Falta de MP
-PA000151,2022-11-28,00:05,III,9,,1440,Falta de MP
-PA000152,2022-11-29,00:01,III,9,,1440,Falta de MP
-PA000153,2022-11-30,08:17,I,2,15,200,Quebra de corrente RSC-01
-PA000154,2022-11-30,09:39,I,9,,733,Falta de MP
-PA000155,2022-12-01,20:28,II,7,9,125,Parada por inspeção de segurança
-PA000156,2022-12-04,02:46,III,4,9,21,Falha de comunicação CLP EXT-01
-PA000157,2022-12-06,11:14,I,9,,675,Falta de MP
-PA000158,2022-12-07,00:26,III,11,,792,Manutenção preventiva programada
-PA000159,2022-12-07,02:22,III,9,,648,Falta de MP
-PA000160,2022-12-08,00:04,III,9,,1440,Falta de MP
-PA000161,2022-12-09,20:15,II,3,15,175,Falha no inversor RSC-01
-PA000162,2022-12-09,01:17,III,9,,1265,Falta de MP
-PA000163,2022-12-10,12:43,I,2,7,103,Desalinhamento de rolos LAM-02
-PA000164,2022-12-10,00:18,III,9,,1337,Falta de MP
-PA000165,2022-12-11,00:01,III,9,,1440,Falta de MP
-PA000166,2022-12-12,00:01,III,9,,1440,Falta de MP
-PA000167,2022-12-13,00:03,III,9,,1440,Falta de MP
-PA000168,2022-12-14,00:01,III,9,,1440,Falta de MP
-PA000169,2022-12-15,07:29,I,9,,948,Falta de MP
-PA000170,2022-12-16,02:18,III,4,9,40,Desarme sensor de nível EXT-01
-PA000171,2022-12-17,00:00,III,8,,1440,Parada programada de entressafra
-PA000172,2022-12-18,00:00,III,8,,1440,Parada programada de entressafra
-PA000173,2022-12-19,00:00,III,8,,1440,Parada programada de entressafra
-PA000174,2022-12-20,00:00,III,8,,1440,Parada programada de entressafra
-PA000175,2022-12-21,00:00,III,8,,1440,Parada programada de entressafra
-PA000176,2022-12-22,00:00,III,8,,1440,Parada programada de entressafra
-PA000177,2022-12-23,00:00,III,8,,1440,Parada programada de entressafra
-PA000178,2022-12-24,00:00,III,8,,1440,Parada programada de entressafra
-PA000179,2022-12-25,00:00,III,8,,1440,Parada programada de entressafra
-PA000180,2022-12-26,00:00,III,8,,1440,Parada programada de entressafra
-PA000181,2022-12-27,00:00,III,8,,1440,Parada programada de entressafra
-PA000182,2022-12-28,00:00,III,8,,1440,Parada programada de entressafra
-PA000183,2022-12-29,00:00,III,8,,1440,Parada programada de entressafra
-PA000184,2022-12-30,00:00,III,8,,1440,Parada programada de entressafra
-PA000185,2022-12-31,00:00,III,8,,1440,Parada programada de entressafra
-PA000186,2023-01-01,00:00,III,8,,1440,Parada programada de entressafra
-PA000187,2023-01-02,00:00,III,8,,1440,Parada programada de entressafra
-PA000188,2023-01-03,00:00,III,8,,1440,Parada programada de entressafra
-PA000189,2023-01-04,00:00,III,8,,1440,Parada programada de entressafra
-PA000190,2023-01-05,00:00,III,8,,1440,Parada programada de entressafra
-PA000191,2023-01-06,00:00,III,8,,1440,Parada programada de entressafra
-PA000192,2023-01-07,00:00,III,8,,1440,Parada programada de entressafra
-PA000193,2023-01-08,00:00,III,8,,1440,Parada programada de entressafra
-PA000194,2023-01-09,00:00,III,8,,1440,Parada programada de entressafra
-PA000195,2023-01-10,00:00,III,8,,1440,Parada programada de entressafra
-PA000196,2023-01-11,00:00,III,8,,1440,Parada programada de entressafra
-PA000197,2023-01-12,00:00,III,8,,1440,Parada programada de entressafra
-PA000198,2023-01-13,00:00,III,8,,1440,Parada programada de entressafra
-PA000199,2023-01-14,00:00,III,8,,1440,Parada programada de entressafra
-PA000200,2023-01-15,00:00,III,8,,1440,Parada programada de entressafra
-PA000201,2023-01-16,07:01,I,2,6,54,Desalinhamento de rolos LAM-01
-PA000202,2023-01-16,00:00,III,8,,402,Parada programada de entressafra
-PA000203,2023-01-19,09:45,I,3,6,106,Queima de motor LAM-01
-PA000204,2023-01-21,13:28,I,4,12,40,Falha de comunicação CLP DST-01
-PA000205,2023-01-26,05:35,III,11,,846,Manutenção preventiva programada
-PA000206,2023-01-28,11:34,I,5,17,79,Queda de energia interna SUB-01
-PA000207,2023-02-01,16:04,II,3,9,84,Falha no inversor EXT-01
-PA000208,2023-02-02,16:47,II,2,4,303,Quebra de eixo DSC-01
-PA000209,2023-02-05,02:33,III,2,7,92,Troca de rolamento LAM-02
-PA000210,2023-02-05,21:44,II,3,6,17,Queima de motor LAM-01
-PA000211,2023-02-08,02:56,III,2,6,140,Troca de rolamento LAM-01
-PA000212,2023-02-19,17:49,II,1,15,15,Entupimento de rosca RSC-01
-PA000213,2023-02-21,14:34,I,11,,508,Manutenção preventiva programada
-PA000214,2023-02-21,20:08,II,1,11,71,Embuchamento válvula rotativa DT-02
-PA000215,2023-02-26,02:01,III,2,7,77,Troca de rolamento LAM-02
-PA000216,2023-02-27,18:41,II,2,9,235,Quebra de corrente EXT-01
-PA000217,2023-02-27,15:43,II,6,17,65,Queda de energia da concessionária
-PA000218,2023-03-03,01:01,III,2,6,455,Desalinhamento de rolos LAM-01
-PA000219,2023-03-05,13:00,I,1,11,17,Embuchamento válvula rotativa DT-02
-PA000220,2023-03-06,15:08,II,3,9,40,Falha no inversor EXT-01
-PA000221,2023-03-07,16:31,II,2,3,60,Troca de rolamento QBR-01
-PA000222,2023-03-09,18:52,II,4,11,48,Leitura incorreta de temperatura DT-02
-PA000223,2023-03-12,22:18,II,2,7,64,Desalinhamento de rolos LAM-02
-PA000224,2023-03-12,02:47,III,6,17,66,Queda de energia da concessionária
-PA000225,2023-03-13,02:28,III,11,,739,Manutenção preventiva programada
-PA000226,2023-03-15,08:00,I,2,6,141,Desalinhamento de rolos LAM-01
-PA000227,2023-03-16,14:53,I,2,6,264,Desalinhamento de rolos LAM-01
-PA000228,2023-03-17,08:34,I,1,11,4,Ajuste de temperatura DT-02
-PA000229,2023-03-19,13:23,I,1,10,30,Embuchamento válvula rotativa DT-01
-PA000230,2023-03-21,21:21,II,1,8,45,Excesso de umidade na massa EXP-01
-PA000231,2023-03-25,12:05,I,2,6,25,Desalinhamento de rolos LAM-01
-PA000232,2023-03-30,21:28,II,2,15,108,Quebra de eixo RSC-01
-PA000233,2023-03-30,17:17,II,4,11,113,Leitura incorreta de temperatura DT-02
-PA000234,2023-04-03,21:09,II,1,10,19,Embuchamento válvula rotativa DT-01
-PA000235,2023-04-03,12:52,I,2,11,14,Vazamento de vapor DT-02
-PA000236,2023-04-07,23:05,III,1,5,46,Excesso de umidade na massa CND-01
-PA000237,2023-04-11,05:05,III,1,5,21,Excesso de umidade na massa CND-01
-PA000238,2023-04-12,06:37,III,3,10,59,Desarme de disjuntor DT-01
-PA000239,2023-04-13,16:59,II,2,5,54,Vazamento de vapor CND-01
-PA000240,2023-04-15,19:45,II,1,9,18,Entupimento de rosca EXT-01
-PA000241,2023-04-23,15:23,II,6,17,16,Queda de energia da concessionária
-PA000242,2023-04-24,02:20,III,1,5,69,Ajuste de temperatura CND-01
-PA000243,2023-04-27,07:44,I,11,,642,Manutenção preventiva programada
-PA000244,2023-04-27,20:26,II,1,5,21,Excesso de umidade na massa CND-01
-PA000245,2023-04-27,06:23,III,4,9,9,Desarme sensor de nível EXT-01
-PA000246,2023-05-03,11:53,I,1,5,12,Ajuste de temperatura CND-01
-PA000247,2023-05-08,04:38,III,2,4,86,Quebra de eixo DSC-01
-PA000248,2023-05-09,00:02,III,1,8,21,Excesso de umidade na massa EXP-01
-PA000249,2023-05-10,16:45,II,1,9,81,Entupimento de rosca EXT-01
-PA000250,2023-05-14,15:53,II,1,5,9,Excesso de umidade na massa CND-01
-PA000251,2023-05-16,12:56,I,1,5,6,Excesso de umidade na massa CND-01
-PA000252,2023-05-17,13:24,I,2,3,74,Troca de rolamento QBR-01
-PA000253,2023-05-19,09:31,I,1,9,7,Entupimento de rosca EXT-01
-PA000254,2023-05-19,13:43,I,4,9,12,Falha de comunicação CLP EXT-01
-PA000255,2023-05-20,14:17,I,3,15,57,Falha no inversor RSC-01
-PA000256,2023-05-22,01:37,III,1,8,23,Excesso de umidade na massa EXP-01
-PA000257,2023-05-26,00:34,III,11,,712,Manutenção preventiva programada
-PA000258,2023-05-26,16:38,II,3,6,68,Queima de motor LAM-01
-PA000259,2023-06-09,19:21,II,1,15,6,Entupimento de rosca RSC-01
-PA000260,2023-06-10,16:01,II,3,15,79,Falha no inversor RSC-01
-PA000261,2023-06-11,04:26,III,2,8,104,Quebra de eixo EXP-01
-PA000262,2023-06-19,22:51,II,4,10,31,Desarme sensor de nível DT-01
-PA000263,2023-06-20,09:01,I,2,7,47,Desalinhamento de rolos LAM-02
-PA000264,2023-06-22,02:36,III,11,,849,Manutenção preventiva programada
-PA000265,2023-06-24,20:35,II,2,6,84,Troca de rolamento LAM-01
-PA000266,2023-06-26,03:53,III,2,3,966,Troca de rolamento QBR-01
-PA000267,2023-06-29,13:05,I,2,4,50,Quebra de eixo DSC-01
-PA000268,2023-07-03,22:24,II,1,8,5,Excesso de umidade na massa EXP-01
-PA000269,2023-07-06,21:39,II,4,12,92,Falha de comunicação CLP DST-01
-PA000270,2023-07-06,20:40,II,4,9,30,Falha de comunicação CLP EXT-01
-PA000271,2023-07-08,19:51,II,1,5,12,Ajuste de temperatura CND-01
-PA000272,2023-07-09,04:27,III,2,7,54,Troca de rolamento LAM-02
-PA000273,2023-07-14,09:59,I,6,17,28,Queda de energia da concessionária
-PA000274,2023-07-19,01:35,III,1,5,35,Ajuste de temperatura CND-01
-PA000275,2023-07-20,01:33,III,1,11,30,Embuchamento válvula rotativa DT-02
-PA000276,2023-07-24,14:21,I,1,10,6,Embuchamento válvula rotativa DT-01
-PA000277,2023-07-24,18:18,II,2,8,42,Quebra de eixo EXP-01
-PA000278,2023-07-26,07:30,I,11,,722,Manutenção preventiva programada
-PA000279,2023-07-27,03:03,III,2,4,22,Quebra de eixo DSC-01
-PA000280,2023-07-31,04:32,III,10,15,794,Armazém de farelo cheio
-PA000281,2023-08-05,09:05,I,1,15,90,Entupimento de rosca RSC-01
-PA000282,2023-08-07,16:50,II,1,15,30,Entupimento de rosca RSC-01
-PA000283,2023-08-07,09:45,I,6,17,34,Queda de energia da concessionária
-PA000284,2023-08-09,13:10,I,1,5,13,Excesso de umidade na massa CND-01
-PA000285,2023-08-09,19:31,II,2,4,34,Quebra de eixo DSC-01
-PA000286,2023-08-10,07:27,I,11,,917,Manutenção preventiva programada
-PA000287,2023-08-14,17:33,II,4,11,62,Leitura incorreta de temperatura DT-02
-PA000288,2023-08-27,00:13,III,2,8,80,Quebra de eixo EXP-01
-PA000289,2023-08-27,09:43,I,2,5,44,Vazamento de vapor CND-01
-PA000290,2023-08-27,10:46,I,3,10,52,Desarme de disjuntor DT-01
-PA000291,2023-08-30,03:43,III,4,9,47,Falha de comunicação CLP EXT-01
-PA000292,2023-09-10,00:09,III,2,6,52,Desalinhamento de rolos LAM-01
-PA000293,2023-09-12,08:54,I,2,10,309,Vazamento de vapor DT-01
-PA000294,2023-09-13,01:08,III,1,10,4,Embuchamento válvula rotativa DT-01
-PA000295,2023-09-13,14:55,I,1,9,18,Entupimento de rosca EXT-01
-PA000296,2023-09-15,15:30,II,2,9,148,Quebra de corrente EXT-01
-PA000297,2023-09-18,19:48,II,2,9,105,Quebra de corrente EXT-01
-PA000298,2023-09-18,10:59,I,3,15,90,Falha no inversor RSC-01
-PA000299,2023-09-19,07:40,I,11,,888,Manutenção preventiva programada
-PA000300,2023-09-21,13:22,I,3,17,13,Desarme de disjuntor SUB-01
-PA000301,2023-09-23,08:46,I,6,17,30,Queda de energia da concessionária
-PA000302,2023-10-01,06:08,III,6,17,32,Queda de energia da concessionária
-PA000303,2023-10-10,14:42,I,2,6,139,Desalinhamento de rolos LAM-01
-PA000304,2023-10-13,18:25,II,2,8,64,Quebra de eixo EXP-01
-PA000305,2023-10-14,07:26,I,2,6,88,Desalinhamento de rolos LAM-01
-PA000306,2023-10-14,07:37,I,9,,832,Falta de MP
-PA000307,2023-10-15,13:07,I,1,8,23,Excesso de umidade na massa EXP-01
-PA000308,2023-10-15,00:18,III,9,,1417,Falta de MP
-PA000309,2023-10-16,00:01,III,9,,1440,Falta de MP
-PA000310,2023-10-17,00:04,III,9,,1440,Falta de MP
-PA000311,2023-10-18,12:10,I,11,,643,Manutenção preventiva programada
-PA000312,2023-10-18,10:12,I,9,,797,Falta de MP
-PA000313,2023-10-19,09:06,I,3,15,62,Queima de motor RSC-01
-PA000314,2023-10-19,00:28,III,9,,1378,Falta de MP
-PA000315,2023-10-20,03:21,III,2,10,6,Vazamento de vapor DT-01
-PA000316,2023-10-20,00:00,III,9,,1434,Falta de MP
-PA000317,2023-10-21,00:03,III,9,,1440,Falta de MP
-PA000318,2023-10-22,12:58,I,1,5,4,Excesso de umidade na massa CND-01
-PA000319,2023-10-22,05:37,III,2,7,27,Troca de rolamento LAM-02
-PA000320,2023-10-22,00:16,III,9,,1409,Falta de MP
-PA000321,2023-10-23,13:30,I,9,,608,Falta de MP
-PA000322,2023-10-25,00:28,III,2,6,45,Desalinhamento de rolos LAM-01
-PA000323,2023-10-29,05:25,III,9,,667,Falta de MP
-PA000324,2023-10-30,00:01,III,9,,1440,Falta de MP
-PA000325,2023-10-31,00:04,III,9,,1440,Falta de MP
-PA000326,2023-11-01,00:03,III,9,,1440,Falta de MP
-PA000327,2023-11-02,08:10,I,2,15,391,Quebra de corrente RSC-01
-PA000328,2023-11-02,02:00,III,9,,1049,Falta de MP
-PA000329,2023-11-03,18:16,II,2,6,60,Desalinhamento de rolos LAM-01
-PA000330,2023-11-03,00:46,III,9,,1380,Falta de MP
-PA000331,2023-11-04,15:37,II,2,11,129,Vazamento de vapor DT-02
-PA000332,2023-11-04,01:49,III,9,,1311,Falta de MP
-PA000333,2023-11-05,06:25,III,2,15,54,Quebra de eixo RSC-01
-PA000334,2023-11-05,00:07,III,9,,1386,Falta de MP
-PA000335,2023-11-06,00:05,III,9,,1440,Falta de MP
-PA000336,2023-11-07,00:03,III,9,,1440,Falta de MP
-PA000337,2023-11-08,20:47,II,2,9,63,Quebra de corrente EXT-01
-PA000338,2023-11-08,09:40,I,3,17,44,Desarme de disjuntor SUB-01
-PA000339,2023-11-08,00:38,III,9,,1332,Falta de MP
-PA000340,2023-11-09,06:09,III,9,,825,Falta de MP
-PA000341,2023-11-12,21:48,II,7,9,50,Parada por inspeção de segurança
-PA000342,2023-11-13,22:11,II,1,5,29,Excesso de umidade na massa CND-01
-PA000343,2023-11-14,09:39,I,9,,673,Falta de MP
-PA000344,2023-11-15,09:48,I,11,,735,Manutenção preventiva programada
-PA000345,2023-11-15,16:58,II,2,6,77,Desalinhamento de rolos LAM-01
-PA000346,2023-11-15,05:14,III,9,,628,Falta de MP
-PA000347,2023-11-16,00:04,III,9,,1440,Falta de MP
-PA000348,2023-11-17,16:44,II,2,6,139,Desalinhamento de rolos LAM-01
-PA000349,2023-11-17,00:33,III,9,,1301,Falta de MP
-PA000350,2023-11-18,00:03,III,9,,1440,Falta de MP
-PA000351,2023-11-19,00:01,III,9,,1440,Falta de MP
-PA000352,2023-11-20,09:02,I,2,10,30,Vazamento de vapor DT-01
-PA000353,2023-11-20,00:17,III,9,,1410,Falta de MP
-PA000354,2023-11-21,00:00,III,9,,1440,Falta de MP
-PA000355,2023-11-22,00:03,III,9,,1440,Falta de MP
-PA000356,2023-11-23,18:38,II,1,10,15,Ajuste de temperatura DT-01
-PA000357,2023-11-23,06:43,III,2,15,486,Quebra de corrente RSC-01
-PA000358,2023-11-23,00:29,III,9,,939,Falta de MP
-PA000359,2023-11-24,00:58,III,1,10,128,Embuchamento válvula rotativa DT-01
-PA000360,2023-11-24,02:35,III,9,,381,Falta de MP
-PA000361,2023-11-26,02:49,III,2,4,171,Quebra de eixo DSC-01
-PA000362,2023-11-27,13:17,I,1,9,32,Entupimento de rosca EXT-01
-PA000363,2023-11-28,08:58,I,9,,393,Falta de MP
-PA000364,2023-11-29,05:29,III,4,12,29,Falha de comunicação CLP DST-01
-PA000365,2023-11-29,00:23,III,9,,1411,Falta de MP
-PA000366,2023-11-30,00:04,III,9,,1440,Falta de MP
-PA000367,2023-12-01,01:48,III,11,,530,Manutenção preventiva programada
-PA000368,2023-12-01,00:03,III,9,,910,Falta de MP
-PA000369,2023-12-02,00:05,III,9,,1440,Falta de MP
-PA000370,2023-12-03,00:04,III,9,,1440,Falta de MP
-PA000371,2023-12-04,01:30,III,3,7,42,Queima de motor LAM-02
-PA000372,2023-12-04,00:20,III,9,,1398,Falta de MP
-PA000373,2023-12-05,04:50,III,1,8,6,Excesso de umidade na massa EXP-01
-PA000374,2023-12-05,14:43,I,4,12,61,Falha de comunicação CLP DST-01
-PA000375,2023-12-05,00:06,III,9,,1373,Falta de MP
-PA000376,2023-12-06,00:02,III,9,,1440,Falta de MP
-PA000377,2023-12-07,00:01,III,9,,1440,Falta de MP
+PA000133,2022-11-11,00:05,III,9,,1440,Falta de MP
+PA000134,2022-11-12,00:05,III,9,,1440,Falta de MP
+PA000135,2022-11-13,00:03,III,9,,1440,Falta de MP
+PA000136,2022-11-14,00:02,III,9,,1440,Falta de MP
+PA000137,2022-11-15,00:02,III,9,,1440,Falta de MP
+PA000138,2022-11-16,00:05,III,9,,1440,Falta de MP
+PA000139,2022-11-17,08:01,I,2,15,191,Quebra de eixo RSC-01
+PA000140,2022-11-17,01:42,III,9,,1249,Falta de MP
+PA000141,2022-11-18,02:50,III,6,17,15,Queda de energia da concessionária
+PA000142,2022-11-18,00:06,III,9,,1425,Falta de MP
+PA000143,2022-11-19,06:41,III,6,17,63,Queda de energia da concessionária
+PA000144,2022-11-19,07:22,I,9,,506,Falta de MP
+PA000145,2022-11-25,07:30,I,11,,786,Manutenção preventiva programada
+PA000146,2022-11-25,01:00,III,2,15,74,Quebra de corrente RSC-01
+PA000147,2022-11-27,15:30,II,9,,187,Falta de MP
+PA000148,2022-11-28,22:56,II,2,8,37,Quebra de eixo EXP-01
+PA000149,2022-11-28,05:33,III,2,3,681,Troca de rolamento QBR-01
+PA000150,2022-11-28,05:19,III,9,,722,Falta de MP
+PA000151,2022-11-29,00:05,III,9,,1440,Falta de MP
+PA000152,2022-11-30,00:04,III,9,,1440,Falta de MP
+PA000153,2022-12-01,00:02,III,9,,1440,Falta de MP
+PA000154,2022-12-02,00:03,III,9,,1440,Falta de MP
+PA000155,2022-12-03,00:03,III,9,,1440,Falta de MP
+PA000156,2022-12-04,00:02,III,9,,1440,Falta de MP
+PA000157,2022-12-05,00:04,III,9,,1440,Falta de MP
+PA000158,2022-12-06,00:05,III,9,,1440,Falta de MP
+PA000159,2022-12-07,04:16,III,11,,792,Manutenção preventiva programada
+PA000160,2022-12-07,03:43,III,9,,648,Falta de MP
+PA000161,2022-12-08,00:03,III,9,,1440,Falta de MP
+PA000162,2022-12-09,08:00,I,2,9,124,Quebra de corrente EXT-01
+PA000163,2022-12-09,01:36,III,9,,1316,Falta de MP
+PA000164,2022-12-10,16:18,II,1,11,15,Ajuste de temperatura DT-02
+PA000165,2022-12-10,00:11,III,9,,1425,Falta de MP
+PA000166,2022-12-11,00:05,III,9,,1440,Falta de MP
+PA000167,2022-12-12,00:05,III,9,,1440,Falta de MP
+PA000168,2022-12-13,10:16,I,4,5,30,Leitura incorreta de temperatura CND-01
+PA000169,2022-12-13,00:13,III,9,,1410,Falta de MP
+PA000170,2022-12-14,00:02,III,9,,1440,Falta de MP
+PA000171,2022-12-15,08:15,I,9,,934,Falta de MP
+PA000172,2022-12-17,00:00,III,8,,1440,Parada programada de entressafra
+PA000173,2022-12-18,00:00,III,8,,1440,Parada programada de entressafra
+PA000174,2022-12-19,00:00,III,8,,1440,Parada programada de entressafra
+PA000175,2022-12-20,00:00,III,8,,1440,Parada programada de entressafra
+PA000176,2022-12-21,00:00,III,8,,1440,Parada programada de entressafra
+PA000177,2022-12-22,00:00,III,8,,1440,Parada programada de entressafra
+PA000178,2022-12-23,00:00,III,8,,1440,Parada programada de entressafra
+PA000179,2022-12-24,00:00,III,8,,1440,Parada programada de entressafra
+PA000180,2022-12-25,00:00,III,8,,1440,Parada programada de entressafra
+PA000181,2022-12-26,00:00,III,8,,1440,Parada programada de entressafra
+PA000182,2022-12-27,00:00,III,8,,1440,Parada programada de entressafra
+PA000183,2022-12-28,00:00,III,8,,1440,Parada programada de entressafra
+PA000184,2022-12-29,00:00,III,8,,1440,Parada programada de entressafra
+PA000185,2022-12-30,00:00,III,8,,1440,Parada programada de entressafra
+PA000186,2022-12-31,00:00,III,8,,1440,Parada programada de entressafra
+PA000187,2023-01-01,00:00,III,8,,1440,Parada programada de entressafra
+PA000188,2023-01-02,00:00,III,8,,1440,Parada programada de entressafra
+PA000189,2023-01-03,00:00,III,8,,1440,Parada programada de entressafra
+PA000190,2023-01-04,00:00,III,8,,1440,Parada programada de entressafra
+PA000191,2023-01-05,00:00,III,8,,1440,Parada programada de entressafra
+PA000192,2023-01-06,00:00,III,8,,1440,Parada programada de entressafra
+PA000193,2023-01-07,00:00,III,8,,1440,Parada programada de entressafra
+PA000194,2023-01-08,00:00,III,8,,1440,Parada programada de entressafra
+PA000195,2023-01-09,00:00,III,8,,1440,Parada programada de entressafra
+PA000196,2023-01-10,00:00,III,8,,1440,Parada programada de entressafra
+PA000197,2023-01-11,00:00,III,8,,1440,Parada programada de entressafra
+PA000198,2023-01-12,00:00,III,8,,1440,Parada programada de entressafra
+PA000199,2023-01-13,00:00,III,8,,1440,Parada programada de entressafra
+PA000200,2023-01-14,00:00,III,8,,1440,Parada programada de entressafra
+PA000201,2023-01-15,00:00,III,8,,1440,Parada programada de entressafra
+PA000202,2023-01-16,20:09,II,4,10,146,Desarme sensor de nível DT-01
+PA000203,2023-01-16,00:00,III,8,,802,Parada programada de entressafra
+PA000204,2023-01-18,12:53,I,1,15,109,Entupimento de rosca RSC-01
+PA000205,2023-01-20,20:23,II,1,10,38,Ajuste de temperatura DT-01
+PA000206,2023-01-22,15:40,II,2,6,166,Desalinhamento de rolos LAM-01
+PA000207,2023-01-25,07:46,I,6,17,44,Queda de energia da concessionária
+PA000208,2023-01-26,06:25,III,11,,846,Manutenção preventiva programada
+PA000209,2023-02-05,01:11,III,5,17,62,Queda de energia interna SUB-01
+PA000210,2023-02-07,21:06,II,1,10,3,Embuchamento válvula rotativa DT-01
+PA000211,2023-02-11,14:03,I,1,15,6,Entupimento de rosca RSC-01
+PA000212,2023-02-13,12:58,I,4,11,33,Desarme sensor de nível DT-02
+PA000213,2023-02-17,08:15,I,1,5,47,Ajuste de temperatura CND-01
+PA000214,2023-02-18,06:45,III,1,11,33,Embuchamento válvula rotativa DT-02
+PA000215,2023-02-18,11:24,I,3,15,108,Queima de motor RSC-01
+PA000216,2023-02-21,03:33,III,11,,508,Manutenção preventiva programada
+PA000217,2023-02-22,10:28,I,2,6,323,Desalinhamento de rolos LAM-01
+PA000218,2023-02-26,08:35,I,1,10,30,Ajuste de temperatura DT-01
+PA000219,2023-03-01,02:39,III,2,9,523,Quebra de corrente EXT-01
+PA000220,2023-03-03,19:03,II,3,7,47,Queima de motor LAM-02
+PA000221,2023-03-06,22:43,II,4,9,24,Falha de comunicação CLP EXT-01
+PA000222,2023-03-09,01:01,III,2,6,455,Desalinhamento de rolos LAM-01
+PA000223,2023-03-12,05:56,III,4,9,140,Falha de comunicação CLP EXT-01
+PA000224,2023-03-13,00:57,III,11,,739,Manutenção preventiva programada
+PA000225,2023-03-13,07:16,I,2,7,29,Troca de rolamento LAM-02
+PA000226,2023-03-14,20:23,II,4,12,79,Falha de comunicação CLP DST-01
+PA000227,2023-03-16,09:03,I,1,11,30,Ajuste de temperatura DT-02
+PA000228,2023-03-18,07:59,I,4,5,40,Leitura incorreta de temperatura CND-01
+PA000229,2023-03-20,01:10,III,2,9,122,Quebra de corrente EXT-01
+PA000230,2023-03-23,00:13,III,2,9,74,Quebra de corrente EXT-01
+PA000231,2023-03-24,02:23,III,3,15,79,Falha no inversor RSC-01
+PA000232,2023-03-31,00:36,III,2,7,305,Desalinhamento de rolos LAM-02
+PA000233,2023-04-01,05:43,III,4,9,14,Falha de comunicação CLP EXT-01
+PA000234,2023-04-04,19:02,II,3,9,133,Falha no inversor EXT-01
+PA000235,2023-04-04,09:03,I,4,9,32,Desarme sensor de nível EXT-01
+PA000236,2023-04-07,11:59,I,2,9,279,Quebra de corrente EXT-01
+PA000237,2023-04-07,04:00,III,2,6,49,Desalinhamento de rolos LAM-01
+PA000238,2023-04-09,04:03,III,2,15,113,Quebra de eixo RSC-01
+PA000239,2023-04-09,07:31,I,3,7,203,Queima de motor LAM-02
+PA000240,2023-04-12,02:11,III,7,12,32,Limpeza emergencial DST-01
+PA000241,2023-04-16,05:46,III,1,10,26,Embuchamento válvula rotativa DT-01
+PA000242,2023-04-17,06:36,III,2,9,109,Quebra de corrente EXT-01
+PA000243,2023-04-21,20:33,II,2,8,34,Quebra de eixo EXP-01
+PA000244,2023-04-26,10:33,I,2,15,65,Quebra de eixo RSC-01
+PA000245,2023-04-27,03:04,III,11,,642,Manutenção preventiva programada
+PA000246,2023-04-27,17:08,II,1,5,34,Ajuste de temperatura CND-01
+PA000247,2023-04-29,06:06,III,2,4,360,Quebra de eixo DSC-01
+PA000248,2023-05-06,00:42,III,2,11,132,Vazamento de vapor DT-02
+PA000249,2023-05-13,06:53,III,3,8,77,Queima de motor EXP-01
+PA000250,2023-05-15,20:40,II,1,5,7,Ajuste de temperatura CND-01
+PA000251,2023-05-21,04:12,III,1,11,45,Ajuste de temperatura DT-02
+PA000252,2023-05-24,05:41,III,1,11,34,Ajuste de temperatura DT-02
+PA000253,2023-05-25,22:28,II,1,5,25,Ajuste de temperatura CND-01
+PA000254,2023-05-25,20:16,II,2,6,158,Troca de rolamento LAM-01
+PA000255,2023-05-26,07:55,I,11,,712,Manutenção preventiva programada
+PA000256,2023-05-28,17:16,II,1,5,75,Ajuste de temperatura CND-01
+PA000257,2023-05-31,16:38,II,1,10,23,Ajuste de temperatura DT-01
+PA000258,2023-06-03,08:32,I,3,15,59,Falha no inversor RSC-01
+PA000259,2023-06-04,04:48,III,1,11,12,Ajuste de temperatura DT-02
+PA000260,2023-06-05,02:36,III,1,8,20,Excesso de umidade na massa EXP-01
+PA000261,2023-06-06,02:32,III,6,17,59,Queda de energia da concessionária
+PA000262,2023-06-09,09:37,I,1,9,20,Entupimento de rosca EXT-01
+PA000263,2023-06-09,07:23,I,2,6,91,Troca de rolamento LAM-01
+PA000264,2023-06-17,09:20,I,6,17,79,Queda de energia da concessionária
+PA000265,2023-06-22,07:51,I,11,,849,Manutenção preventiva programada
+PA000266,2023-06-23,11:06,I,3,9,98,Falha no inversor EXT-01
+PA000267,2023-06-24,22:58,II,1,5,21,Excesso de umidade na massa CND-01
+PA000268,2023-07-03,10:03,I,2,10,127,Vazamento de vapor DT-01
+PA000269,2023-07-07,06:22,III,1,11,32,Ajuste de temperatura DT-02
+PA000270,2023-07-08,22:28,II,3,9,90,Desarme de disjuntor EXT-01
+PA000271,2023-07-09,16:05,II,2,11,40,Vazamento de vapor DT-02
+PA000272,2023-07-16,05:17,III,5,17,36,Queda de energia interna SUB-01
+PA000273,2023-07-23,09:49,I,3,7,15,Queima de motor LAM-02
+PA000274,2023-07-24,03:40,III,2,8,71,Quebra de eixo EXP-01
+PA000275,2023-07-24,20:41,II,2,7,95,Desalinhamento de rolos LAM-02
+PA000276,2023-07-25,13:18,I,1,5,38,Excesso de umidade na massa CND-01
+PA000277,2023-07-26,10:15,I,11,,722,Manutenção preventiva programada
+PA000278,2023-08-01,05:20,III,3,8,60,Queima de motor EXP-01
+PA000279,2023-08-05,19:26,II,1,10,17,Ajuste de temperatura DT-01
+PA000280,2023-08-10,08:10,I,11,,917,Manutenção preventiva programada
+PA000281,2023-08-10,10:19,I,3,7,81,Queima de motor LAM-02
+PA000282,2023-08-12,18:50,II,1,9,22,Entupimento de rosca EXT-01
+PA000283,2023-08-13,14:42,I,2,5,93,Vazamento de vapor CND-01
+PA000284,2023-08-16,21:03,II,2,11,139,Vazamento de vapor DT-02
+PA000285,2023-08-21,22:05,II,2,8,54,Quebra de eixo EXP-01
+PA000286,2023-08-24,12:48,I,2,5,73,Vazamento de vapor CND-01
+PA000287,2023-08-30,13:17,I,3,6,24,Queima de motor LAM-01
+PA000288,2023-09-03,08:45,I,2,7,41,Desalinhamento de rolos LAM-02
+PA000289,2023-09-07,03:09,III,2,7,106,Desalinhamento de rolos LAM-02
+PA000290,2023-09-11,14:12,I,1,10,63,Embuchamento válvula rotativa DT-01
+PA000291,2023-09-18,05:31,III,2,15,21,Quebra de eixo RSC-01
+PA000292,2023-09-19,01:52,III,11,,888,Manutenção preventiva programada
+PA000293,2023-09-21,09:49,I,1,5,14,Ajuste de temperatura CND-01
+PA000294,2023-09-21,04:42,III,2,9,80,Quebra de corrente EXT-01
+PA000295,2023-09-23,11:30,I,1,9,5,Embuchamento válvula rotativa EXT-01
+PA000296,2023-09-29,21:40,II,4,11,44,Leitura incorreta de temperatura DT-02
+PA000297,2023-10-05,18:47,II,1,10,11,Ajuste de temperatura DT-01
+PA000298,2023-10-05,01:45,III,2,3,202,Troca de rolamento QBR-01
+PA000299,2023-10-05,06:11,III,2,7,117,Troca de rolamento LAM-02
+PA000300,2023-10-07,02:25,III,2,9,46,Quebra de corrente EXT-01
+PA000301,2023-10-09,07:48,I,1,9,25,Embuchamento válvula rotativa EXT-01
+PA000302,2023-10-09,11:59,I,9,,681,Falta de MP
+PA000303,2023-10-10,09:54,I,2,4,781,Quebra de eixo DSC-01
+PA000304,2023-10-10,08:08,I,9,,659,Falta de MP
+PA000305,2023-10-11,21:50,II,2,10,36,Vazamento de vapor DT-01
+PA000306,2023-10-11,00:12,III,9,,1404,Falta de MP
+PA000307,2023-10-12,00:00,III,9,,1440,Falta de MP
+PA000308,2023-10-13,00:05,III,9,,1440,Falta de MP
+PA000309,2023-10-14,00:02,III,9,,1440,Falta de MP
+PA000310,2023-10-15,00:01,III,9,,1440,Falta de MP
+PA000311,2023-10-16,00:00,III,9,,1440,Falta de MP
+PA000312,2023-10-17,00:01,III,9,,1440,Falta de MP
+PA000313,2023-10-18,04:06,III,11,,643,Manutenção preventiva programada
+PA000314,2023-10-18,06:07,III,9,,797,Falta de MP
+PA000315,2023-10-19,00:03,III,9,,1440,Falta de MP
+PA000316,2023-10-20,00:03,III,9,,1440,Falta de MP
+PA000317,2023-10-21,00:01,III,9,,1440,Falta de MP
+PA000318,2023-10-22,18:37,II,1,15,44,Entupimento de rosca RSC-01
+PA000319,2023-10-22,00:38,III,9,,1396,Falta de MP
+PA000320,2023-10-23,01:29,III,1,8,25,Excesso de umidade na massa EXP-01
+PA000321,2023-10-23,18:07,II,2,5,123,Vazamento de vapor CND-01
+PA000322,2023-10-23,00:36,III,9,,1292,Falta de MP
+PA000323,2023-10-24,00:03,III,9,,1440,Falta de MP
+PA000324,2023-10-25,03:45,III,9,,456,Falta de MP
+PA000325,2023-10-27,14:56,I,2,10,80,Vazamento de vapor DT-01
+PA000326,2023-10-28,10:07,I,2,5,279,Vazamento de vapor CND-01
+PA000327,2023-10-28,06:27,III,2,15,125,Quebra de corrente RSC-01
+PA000328,2023-10-28,02:26,III,2,8,130,Quebra de eixo EXP-01
+PA000329,2023-11-02,20:31,II,2,15,165,Quebra de eixo RSC-01
+PA000330,2023-11-02,08:05,I,3,15,65,Queima de motor RSC-01
+PA000331,2023-11-02,19:12,II,9,,69,Falta de MP
+PA000332,2023-11-03,18:40,II,2,10,21,Vazamento de vapor DT-01
+PA000333,2023-11-03,00:19,III,9,,1419,Falta de MP
+PA000334,2023-11-04,00:03,III,9,,1440,Falta de MP
+PA000335,2023-11-05,10:26,I,3,9,162,Falha no inversor EXT-01
+PA000336,2023-11-05,00:50,III,9,,1278,Falta de MP
+PA000337,2023-11-06,12:46,I,2,3,27,Troca de rolamento QBR-01
+PA000338,2023-11-06,00:13,III,9,,1413,Falta de MP
+PA000339,2023-11-07,00:04,III,9,,1440,Falta de MP
+PA000340,2023-11-08,03:20,III,1,10,5,Embuchamento válvula rotativa DT-01
+PA000341,2023-11-08,00:02,III,9,,1435,Falta de MP
+PA000342,2023-11-09,00:01,III,9,,1440,Falta de MP
+PA000343,2023-11-10,00:00,III,9,,1440,Falta de MP
+PA000344,2023-11-11,00:04,III,9,,1440,Falta de MP
+PA000345,2023-11-12,09:14,I,2,15,89,Quebra de eixo RSC-01
+PA000346,2023-11-12,00:23,III,9,,1351,Falta de MP
+PA000347,2023-11-13,00:01,III,9,,1440,Falta de MP
+PA000348,2023-11-14,00:02,III,9,,1440,Falta de MP
+PA000349,2023-11-15,04:15,III,11,,735,Manutenção preventiva programada
+PA000350,2023-11-15,05:41,III,9,,705,Falta de MP
+PA000351,2023-11-16,00:00,III,9,,1440,Falta de MP
+PA000352,2023-11-17,00:02,III,9,,1440,Falta de MP
+PA000353,2023-11-18,08:07,I,4,9,25,Desarme sensor de nível EXT-01
+PA000354,2023-11-18,00:21,III,9,,1415,Falta de MP
+PA000355,2023-11-19,00:00,III,9,,1440,Falta de MP
+PA000356,2023-11-20,22:03,II,1,15,31,Entupimento de rosca RSC-01
+PA000357,2023-11-20,04:06,III,7,9,152,Limpeza emergencial EXT-01
+PA000358,2023-11-20,01:53,III,9,,1257,Falta de MP
+PA000359,2023-11-21,19:45,II,1,10,49,Ajuste de temperatura DT-01
+PA000360,2023-11-21,00:02,III,9,,1391,Falta de MP
+PA000361,2023-11-22,06:34,III,1,8,39,Excesso de umidade na massa EXP-01
+PA000362,2023-11-22,04:14,III,9,,569,Falta de MP
+PA000363,2023-11-26,18:45,II,4,10,56,Leitura incorreta de temperatura DT-01
+PA000364,2023-11-30,09:51,I,9,,309,Falta de MP
+PA000365,2023-12-01,08:27,I,11,,530,Manutenção preventiva programada
+PA000366,2023-12-01,10:20,I,2,7,20,Desalinhamento de rolos LAM-02
+PA000367,2023-12-01,01:41,III,9,,890,Falta de MP
+PA000368,2023-12-02,08:23,I,1,9,15,Embuchamento válvula rotativa EXT-01
+PA000369,2023-12-02,09:06,I,2,3,224,Troca de rolamento QBR-01
+PA000370,2023-12-02,00:40,III,9,,1201,Falta de MP
+PA000371,2023-12-03,00:01,III,9,,1440,Falta de MP
+PA000372,2023-12-04,01:41,III,6,17,14,Queda de energia da concessionária
+PA000373,2023-12-04,00:01,III,9,,1426,Falta de MP
+PA000374,2023-12-05,12:40,I,2,15,52,Quebra de corrente RSC-01
+PA000375,2023-12-05,00:34,III,9,,1388,Falta de MP
+PA000376,2023-12-06,00:03,III,9,,1440,Falta de MP
+PA000377,2023-12-07,00:04,III,9,,1440,Falta de MP
 PA000378,2023-12-08,00:00,III,8,,1440,Parada programada de entressafra
 PA000379,2023-12-09,00:00,III,8,,1440,Parada programada de entressafra
 PA000380,2023-12-10,00:00,III,8,,1440,Parada programada de entressafra
@@ -405,682 +405,667 @@ PA000403,2024-01-02,00:00,III,8,,1440,Parada programada de entressafra
 PA000404,2024-01-03,00:00,III,8,,1440,Parada programada de entressafra
 PA000405,2024-01-04,00:00,III,8,,1440,Parada programada de entressafra
 PA000406,2024-01-05,00:00,III,8,,1440,Parada programada de entressafra
-PA000407,2024-01-06,03:44,III,9,,802,Falta de MP
-PA000408,2024-01-08,15:39,II,4,10,50,Desarme sensor de nível DT-01
-PA000409,2024-01-09,05:53,III,1,5,7,Excesso de umidade na massa CND-01
-PA000410,2024-01-11,15:29,II,1,5,43,Excesso de umidade na massa CND-01
-PA000411,2024-01-16,03:16,III,2,6,163,Troca de rolamento LAM-01
-PA000412,2024-01-17,06:48,III,11,,920,Manutenção preventiva programada
-PA000413,2024-01-18,03:35,III,2,11,94,Vazamento de vapor DT-02
-PA000414,2024-01-21,20:37,II,1,5,21,Excesso de umidade na massa CND-01
-PA000415,2024-01-22,10:49,I,3,9,28,Falha no inversor EXT-01
-PA000416,2024-01-23,04:22,III,6,17,62,Queda de energia da concessionária
-PA000417,2024-01-27,09:26,I,2,15,35,Quebra de corrente RSC-01
-PA000418,2024-01-27,01:10,III,9,,819,Falta de MP
-PA000419,2024-01-28,20:48,II,2,7,20,Desalinhamento de rolos LAM-02
-PA000420,2024-01-28,00:09,III,9,,1420,Falta de MP
-PA000421,2024-01-29,00:02,III,9,,1440,Falta de MP
-PA000422,2024-01-30,03:08,III,6,17,63,Queda de energia da concessionária
-PA000423,2024-01-30,00:15,III,9,,1377,Falta de MP
-PA000424,2024-01-31,00:02,III,9,,1440,Falta de MP
-PA000425,2024-02-01,10:41,I,2,11,87,Vazamento de vapor DT-02
-PA000426,2024-02-01,09:56,I,2,9,183,Quebra de corrente EXT-01
-PA000427,2024-02-01,12:54,I,2,10,26,Vazamento de vapor DT-01
-PA000428,2024-02-01,04:11,III,9,,1144,Falta de MP
-PA000429,2024-02-02,09:39,I,9,,708,Falta de MP
-PA000430,2024-02-03,12:49,I,3,17,90,Desarme de disjuntor SUB-01
-PA000431,2024-02-09,07:27,I,2,7,840,Troca de rolamento LAM-02
-PA000432,2024-02-09,02:17,III,2,9,161,Quebra de corrente EXT-01
-PA000433,2024-02-12,03:07,III,2,15,249,Quebra de corrente RSC-01
-PA000434,2024-02-13,00:03,III,11,,783,Manutenção preventiva programada
-PA000435,2024-02-17,06:01,III,1,5,16,Ajuste de temperatura CND-01
-PA000436,2024-02-18,05:08,III,2,7,32,Troca de rolamento LAM-02
-PA000437,2024-02-22,21:04,II,2,15,152,Quebra de corrente RSC-01
-PA000438,2024-02-23,06:56,III,3,6,41,Queima de motor LAM-01
-PA000439,2024-02-28,09:29,I,2,4,112,Quebra de eixo DSC-01
-PA000440,2024-03-02,10:19,I,2,7,130,Desalinhamento de rolos LAM-02
-PA000441,2024-03-05,09:25,I,2,6,63,Desalinhamento de rolos LAM-01
-PA000442,2024-03-06,04:25,III,11,,643,Manutenção preventiva programada
-PA000443,2024-03-06,09:02,I,1,9,44,Embuchamento válvula rotativa EXT-01
-PA000444,2024-03-07,05:24,III,1,9,8,Entupimento de rosca EXT-01
-PA000445,2024-03-07,21:23,II,3,8,38,Queima de motor EXP-01
-PA000446,2024-03-10,00:55,III,4,9,39,Falha de comunicação CLP EXT-01
-PA000447,2024-03-11,04:10,III,1,8,11,Excesso de umidade na massa EXP-01
-PA000448,2024-03-13,14:43,I,3,17,107,Desarme de disjuntor SUB-01
-PA000449,2024-03-15,07:54,I,1,5,64,Excesso de umidade na massa CND-01
-PA000450,2024-03-17,02:50,III,2,7,20,Troca de rolamento LAM-02
-PA000451,2024-03-22,10:06,I,2,11,331,Vazamento de vapor DT-02
-PA000452,2024-03-29,19:08,II,1,5,18,Excesso de umidade na massa CND-01
-PA000453,2024-03-31,05:29,III,3,9,112,Falha no inversor EXT-01
-PA000454,2024-04-04,19:54,II,7,9,14,Limpeza emergencial EXT-01
-PA000455,2024-04-07,03:11,III,2,6,19,Desalinhamento de rolos LAM-01
-PA000456,2024-04-08,00:23,III,11,,572,Manutenção preventiva programada
-PA000457,2024-04-17,10:14,I,2,8,197,Quebra de eixo EXP-01
-PA000458,2024-04-19,04:26,III,2,9,139,Quebra de corrente EXT-01
-PA000459,2024-04-19,12:57,I,2,15,54,Quebra de corrente RSC-01
-PA000460,2024-04-19,04:07,III,4,10,9,Leitura incorreta de temperatura DT-01
-PA000461,2024-04-24,06:28,III,3,8,18,Queima de motor EXP-01
-PA000462,2024-05-01,02:19,III,11,,925,Manutenção preventiva programada
-PA000463,2024-05-02,15:33,II,2,8,309,Quebra de eixo EXP-01
-PA000464,2024-05-04,02:37,III,7,9,14,Parada por inspeção de segurança
-PA000465,2024-05-09,21:35,II,2,4,17,Quebra de eixo DSC-01
-PA000466,2024-05-12,07:06,I,3,10,45,Desarme de disjuntor DT-01
-PA000467,2024-05-13,21:20,II,5,17,16,Queda de energia interna SUB-01
-PA000468,2024-05-18,23:26,III,1,15,16,Entupimento de rosca RSC-01
-PA000469,2024-05-18,05:39,III,2,6,103,Troca de rolamento LAM-01
-PA000470,2024-05-24,04:27,III,4,9,28,Falha de comunicação CLP EXT-01
-PA000471,2024-05-26,03:12,III,4,9,10,Falha de comunicação CLP EXT-01
-PA000472,2024-05-29,07:24,I,2,5,237,Vazamento de vapor CND-01
-PA000473,2024-05-30,13:57,I,2,8,311,Quebra de eixo EXP-01
-PA000474,2024-05-31,19:58,II,1,10,13,Embuchamento válvula rotativa DT-01
-PA000475,2024-06-04,01:26,III,2,6,52,Troca de rolamento LAM-01
-PA000476,2024-06-07,23:21,III,1,11,29,Embuchamento válvula rotativa DT-02
-PA000477,2024-06-08,08:39,I,1,8,85,Excesso de umidade na massa EXP-01
-PA000478,2024-06-10,01:07,III,3,15,95,Queima de motor RSC-01
-PA000479,2024-06-10,08:55,I,4,10,27,Leitura incorreta de temperatura DT-01
-PA000480,2024-06-13,11:35,I,11,,695,Manutenção preventiva programada
-PA000481,2024-06-14,14:32,I,1,9,24,Embuchamento válvula rotativa EXT-01
-PA000482,2024-06-14,01:49,III,2,7,35,Desalinhamento de rolos LAM-02
-PA000483,2024-06-14,12:33,I,6,17,59,Queda de energia da concessionária
-PA000484,2024-06-14,03:24,III,7,9,167,Parada por inspeção de segurança
-PA000485,2024-06-20,17:24,II,2,8,59,Quebra de eixo EXP-01
-PA000486,2024-06-21,05:15,III,2,15,487,Quebra de corrente RSC-01
-PA000487,2024-06-23,04:57,III,2,8,27,Quebra de eixo EXP-01
-PA000488,2024-06-23,12:39,I,4,9,29,Falha de comunicação CLP EXT-01
-PA000489,2024-06-26,10:31,I,6,17,36,Queda de energia da concessionária
-PA000490,2024-06-27,22:07,II,1,9,46,Entupimento de rosca EXT-01
-PA000491,2024-06-27,04:08,III,3,9,141,Falha no inversor EXT-01
-PA000492,2024-07-05,09:41,I,3,9,37,Falha no inversor EXT-01
-PA000493,2024-07-07,02:22,III,4,12,25,Falha de comunicação CLP DST-01
-PA000494,2024-07-09,07:36,I,1,11,70,Embuchamento válvula rotativa DT-02
-PA000495,2024-07-10,06:36,III,11,,767,Manutenção preventiva programada
-PA000496,2024-07-13,08:24,I,2,8,368,Quebra de eixo EXP-01
-PA000497,2024-07-18,05:15,III,1,9,243,Entupimento de rosca EXT-01
-PA000498,2024-07-29,05:03,III,1,9,17,Embuchamento válvula rotativa EXT-01
-PA000499,2024-07-29,22:07,II,2,8,71,Quebra de eixo EXP-01
-PA000500,2024-07-30,15:29,II,2,3,282,Troca de rolamento QBR-01
-PA000501,2024-08-04,11:50,I,2,4,499,Quebra de eixo DSC-01
-PA000502,2024-08-04,09:55,I,2,3,51,Troca de rolamento QBR-01
-PA000503,2024-08-14,07:14,I,11,,484,Manutenção preventiva programada
-PA000504,2024-08-18,17:47,II,2,4,117,Quebra de eixo DSC-01
-PA000505,2024-08-20,15:07,II,2,10,63,Vazamento de vapor DT-01
-PA000506,2024-08-24,23:24,III,1,8,20,Excesso de umidade na massa EXP-01
-PA000507,2024-08-26,17:54,II,6,17,54,Queda de energia da concessionária
-PA000508,2024-08-27,06:16,III,2,6,118,Desalinhamento de rolos LAM-01
-PA000509,2024-08-30,04:48,III,1,15,14,Entupimento de rosca RSC-01
-PA000510,2024-09-01,11:55,I,1,11,25,Ajuste de temperatura DT-02
-PA000511,2024-09-03,20:03,II,2,7,118,Desalinhamento de rolos LAM-02
-PA000512,2024-09-05,20:20,II,1,9,44,Embuchamento válvula rotativa EXT-01
-PA000513,2024-09-05,02:41,III,3,6,46,Queima de motor LAM-01
-PA000514,2024-09-06,11:58,I,7,12,51,Limpeza emergencial DST-01
-PA000515,2024-09-09,07:02,I,11,,817,Manutenção preventiva programada
-PA000516,2024-09-11,20:05,II,4,9,40,Falha de comunicação CLP EXT-01
-PA000517,2024-09-20,20:22,II,6,17,44,Queda de energia da concessionária
-PA000518,2024-10-03,14:07,I,3,6,30,Queima de motor LAM-01
-PA000519,2024-10-08,06:41,III,2,7,131,Desalinhamento de rolos LAM-02
-PA000520,2024-10-22,01:14,III,9,,517,Falta de MP
-PA000521,2024-10-23,09:12,I,11,,784,Manutenção preventiva programada
-PA000522,2024-10-23,12:30,I,2,3,101,Troca de rolamento QBR-01
-PA000523,2024-10-23,05:12,III,9,,555,Falta de MP
-PA000524,2024-10-24,18:10,II,3,9,31,Falha no inversor EXT-01
-PA000525,2024-10-24,00:20,III,9,,1409,Falta de MP
-PA000526,2024-10-25,00:02,III,9,,1440,Falta de MP
-PA000527,2024-10-26,17:41,II,1,11,75,Embuchamento válvula rotativa DT-02
-PA000528,2024-10-26,00:42,III,9,,1365,Falta de MP
-PA000529,2024-10-27,00:00,III,9,,1440,Falta de MP
-PA000530,2024-10-28,13:29,I,2,7,103,Desalinhamento de rolos LAM-02
-PA000531,2024-10-28,01:42,III,9,,1337,Falta de MP
-PA000532,2024-10-29,00:03,III,9,,1440,Falta de MP
-PA000533,2024-10-30,00:05,III,9,,1440,Falta de MP
-PA000534,2024-10-31,00:05,III,9,,1440,Falta de MP
-PA000535,2024-11-01,21:07,II,2,15,35,Quebra de corrente RSC-01
-PA000536,2024-11-01,13:55,I,4,9,17,Falha de comunicação CLP EXT-01
-PA000537,2024-11-01,05:59,III,9,,637,Falta de MP
-PA000538,2024-11-03,12:47,I,2,9,129,Quebra de corrente EXT-01
-PA000539,2024-11-05,13:13,I,7,9,217,Parada por inspeção de segurança
-PA000540,2024-11-05,03:08,III,9,,146,Falta de MP
-PA000541,2024-11-06,08:55,I,2,7,18,Desalinhamento de rolos LAM-02
-PA000542,2024-11-06,00:17,III,9,,1422,Falta de MP
-PA000543,2024-11-07,00:02,III,9,,1440,Falta de MP
-PA000544,2024-11-08,00:01,III,9,,1440,Falta de MP
-PA000545,2024-11-09,15:43,II,2,8,31,Quebra de eixo EXP-01
-PA000546,2024-11-09,00:15,III,9,,1409,Falta de MP
-PA000547,2024-11-10,00:02,III,9,,1440,Falta de MP
-PA000548,2024-11-11,16:54,II,2,6,102,Troca de rolamento LAM-01
-PA000549,2024-11-11,01:33,III,9,,1338,Falta de MP
-PA000550,2024-11-12,00:00,III,9,,1440,Falta de MP
-PA000551,2024-11-13,01:14,III,3,9,24,Falha no inversor EXT-01
-PA000552,2024-11-13,00:08,III,9,,1416,Falta de MP
-PA000553,2024-11-14,00:02,III,9,,1440,Falta de MP
-PA000554,2024-11-15,00:00,III,9,,1440,Falta de MP
-PA000555,2024-11-16,15:38,II,9,,387,Falta de MP
-PA000556,2024-11-19,09:58,I,3,17,113,Desarme de disjuntor SUB-01
-PA000557,2024-11-19,07:23,I,9,,567,Falta de MP
-PA000558,2024-11-20,00:02,III,9,,1440,Falta de MP
-PA000559,2024-11-21,18:04,II,4,11,41,Desarme sensor de nível DT-02
-PA000560,2024-11-21,00:30,III,9,,1399,Falta de MP
-PA000561,2024-11-22,00:03,III,9,,1440,Falta de MP
-PA000562,2024-11-23,00:05,III,9,,1440,Falta de MP
-PA000563,2024-11-24,00:04,III,9,,1440,Falta de MP
-PA000564,2024-11-25,00:05,III,9,,1440,Falta de MP
-PA000565,2024-11-26,13:05,I,9,,425,Falta de MP
-PA000566,2024-11-29,03:32,III,11,,778,Manutenção preventiva programada
-PA000567,2024-12-01,11:52,I,9,,307,Falta de MP
-PA000568,2024-12-02,00:02,III,9,,1440,Falta de MP
-PA000569,2024-12-03,00:03,III,9,,1440,Falta de MP
-PA000570,2024-12-04,00:04,III,9,,1440,Falta de MP
-PA000571,2024-12-05,00:01,III,9,,1440,Falta de MP
-PA000572,2024-12-06,00:00,III,9,,1440,Falta de MP
-PA000573,2024-12-07,11:23,I,2,5,94,Vazamento de vapor CND-01
-PA000574,2024-12-07,00:18,III,9,,1346,Falta de MP
-PA000575,2024-12-08,00:05,III,9,,1440,Falta de MP
-PA000576,2024-12-09,00:00,III,9,,1440,Falta de MP
-PA000577,2024-12-10,00:01,III,9,,1440,Falta de MP
-PA000578,2024-12-11,00:03,III,9,,1440,Falta de MP
-PA000579,2024-12-12,00:00,III,9,,1440,Falta de MP
-PA000580,2024-12-13,08:40,I,11,,709,Manutenção preventiva programada
-PA000581,2024-12-13,06:02,III,4,11,42,Leitura incorreta de temperatura DT-02
-PA000582,2024-12-13,21:48,II,4,9,4,Falha de comunicação CLP EXT-01
-PA000583,2024-12-13,18:53,II,9,,38,Falta de MP
-PA000584,2024-12-14,00:00,III,8,,1440,Parada programada de entressafra
-PA000585,2024-12-15,00:00,III,8,,1440,Parada programada de entressafra
-PA000586,2024-12-16,00:00,III,8,,1440,Parada programada de entressafra
-PA000587,2024-12-17,00:00,III,8,,1440,Parada programada de entressafra
-PA000588,2024-12-18,00:00,III,8,,1440,Parada programada de entressafra
-PA000589,2024-12-19,00:00,III,8,,1440,Parada programada de entressafra
-PA000590,2024-12-20,00:00,III,8,,1440,Parada programada de entressafra
-PA000591,2024-12-21,00:00,III,8,,1440,Parada programada de entressafra
-PA000592,2024-12-22,00:00,III,8,,1440,Parada programada de entressafra
-PA000593,2024-12-23,00:00,III,8,,1440,Parada programada de entressafra
-PA000594,2024-12-24,00:00,III,8,,1440,Parada programada de entressafra
-PA000595,2024-12-25,00:00,III,8,,1440,Parada programada de entressafra
-PA000596,2024-12-26,00:00,III,8,,1440,Parada programada de entressafra
-PA000597,2024-12-27,00:00,III,8,,1440,Parada programada de entressafra
-PA000598,2024-12-28,00:00,III,8,,1440,Parada programada de entressafra
-PA000599,2024-12-29,00:00,III,8,,1440,Parada programada de entressafra
-PA000600,2024-12-30,00:00,III,8,,1440,Parada programada de entressafra
-PA000601,2024-12-31,00:00,III,8,,1440,Parada programada de entressafra
-PA000602,2025-01-01,00:00,III,8,,1440,Parada programada de entressafra
-PA000603,2025-01-02,00:00,III,8,,1440,Parada programada de entressafra
-PA000604,2025-01-03,00:00,III,8,,1440,Parada programada de entressafra
-PA000605,2025-01-04,00:00,III,8,,1440,Parada programada de entressafra
-PA000606,2025-01-05,00:00,III,8,,1440,Parada programada de entressafra
-PA000607,2025-01-06,00:00,III,8,,1440,Parada programada de entressafra
-PA000608,2025-01-07,00:00,III,8,,1440,Parada programada de entressafra
-PA000609,2025-01-08,00:00,III,8,,1440,Parada programada de entressafra
-PA000610,2025-01-09,00:00,III,8,,1440,Parada programada de entressafra
-PA000611,2025-01-10,00:00,III,8,,1440,Parada programada de entressafra
-PA000612,2025-01-11,00:00,III,8,,1440,Parada programada de entressafra
-PA000613,2025-01-12,00:00,III,8,,1440,Parada programada de entressafra
-PA000614,2025-01-13,00:00,III,8,,1440,Parada programada de entressafra
-PA000615,2025-01-14,00:00,III,8,,1440,Parada programada de entressafra
-PA000616,2025-01-15,00:00,III,8,,793,Parada programada de entressafra
-PA000617,2025-01-17,01:17,III,3,9,28,Falha no inversor EXT-01
-PA000618,2025-01-20,09:44,I,2,5,38,Vazamento de vapor CND-01
-PA000619,2025-01-23,03:08,III,1,11,38,Ajuste de temperatura DT-02
-PA000620,2025-01-23,10:24,I,4,5,29,Leitura incorreta de temperatura CND-01
-PA000621,2025-01-26,23:23,III,3,6,24,Queima de motor LAM-01
-PA000622,2025-01-27,23:23,III,4,9,17,Falha de comunicação CLP EXT-01
-PA000623,2025-01-28,06:48,III,11,,914,Manutenção preventiva programada
-PA000624,2025-01-31,04:46,III,2,11,13,Vazamento de vapor DT-02
-PA000625,2025-02-02,09:54,I,1,15,23,Entupimento de rosca RSC-01
-PA000626,2025-02-03,09:09,I,1,5,9,Excesso de umidade na massa CND-01
-PA000627,2025-02-04,18:44,II,1,9,37,Entupimento de rosca EXT-01
-PA000628,2025-02-10,04:18,III,11,,826,Manutenção preventiva programada
-PA000629,2025-02-13,19:16,II,2,10,59,Vazamento de vapor DT-01
-PA000630,2025-02-13,11:45,I,3,15,61,Falha no inversor RSC-01
-PA000631,2025-02-17,21:38,II,1,10,52,Embuchamento válvula rotativa DT-01
-PA000632,2025-02-19,01:28,III,2,7,72,Troca de rolamento LAM-02
-PA000633,2025-02-21,03:53,III,2,15,182,Quebra de eixo RSC-01
-PA000634,2025-02-23,08:35,I,1,5,7,Excesso de umidade na massa CND-01
-PA000635,2025-02-24,11:33,I,2,6,94,Troca de rolamento LAM-01
-PA000636,2025-02-26,12:09,I,2,3,53,Troca de rolamento QBR-01
-PA000637,2025-02-28,19:48,II,2,10,34,Vazamento de vapor DT-01
-PA000638,2025-03-02,13:57,I,1,15,7,Entupimento de rosca RSC-01
-PA000639,2025-03-02,19:12,II,1,8,136,Excesso de umidade na massa EXP-01
-PA000640,2025-03-02,09:00,I,2,6,28,Desalinhamento de rolos LAM-01
-PA000641,2025-03-03,22:06,II,1,9,56,Entupimento de rosca EXT-01
-PA000642,2025-03-04,02:38,III,3,10,119,Desarme de disjuntor DT-01
-PA000643,2025-03-06,22:00,II,4,9,24,Desarme sensor de nível EXT-01
-PA000644,2025-03-07,09:45,I,7,9,91,Limpeza emergencial EXT-01
-PA000645,2025-03-15,12:55,I,1,15,64,Entupimento de rosca RSC-01
-PA000646,2025-03-29,14:41,I,2,4,131,Quebra de eixo DSC-01
-PA000647,2025-03-31,02:51,III,11,,855,Manutenção preventiva programada
-PA000648,2025-04-02,08:11,I,11,,896,Manutenção preventiva programada
-PA000649,2025-04-10,00:46,III,2,7,154,Desalinhamento de rolos LAM-02
-PA000650,2025-04-10,22:53,II,2,15,65,Quebra de eixo RSC-01
-PA000651,2025-04-10,17:15,II,4,12,52,Falha de comunicação CLP DST-01
-PA000652,2025-04-12,04:27,III,1,11,14,Ajuste de temperatura DT-02
-PA000653,2025-04-18,15:43,II,1,5,8,Excesso de umidade na massa CND-01
-PA000654,2025-04-21,15:49,II,6,17,28,Queda de energia da concessionária
-PA000655,2025-04-23,19:31,II,3,15,219,Queima de motor RSC-01
-PA000656,2025-04-25,05:50,III,2,6,146,Desalinhamento de rolos LAM-01
-PA000657,2025-05-01,00:27,III,1,10,23,Ajuste de temperatura DT-01
-PA000658,2025-05-05,04:59,III,11,,832,Manutenção preventiva programada
-PA000659,2025-05-08,18:44,II,2,15,52,Quebra de corrente RSC-01
-PA000660,2025-05-14,17:14,II,2,9,173,Quebra de corrente EXT-01
-PA000661,2025-05-16,10:14,I,10,15,98,Armazém de farelo cheio
-PA000662,2025-05-17,06:51,III,2,6,93,Desalinhamento de rolos LAM-01
-PA000663,2025-05-17,01:27,III,10,15,1347,Armazém de farelo cheio
-PA000664,2025-05-18,00:03,III,10,15,1440,Armazém de farelo cheio
-PA000665,2025-05-19,13:54,I,2,11,93,Vazamento de vapor DT-02
-PA000666,2025-05-19,20:18,II,4,12,75,Falha de comunicação CLP DST-01
-PA000667,2025-05-21,03:32,III,3,17,26,Desarme de disjuntor SUB-01
-PA000668,2025-05-22,05:05,III,2,3,269,Troca de rolamento QBR-01
-PA000669,2025-05-23,19:51,II,3,8,158,Queima de motor EXP-01
-PA000670,2025-05-25,18:19,II,1,8,53,Excesso de umidade na massa EXP-01
-PA000671,2025-05-27,14:50,I,3,9,14,Falha no inversor EXT-01
-PA000672,2025-05-30,16:02,II,1,5,10,Ajuste de temperatura CND-01
-PA000673,2025-05-31,09:12,I,10,15,311,Armazém de farelo cheio
-PA000674,2025-06-01,19:34,II,2,7,87,Desalinhamento de rolos LAM-02
-PA000675,2025-06-01,01:25,III,10,15,1353,Armazém de farelo cheio
-PA000676,2025-06-02,00:01,III,10,15,1440,Armazém de farelo cheio
-PA000677,2025-06-04,07:09,I,2,15,129,Quebra de corrente RSC-01
-PA000678,2025-06-05,01:03,III,2,11,223,Vazamento de vapor DT-02
-PA000679,2025-06-06,10:53,I,4,5,109,Leitura incorreta de temperatura CND-01
-PA000680,2025-06-08,10:12,I,4,10,44,Desarme sensor de nível DT-01
-PA000681,2025-06-08,14:34,I,10,15,508,Armazém de farelo cheio
-PA000682,2025-06-09,00:03,III,10,15,1440,Armazém de farelo cheio
-PA000683,2025-06-10,04:38,III,4,10,8,Desarme sensor de nível DT-01
-PA000684,2025-06-10,00:05,III,10,15,1432,Armazém de farelo cheio
-PA000685,2025-06-11,00:04,III,10,15,1440,Armazém de farelo cheio
-PA000686,2025-06-14,03:40,III,2,7,121,Desalinhamento de rolos LAM-02
-PA000687,2025-06-15,22:12,II,1,9,56,Embuchamento válvula rotativa EXT-01
-PA000688,2025-06-17,13:23,I,2,15,137,Quebra de corrente RSC-01
-PA000689,2025-06-19,02:45,III,11,,691,Manutenção preventiva programada
-PA000690,2025-06-20,17:24,II,1,5,16,Excesso de umidade na massa CND-01
-PA000691,2025-06-20,06:15,III,2,7,173,Desalinhamento de rolos LAM-02
-PA000692,2025-06-24,13:11,I,3,15,38,Falha no inversor RSC-01
-PA000693,2025-06-25,09:53,I,3,15,120,Falha no inversor RSC-01
-PA000694,2025-06-29,20:23,II,6,17,37,Queda de energia da concessionária
-PA000695,2025-07-03,15:11,II,1,5,14,Excesso de umidade na massa CND-01
-PA000696,2025-07-05,01:47,III,2,6,95,Desalinhamento de rolos LAM-01
-PA000697,2025-07-09,14:15,I,1,10,33,Ajuste de temperatura DT-01
-PA000698,2025-07-09,07:00,I,2,6,27,Desalinhamento de rolos LAM-01
-PA000699,2025-07-11,00:28,III,10,15,221,Armazém de farelo cheio
-PA000700,2025-07-12,00:03,III,10,15,1440,Armazém de farelo cheio
-PA000701,2025-07-13,17:38,II,2,5,58,Vazamento de vapor CND-01
-PA000702,2025-07-13,00:06,III,10,15,1382,Armazém de farelo cheio
-PA000703,2025-07-14,18:35,II,2,7,239,Desalinhamento de rolos LAM-02
-PA000704,2025-07-14,03:33,III,10,15,1201,Armazém de farelo cheio
-PA000705,2025-07-17,00:23,III,11,,794,Manutenção preventiva programada
-PA000706,2025-07-17,11:19,I,4,12,73,Falha de comunicação CLP DST-01
-PA000707,2025-07-20,13:28,I,2,6,177,Desalinhamento de rolos LAM-01
-PA000708,2025-07-20,11:05,I,4,9,54,Falha de comunicação CLP EXT-01
-PA000709,2025-07-23,09:14,I,3,10,191,Desarme de disjuntor DT-01
-PA000710,2025-07-23,10:35,I,4,12,17,Falha de comunicação CLP DST-01
-PA000711,2025-07-23,00:34,III,10,15,244,Armazém de farelo cheio
-PA000712,2025-07-24,03:02,III,2,9,110,Quebra de corrente EXT-01
-PA000713,2025-07-24,05:12,III,2,5,1028,Vazamento de vapor CND-01
-PA000714,2025-07-24,15:14,II,10,15,302,Armazém de farelo cheio
-PA000715,2025-07-25,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000716,2025-07-29,07:42,I,2,11,119,Vazamento de vapor DT-02
-PA000717,2025-07-31,04:57,III,10,15,552,Armazém de farelo cheio
-PA000718,2025-08-01,07:03,I,1,15,12,Entupimento de rosca RSC-01
-PA000719,2025-08-01,00:07,III,10,15,1428,Armazém de farelo cheio
-PA000720,2025-08-02,12:54,I,4,12,52,Falha de comunicação CLP DST-01
-PA000721,2025-08-02,00:40,III,10,15,1388,Armazém de farelo cheio
-PA000722,2025-08-04,23:11,III,1,15,9,Entupimento de rosca RSC-01
-PA000723,2025-08-05,05:45,III,11,,946,Manutenção preventiva programada
-PA000724,2025-08-07,20:44,II,7,9,35,Limpeza emergencial EXT-01
-PA000725,2025-08-07,15:01,II,10,15,385,Armazém de farelo cheio
-PA000726,2025-08-08,23:41,III,1,8,7,Excesso de umidade na massa EXP-01
-PA000727,2025-08-08,19:57,II,2,15,207,Quebra de corrente RSC-01
-PA000728,2025-08-08,00:52,III,10,15,1226,Armazém de farelo cheio
-PA000729,2025-08-09,00:01,III,10,15,1440,Armazém de farelo cheio
-PA000730,2025-08-12,08:58,I,2,6,35,Desalinhamento de rolos LAM-01
-PA000731,2025-08-13,18:47,II,3,10,68,Desarme de disjuntor DT-01
-PA000732,2025-08-16,11:47,I,10,15,18,Armazém de farelo cheio
-PA000733,2025-08-17,00:05,III,10,15,1440,Armazém de farelo cheio
-PA000734,2025-08-18,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000735,2025-08-20,00:16,III,2,8,1315,Quebra de eixo EXP-01
-PA000736,2025-08-21,05:11,III,2,7,258,Troca de rolamento LAM-02
-PA000737,2025-08-25,07:29,I,1,5,26,Excesso de umidade na massa CND-01
-PA000738,2025-08-25,18:53,II,3,9,23,Falha no inversor EXT-01
-PA000739,2025-08-26,16:07,II,3,6,25,Queima de motor LAM-01
-PA000740,2025-08-26,17:50,II,3,15,89,Falha no inversor RSC-01
-PA000741,2025-08-27,07:57,I,7,9,55,Parada por inspeção de segurança
-PA000742,2025-08-28,02:50,III,10,15,478,Armazém de farelo cheio
-PA000743,2025-08-29,12:49,I,1,5,66,Excesso de umidade na massa CND-01
-PA000744,2025-08-29,00:41,III,10,15,1374,Armazém de farelo cheio
-PA000745,2025-08-30,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000746,2025-08-31,00:05,III,10,15,1440,Armazém de farelo cheio
-PA000747,2025-09-02,19:01,II,1,15,52,Entupimento de rosca RSC-01
-PA000748,2025-09-03,03:17,III,2,6,32,Desalinhamento de rolos LAM-01
-PA000749,2025-09-05,06:43,III,10,15,59,Armazém de farelo cheio
-PA000750,2025-09-06,00:03,III,10,15,1440,Armazém de farelo cheio
-PA000751,2025-09-07,00:05,III,10,15,1440,Armazém de farelo cheio
-PA000752,2025-09-08,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000753,2025-09-09,04:10,III,2,5,48,Vazamento de vapor CND-01
-PA000754,2025-09-09,03:33,III,4,9,44,Falha de comunicação CLP EXT-01
-PA000755,2025-09-13,00:27,III,4,9,16,Falha de comunicação CLP EXT-01
-PA000756,2025-09-13,01:18,III,2,6,1252,Troca de rolamento LAM-01
-PA000757,2025-09-16,10:12,I,1,9,16,Entupimento de rosca EXT-01
-PA000758,2025-09-17,11:58,I,2,15,123,Quebra de eixo RSC-01
-PA000759,2025-09-17,19:11,II,10,15,138,Armazém de farelo cheio
-PA000760,2025-09-18,00:01,III,10,15,1440,Armazém de farelo cheio
-PA000761,2025-09-19,08:27,I,2,3,90,Troca de rolamento QBR-01
-PA000762,2025-09-19,00:00,III,10,15,1350,Armazém de farelo cheio
-PA000763,2025-09-20,09:49,I,7,12,102,Limpeza emergencial DST-01
-PA000764,2025-09-22,13:34,I,3,9,52,Falha no inversor EXT-01
-PA000765,2025-09-22,14:48,I,10,15,105,Armazém de farelo cheio
-PA000766,2025-09-23,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000767,2025-09-24,00:04,III,10,15,1440,Armazém de farelo cheio
-PA000768,2025-09-25,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000769,2025-09-30,13:20,I,11,,618,Manutenção preventiva programada
-PA000770,2025-10-03,02:37,III,10,15,766,Armazém de farelo cheio
-PA000771,2025-10-04,00:00,III,10,15,1440,Armazém de farelo cheio
-PA000772,2025-10-05,09:30,I,2,15,191,Quebra de corrente RSC-01
-PA000773,2025-10-05,01:46,III,10,15,1249,Armazém de farelo cheio
-PA000774,2025-10-06,00:04,III,10,15,1440,Armazém de farelo cheio
-PA000775,2025-10-08,03:35,III,2,4,307,Quebra de eixo DSC-01
-PA000776,2025-10-08,18:24,II,4,9,10,Desarme sensor de nível EXT-01
-PA000777,2025-10-09,18:17,II,4,9,19,Desarme sensor de nível EXT-01
-PA000778,2025-10-13,03:56,III,10,15,500,Armazém de farelo cheio
-PA000779,2025-10-14,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000780,2025-10-15,19:23,II,2,15,88,Quebra de eixo RSC-01
-PA000781,2025-10-15,00:15,III,10,15,1352,Armazém de farelo cheio
-PA000782,2025-10-16,14:02,I,1,11,109,Ajuste de temperatura DT-02
-PA000783,2025-10-16,00:51,III,3,9,13,Desarme de disjuntor EXT-01
-PA000784,2025-10-16,07:23,I,4,5,73,Leitura incorreta de temperatura CND-01
-PA000785,2025-10-16,02:06,III,10,15,1245,Armazém de farelo cheio
-PA000786,2025-10-22,01:17,III,2,6,96,Desalinhamento de rolos LAM-01
-PA000787,2025-10-22,06:46,III,4,12,32,Falha de comunicação CLP DST-01
-PA000788,2025-10-23,11:08,I,10,15,154,Armazém de farelo cheio
-PA000789,2025-10-24,00:04,III,10,15,1440,Armazém de farelo cheio
-PA000790,2025-10-25,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000791,2025-10-26,16:54,II,4,10,25,Leitura incorreta de temperatura DT-01
-PA000792,2025-10-26,00:09,III,10,15,1415,Armazém de farelo cheio
-PA000793,2025-10-27,11:38,I,2,6,265,Troca de rolamento LAM-01
-PA000794,2025-10-30,20:12,II,1,5,6,Ajuste de temperatura CND-01
-PA000795,2025-10-31,02:43,III,11,,832,Manutenção preventiva programada
-PA000796,2025-11-02,04:07,III,10,15,1059,Armazém de farelo cheio
-PA000797,2025-11-03,02:10,III,2,6,70,Desalinhamento de rolos LAM-01
-PA000798,2025-11-03,00:32,III,10,15,1370,Armazém de farelo cheio
-PA000799,2025-11-04,00:05,III,10,15,1440,Armazém de farelo cheio
-PA000800,2025-11-05,00:02,III,10,15,1440,Armazém de farelo cheio
-PA000801,2025-11-09,17:51,II,2,11,97,Vazamento de vapor DT-02
-PA000802,2025-11-09,08:14,I,2,4,60,Quebra de eixo DSC-01
-PA000803,2025-11-10,19:01,II,2,9,227,Quebra de corrente EXT-01
-PA000804,2025-11-10,10:17,I,4,12,60,Falha de comunicação CLP DST-01
-PA000805,2025-11-11,03:35,III,5,17,8,Queda de energia interna SUB-01
-PA000806,2025-11-11,08:49,I,10,15,349,Armazém de farelo cheio
-PA000807,2025-11-12,00:05,III,10,15,1440,Armazém de farelo cheio
-PA000808,2025-11-13,00:04,III,10,15,1440,Armazém de farelo cheio
-PA000809,2025-11-18,06:45,III,4,9,14,Falha de comunicação CLP EXT-01
-PA000810,2025-11-18,04:55,III,7,9,165,Parada por inspeção de segurança
-PA000811,2025-11-18,13:05,I,10,15,386,Armazém de farelo cheio
-PA000812,2025-11-19,00:00,III,10,15,1440,Armazém de farelo cheio
-PA000813,2025-11-20,00:01,III,10,15,1440,Armazém de farelo cheio
-PA000814,2025-11-21,08:04,I,11,,646,Manutenção preventiva programada
-PA000815,2025-11-21,01:26,III,10,15,794,Armazém de farelo cheio
-PA000816,2025-11-23,19:49,II,1,9,27,Entupimento de rosca EXT-01
-PA000817,2025-11-26,00:42,III,10,15,326,Armazém de farelo cheio
-PA000818,2025-11-27,15:34,II,2,3,80,Troca de rolamento QBR-01
-PA000819,2025-11-27,06:05,III,9,,566,Falta de MP
-PA000820,2025-11-27,07:07,I,10,15,794,Armazém de farelo cheio
-PA000821,2025-11-28,00:00,III,9,,1440,Falta de MP
-PA000822,2025-11-29,04:57,III,2,15,29,Quebra de corrente RSC-01
-PA000823,2025-11-29,00:01,III,9,,1411,Falta de MP
-PA000824,2025-11-30,09:42,I,3,17,406,Desarme de disjuntor SUB-01
-PA000825,2025-11-30,02:19,III,9,,1034,Falta de MP
-PA000826,2025-12-01,00:05,III,9,,1440,Falta de MP
-PA000827,2025-12-02,03:13,III,1,11,52,Ajuste de temperatura DT-02
-PA000828,2025-12-02,00:31,III,9,,1388,Falta de MP
-PA000829,2025-12-03,01:45,III,11,,539,Manutenção preventiva programada
-PA000830,2025-12-03,05:56,III,2,4,37,Quebra de eixo DSC-01
-PA000831,2025-12-03,06:46,III,9,,863,Falta de MP
-PA000832,2025-12-04,00:01,III,9,,1440,Falta de MP
-PA000833,2025-12-05,18:45,II,1,9,12,Embuchamento válvula rotativa EXT-01
-PA000834,2025-12-05,07:43,I,3,15,80,Falha no inversor RSC-01
-PA000835,2025-12-05,00:16,III,9,,1348,Falta de MP
-PA000836,2025-12-06,02:04,III,9,,707,Falta de MP
-PA000837,2025-12-07,00:41,III,6,17,39,Queda de energia da concessionária
-PA000838,2025-12-10,08:14,I,9,,593,Falta de MP
-PA000839,2025-12-11,09:18,I,2,6,69,Troca de rolamento LAM-01
-PA000840,2025-12-11,00:00,III,9,,1371,Falta de MP
-PA000841,2025-12-12,00:01,III,9,,1440,Falta de MP
-PA000842,2025-12-13,00:00,III,8,,1440,Parada programada de entressafra
-PA000843,2025-12-14,00:00,III,8,,1440,Parada programada de entressafra
-PA000844,2025-12-15,00:00,III,8,,1440,Parada programada de entressafra
-PA000845,2025-12-16,00:00,III,8,,1440,Parada programada de entressafra
-PA000846,2025-12-17,00:00,III,8,,1440,Parada programada de entressafra
-PA000847,2025-12-18,00:00,III,8,,1440,Parada programada de entressafra
-PA000848,2025-12-19,00:00,III,8,,1440,Parada programada de entressafra
-PA000849,2025-12-20,00:00,III,8,,1440,Parada programada de entressafra
-PA000850,2025-12-21,00:00,III,8,,1440,Parada programada de entressafra
-PA000851,2025-12-22,00:00,III,8,,1440,Parada programada de entressafra
-PA000852,2025-12-23,00:00,III,8,,1440,Parada programada de entressafra
-PA000853,2025-12-24,00:00,III,8,,1440,Parada programada de entressafra
-PA000854,2025-12-25,00:00,III,8,,1440,Parada programada de entressafra
-PA000855,2025-12-26,00:00,III,8,,1440,Parada programada de entressafra
-PA000856,2025-12-27,00:00,III,8,,1440,Parada programada de entressafra
-PA000857,2025-12-28,00:00,III,8,,1440,Parada programada de entressafra
-PA000858,2025-12-29,00:00,III,8,,1440,Parada programada de entressafra
-PA000859,2025-12-30,00:00,III,8,,1440,Parada programada de entressafra
-PA000860,2025-12-31,00:00,III,8,,1440,Parada programada de entressafra
-PA000861,2026-01-01,00:00,III,8,,1440,Parada programada de entressafra
-PA000862,2026-01-02,00:00,III,8,,1440,Parada programada de entressafra
-PA000863,2026-01-03,00:00,III,8,,1440,Parada programada de entressafra
-PA000864,2026-01-04,00:00,III,8,,1440,Parada programada de entressafra
-PA000865,2026-01-05,00:00,III,8,,1440,Parada programada de entressafra
-PA000866,2026-01-06,00:00,III,8,,1440,Parada programada de entressafra
-PA000867,2026-01-07,00:00,III,8,,1440,Parada programada de entressafra
-PA000868,2026-01-08,00:00,III,8,,1440,Parada programada de entressafra
-PA000869,2026-01-09,03:20,III,11,,853,Manutenção preventiva programada
-PA000870,2026-01-09,20:39,II,9,,104,Falta de MP
-PA000871,2026-01-10,21:06,II,2,7,102,Troca de rolamento LAM-02
-PA000872,2026-01-16,05:31,III,1,15,10,Entupimento de rosca RSC-01
-PA000873,2026-01-20,14:50,I,2,11,379,Vazamento de vapor DT-02
-PA000874,2026-01-20,10:26,I,9,,462,Falta de MP
-PA000875,2026-01-21,00:05,III,9,,1440,Falta de MP
-PA000876,2026-01-22,00:03,III,9,,1440,Falta de MP
-PA000877,2026-01-23,20:01,II,7,9,136,Limpeza emergencial EXT-01
-PA000878,2026-01-23,09:42,I,7,9,86,Limpeza emergencial EXT-01
-PA000879,2026-01-23,02:36,III,9,,1219,Falta de MP
-PA000880,2026-01-24,00:05,III,9,,1440,Falta de MP
-PA000881,2026-01-25,00:04,III,9,,1440,Falta de MP
-PA000882,2026-01-26,08:44,I,2,6,17,Troca de rolamento LAM-01
-PA000883,2026-01-26,00:16,III,9,,1423,Falta de MP
-PA000884,2026-01-27,05:26,III,2,7,154,Desalinhamento de rolos LAM-02
-PA000885,2026-01-27,00:57,III,9,,1286,Falta de MP
-PA000886,2026-01-28,02:49,III,9,,775,Falta de MP
-PA000887,2026-01-31,15:06,II,2,7,102,Troca de rolamento LAM-02
-PA000888,2026-02-01,15:49,II,1,11,16,Embuchamento válvula rotativa DT-02
-PA000889,2026-02-01,02:28,III,9,,407,Falta de MP
-PA000890,2026-02-02,00:01,III,9,,1440,Falta de MP
-PA000891,2026-02-03,00:03,III,9,,1440,Falta de MP
-PA000892,2026-02-04,00:05,III,9,,1440,Falta de MP
-PA000893,2026-02-05,00:05,III,9,,1440,Falta de MP
-PA000894,2026-02-06,00:03,III,9,,1440,Falta de MP
-PA000895,2026-02-07,04:13,III,2,11,357,Vazamento de vapor DT-02
-PA000896,2026-02-07,12:14,I,2,6,131,Desalinhamento de rolos LAM-01
-PA000897,2026-02-07,06:37,III,9,,952,Falta de MP
-PA000898,2026-02-08,00:03,III,9,,1440,Falta de MP
-PA000899,2026-02-09,03:50,III,9,,389,Falta de MP
-PA000900,2026-02-12,18:24,II,1,10,49,Ajuste de temperatura DT-01
-PA000901,2026-02-13,07:20,I,6,17,35,Queda de energia da concessionária
-PA000902,2026-02-16,14:45,I,9,,126,Falta de MP
-PA000903,2026-02-17,03:27,III,2,6,256,Desalinhamento de rolos LAM-01
-PA000904,2026-02-17,02:26,III,9,,1184,Falta de MP
-PA000905,2026-02-18,00:01,III,9,,1440,Falta de MP
-PA000906,2026-02-19,05:09,III,9,,457,Falta de MP
-PA000907,2026-02-22,02:07,III,1,11,13,Ajuste de temperatura DT-02
-PA000908,2026-02-24,03:35,III,3,7,48,Queima de motor LAM-02
-PA000909,2026-02-25,08:47,I,11,,715,Manutenção preventiva programada
-PA000910,2026-02-26,20:00,II,9,,61,Falta de MP
-PA000911,2026-02-27,00:01,III,9,,1440,Falta de MP
-PA000912,2026-02-28,00:04,III,9,,1440,Falta de MP
-PA000913,2026-03-01,00:01,III,9,,1440,Falta de MP
-PA000914,2026-03-02,11:17,I,2,7,488,Desalinhamento de rolos LAM-02
-PA000915,2026-03-02,04:06,III,9,,952,Falta de MP
-PA000916,2026-03-03,12:10,I,9,,639,Falta de MP
-PA000917,2026-03-04,05:11,III,7,9,138,Parada por inspeção de segurança
-PA000918,2026-03-12,05:26,III,1,10,20,Embuchamento válvula rotativa DT-01
-PA000919,2026-03-27,16:01,II,4,11,48,Leitura incorreta de temperatura DT-02
-PA000920,2026-03-28,02:58,III,7,9,115,Limpeza emergencial EXT-01
-PA000921,2026-03-29,16:13,II,2,9,35,Quebra de corrente EXT-01
-PA000922,2026-03-29,18:16,II,3,15,62,Falha no inversor RSC-01
-PA000923,2026-03-31,09:31,I,11,,703,Manutenção preventiva programada
-PA000924,2026-03-31,01:56,III,1,11,28,Embuchamento válvula rotativa DT-02
-PA000925,2026-04-03,21:24,II,3,9,16,Falha no inversor EXT-01
-PA000926,2026-04-04,09:20,I,3,10,138,Desarme de disjuntor DT-01
-PA000927,2026-04-06,08:27,I,2,7,202,Troca de rolamento LAM-02
-PA000928,2026-04-08,01:07,III,11,,949,Manutenção preventiva programada
-PA000929,2026-04-12,12:53,I,2,4,72,Quebra de eixo DSC-01
-PA000930,2026-04-19,13:45,I,1,9,27,Entupimento de rosca EXT-01
-PA000931,2026-04-28,22:03,II,2,6,79,Troca de rolamento LAM-01
-PA000932,2026-04-28,00:53,III,2,6,68,Desalinhamento de rolos LAM-01
-PA000933,2026-04-30,07:08,I,2,4,124,Quebra de eixo DSC-01
-PA000934,2026-05-03,11:15,I,2,15,75,Quebra de eixo RSC-01
-PA000935,2026-05-03,03:24,III,3,15,45,Falha no inversor RSC-01
-PA000936,2026-05-04,17:36,II,9,,138,Falta de MP
-PA000937,2026-05-05,16:09,II,4,11,28,Leitura incorreta de temperatura DT-02
-PA000938,2026-05-05,00:08,III,9,,1412,Falta de MP
-PA000939,2026-05-06,00:03,III,9,,1440,Falta de MP
-PA000940,2026-05-07,09:39,I,9,,669,Falta de MP
-PA000941,2026-05-08,18:03,II,2,6,195,Desalinhamento de rolos LAM-01
-PA000942,2026-05-09,15:43,II,3,15,34,Queima de motor RSC-01
-PA000943,2026-05-09,15:05,II,6,17,70,Queda de energia da concessionária
-PA000944,2026-05-11,20:44,II,2,10,93,Vazamento de vapor DT-01
-PA000945,2026-05-13,05:52,III,11,,861,Manutenção preventiva programada
-PA000946,2026-05-14,22:21,II,2,7,48,Desalinhamento de rolos LAM-02
-PA000947,2026-05-19,13:47,I,2,15,51,Quebra de eixo RSC-01
-PA000948,2026-05-19,07:47,I,2,15,316,Quebra de corrente RSC-01
-PA000949,2026-05-27,02:57,III,1,5,46,Excesso de umidade na massa CND-01
-PA000950,2026-05-29,11:00,I,2,8,40,Quebra de eixo EXP-01
-PA000951,2026-05-29,17:34,II,7,9,88,Parada por inspeção de segurança
-PA000952,2026-06-01,16:12,II,9,,334,Falta de MP
-PA000953,2026-06-02,00:00,III,9,,1440,Falta de MP
-PA000954,2026-06-03,12:15,I,7,9,67,Limpeza emergencial EXT-01
-PA000955,2026-06-03,00:45,III,9,,1373,Falta de MP
-PA000956,2026-06-04,00:02,III,9,,1440,Falta de MP
-PA000957,2026-06-05,06:13,III,11,,521,Manutenção preventiva programada
-PA000958,2026-06-05,03:02,III,2,7,89,Troca de rolamento LAM-02
-PA000959,2026-06-05,04:56,III,9,,830,Falta de MP
-PA000960,2026-06-06,00:04,III,9,,1440,Falta de MP
-PA000961,2026-06-07,00:04,III,9,,1440,Falta de MP
-PA000962,2026-06-08,00:01,III,9,,1440,Falta de MP
-PA000963,2026-06-09,15:27,II,9,,393,Falta de MP
-PA000964,2026-06-14,04:01,III,1,8,56,Excesso de umidade na massa EXP-01
-PA000965,2026-06-16,01:26,III,1,5,95,Excesso de umidade na massa CND-01
-PA000966,2026-06-18,20:05,II,2,15,26,Quebra de eixo RSC-01
-PA000967,2026-06-20,03:44,III,6,17,21,Queda de energia da concessionária
-PA000968,2026-06-21,01:24,III,9,,849,Falta de MP
-PA000969,2026-06-22,00:05,III,9,,1440,Falta de MP
-PA000970,2026-06-23,00:00,III,9,,1440,Falta de MP
-PA000971,2026-06-24,00:05,III,9,,1440,Falta de MP
-PA000972,2026-06-25,00:04,III,9,,1440,Falta de MP
-PA000973,2026-06-26,06:17,III,9,,604,Falta de MP
-PA000974,2026-06-28,14:30,I,1,10,26,Ajuste de temperatura DT-01
-PA000975,2026-06-28,12:04,I,2,15,107,Quebra de corrente RSC-01
-PA000976,2026-07-02,02:13,III,2,8,276,Quebra de eixo EXP-01
-PA000977,2026-07-03,04:31,III,9,,565,Falta de MP
-PA000978,2026-07-04,15:55,II,1,8,53,Excesso de umidade na massa EXP-01
-PA000979,2026-07-04,00:13,III,9,,1387,Falta de MP
-PA000980,2026-07-05,00:02,III,9,,1440,Falta de MP
-PA000981,2026-07-06,00:03,III,9,,1440,Falta de MP
-PA000982,2026-07-07,22:55,II,3,15,28,Falha no inversor RSC-01
-PA000983,2026-07-07,00:26,III,9,,1412,Falta de MP
-PA000984,2026-07-08,12:59,I,2,3,223,Troca de rolamento QBR-01
-PA000985,2026-07-08,02:54,III,9,,1217,Falta de MP
-PA000986,2026-07-09,09:12,I,1,9,33,Entupimento de rosca EXT-01
-PA000987,2026-07-09,00:26,III,9,,1407,Falta de MP
-PA000988,2026-07-10,04:49,III,1,5,22,Ajuste de temperatura CND-01
-PA000989,2026-07-10,10:46,I,9,,373,Falta de MP
-PA000990,2026-07-13,10:58,I,2,7,304,Troca de rolamento LAM-02
-PA000991,2026-07-15,18:10,II,1,9,31,Entupimento de rosca EXT-01
-PA000992,2026-07-15,16:21,II,9,,390,Falta de MP
-PA000993,2026-07-16,00:02,III,9,,1440,Falta de MP
-PA000994,2026-07-17,01:52,III,11,,865,Manutenção preventiva programada
-PA000995,2026-07-17,05:47,III,9,,575,Falta de MP
-PA000996,2026-07-18,00:01,III,9,,1440,Falta de MP
-PA000997,2026-07-19,20:11,II,2,6,26,Troca de rolamento LAM-01
-PA000998,2026-07-19,00:03,III,9,,1414,Falta de MP
-PA000999,2026-07-20,00:00,III,9,,1440,Falta de MP
-PA001000,2026-07-21,00:00,III,9,,1440,Falta de MP
-PA001001,2026-07-22,00:04,III,9,,1440,Falta de MP
-PA001002,2026-07-23,00:24,III,9,,361,Falta de MP
-PA001003,2026-07-25,14:04,I,1,9,11,Embuchamento válvula rotativa EXT-01
-PA001004,2026-07-26,08:25,I,4,9,42,Falha de comunicação CLP EXT-01
-PA001005,2026-07-27,01:38,III,9,,880,Falta de MP
-PA001006,2026-07-28,00:04,III,9,,1440,Falta de MP
-PA001007,2026-07-29,20:27,II,7,9,50,Parada por inspeção de segurança
-PA001008,2026-07-29,00:24,III,9,,1390,Falta de MP
-PA001009,2026-07-30,15:13,II,2,15,20,Quebra de corrente RSC-01
-PA001010,2026-07-30,00:10,III,9,,1420,Falta de MP
-PA001011,2026-07-31,11:02,I,2,3,128,Troca de rolamento QBR-01
-PA001012,2026-07-31,01:40,III,9,,1312,Falta de MP
-PA001013,2026-08-01,00:00,III,9,,1440,Falta de MP
-PA001014,2026-08-02,01:23,III,4,5,24,Leitura incorreta de temperatura CND-01
-PA001015,2026-08-02,00:11,III,9,,1416,Falta de MP
-PA001016,2026-08-03,02:31,III,1,9,42,Entupimento de rosca EXT-01
-PA001017,2026-08-03,02:08,III,2,7,79,Troca de rolamento LAM-02
-PA001018,2026-08-03,00:24,III,9,,819,Falta de MP
-PA001019,2026-08-04,16:10,II,4,11,131,Leitura incorreta de temperatura DT-02
-PA001020,2026-08-05,07:37,I,4,11,86,Desarme sensor de nível DT-02
-PA001021,2026-08-07,14:05,I,1,11,11,Ajuste de temperatura DT-02
-PA001022,2026-08-07,19:46,II,4,11,29,Desarme sensor de nível DT-02
-PA001023,2026-08-09,02:57,III,9,,1209,Falta de MP
-PA001024,2026-08-10,00:04,III,9,,1440,Falta de MP
-PA001025,2026-08-11,05:11,III,2,9,128,Quebra de corrente EXT-01
-PA001026,2026-08-11,01:16,III,9,,1312,Falta de MP
-PA001027,2026-08-12,00:03,III,9,,1440,Falta de MP
-PA001028,2026-08-13,00:05,III,9,,1440,Falta de MP
-PA001029,2026-08-14,06:46,III,11,,924,Manutenção preventiva programada
-PA001030,2026-08-14,06:17,III,1,10,31,Embuchamento válvula rotativa DT-01
-PA001031,2026-08-14,08:57,I,9,,485,Falta de MP
-PA001032,2026-08-15,00:00,III,9,,1440,Falta de MP
-PA001033,2026-08-16,00:02,III,9,,1440,Falta de MP
-PA001034,2026-08-17,00:02,III,9,,1440,Falta de MP
-PA001035,2026-08-18,00:00,III,9,,1440,Falta de MP
-PA001036,2026-08-19,20:32,II,2,8,30,Quebra de eixo EXP-01
-PA001037,2026-08-19,00:23,III,9,,1410,Falta de MP
-PA001038,2026-08-20,03:57,III,9,,889,Falta de MP
-PA001039,2026-08-21,09:09,I,2,8,34,Quebra de eixo EXP-01
-PA001040,2026-08-23,18:37,II,2,7,151,Desalinhamento de rolos LAM-02
-PA001041,2026-08-23,09:33,I,2,7,581,Desalinhamento de rolos LAM-02
-PA001042,2026-08-24,04:59,III,5,17,13,Queda de energia interna SUB-01
-PA001043,2026-08-25,18:51,II,9,,303,Falta de MP
-PA001044,2026-08-26,00:02,III,9,,1440,Falta de MP
-PA001045,2026-08-27,19:26,II,1,10,14,Ajuste de temperatura DT-01
-PA001046,2026-08-27,00:07,III,9,,1426,Falta de MP
-PA001047,2026-08-28,04:33,III,7,9,498,Limpeza emergencial EXT-01
-PA001048,2026-08-28,06:31,III,9,,942,Falta de MP
-PA001049,2026-08-29,00:03,III,9,,1440,Falta de MP
-PA001050,2026-08-30,00:02,III,9,,1440,Falta de MP
-PA001051,2026-08-31,00:00,III,9,,1440,Falta de MP
-PA001052,2026-09-01,00:03,III,9,,1440,Falta de MP
-PA001053,2026-09-02,19:02,II,6,17,62,Queda de energia da concessionária
-PA001054,2026-09-02,00:44,III,9,,442,Falta de MP
-PA001055,2026-09-03,00:02,III,1,11,55,Ajuste de temperatura DT-02
-PA001056,2026-09-06,00:49,III,9,,993,Falta de MP
-PA001057,2026-09-07,00:01,III,9,,1440,Falta de MP
-PA001058,2026-09-08,00:03,III,9,,1440,Falta de MP
-PA001059,2026-09-09,00:02,III,9,,1440,Falta de MP
-PA001060,2026-09-10,00:00,III,9,,1440,Falta de MP
-PA001061,2026-09-11,00:02,III,9,,1440,Falta de MP
-PA001062,2026-09-12,00:03,III,9,,1440,Falta de MP
-PA001063,2026-09-13,00:04,III,9,,1440,Falta de MP
-PA001064,2026-09-14,00:05,III,9,,1440,Falta de MP
-PA001065,2026-09-15,00:04,III,9,,1440,Falta de MP
-PA001066,2026-09-16,11:04,I,2,5,17,Vazamento de vapor CND-01
-PA001067,2026-09-16,00:16,III,9,,1423,Falta de MP
-PA001068,2026-09-17,15:39,II,2,3,69,Troca de rolamento QBR-01
-PA001069,2026-09-17,08:15,I,9,,816,Falta de MP
-PA001070,2026-09-21,11:05,I,9,,364,Falta de MP
-PA001071,2026-09-22,00:05,III,9,,1440,Falta de MP
-PA001072,2026-09-23,00:05,III,9,,1440,Falta de MP
-PA001073,2026-09-24,00:05,III,9,,1440,Falta de MP
-PA001074,2026-09-25,00:07,III,11,,498,Manutenção preventiva programada
-PA001075,2026-09-25,17:23,II,2,5,32,Vazamento de vapor CND-01
-PA001076,2026-09-25,03:51,III,9,,910,Falta de MP
-PA001077,2026-09-26,06:56,III,2,6,29,Troca de rolamento LAM-01
-PA001078,2026-09-26,00:07,III,9,,1411,Falta de MP
-PA001079,2026-09-27,00:01,III,9,,1440,Falta de MP
-PA001080,2026-09-28,00:03,III,9,,1440,Falta de MP
-PA001081,2026-09-29,00:05,III,9,,1440,Falta de MP
-PA001082,2026-09-30,21:21,II,1,8,23,Excesso de umidade na massa EXP-01
-PA001083,2026-09-30,00:54,III,2,7,79,Troca de rolamento LAM-02
-PA001084,2026-09-30,18:16,II,4,9,47,Desarme sensor de nível EXT-01
-PA001085,2026-09-30,08:50,I,9,,607,Falta de MP
+PA000407,2024-01-06,05:32,III,9,,825,Falta de MP
+PA000408,2024-01-09,07:37,I,6,17,31,Queda de energia da concessionária
+PA000409,2024-01-14,02:46,III,4,10,21,Desarme sensor de nível DT-01
+PA000410,2024-01-15,10:07,I,2,9,86,Quebra de corrente EXT-01
+PA000411,2024-01-17,03:50,III,11,,920,Manutenção preventiva programada
+PA000412,2024-01-18,05:48,III,2,9,15,Quebra de corrente EXT-01
+PA000413,2024-01-20,10:42,I,7,9,41,Parada por inspeção de segurança
+PA000414,2024-01-21,02:14,III,2,9,16,Quebra de corrente EXT-01
+PA000415,2024-01-21,02:13,III,3,6,128,Queima de motor LAM-01
+PA000416,2024-01-23,14:04,I,2,8,11,Quebra de eixo EXP-01
+PA000417,2024-01-26,19:18,II,1,10,41,Ajuste de temperatura DT-01
+PA000418,2024-01-28,05:01,III,9,,1095,Falta de MP
+PA000419,2024-01-29,00:00,III,9,,1440,Falta de MP
+PA000420,2024-01-30,00:05,III,9,,1440,Falta de MP
+PA000421,2024-01-31,00:02,III,9,,1440,Falta de MP
+PA000422,2024-02-01,00:05,III,9,,1440,Falta de MP
+PA000423,2024-02-02,00:00,III,9,,1440,Falta de MP
+PA000424,2024-02-03,17:22,II,1,9,18,Entupimento de rosca EXT-01
+PA000425,2024-02-03,00:17,III,9,,1422,Falta de MP
+PA000426,2024-02-04,01:37,III,4,10,32,Leitura incorreta de temperatura DT-01
+PA000427,2024-02-04,00:29,III,9,,1408,Falta de MP
+PA000428,2024-02-05,08:09,I,9,,509,Falta de MP
+PA000429,2024-02-10,21:49,II,2,10,42,Vazamento de vapor DT-01
+PA000430,2024-02-11,07:16,I,3,7,41,Queima de motor LAM-02
+PA000431,2024-02-12,22:40,II,2,5,56,Vazamento de vapor CND-01
+PA000432,2024-02-12,01:50,III,4,10,19,Leitura incorreta de temperatura DT-01
+PA000433,2024-02-13,02:13,III,11,,783,Manutenção preventiva programada
+PA000434,2024-02-13,21:52,II,2,7,123,Desalinhamento de rolos LAM-02
+PA000435,2024-02-20,11:21,I,3,10,50,Desarme de disjuntor DT-01
+PA000436,2024-02-24,20:53,II,2,10,173,Vazamento de vapor DT-01
+PA000437,2024-02-25,22:07,II,1,11,16,Embuchamento válvula rotativa DT-02
+PA000438,2024-03-06,12:20,I,11,,643,Manutenção preventiva programada
+PA000439,2024-03-07,10:29,I,1,5,17,Excesso de umidade na massa CND-01
+PA000440,2024-03-15,04:32,III,1,10,22,Embuchamento válvula rotativa DT-01
+PA000441,2024-03-18,09:08,I,2,7,135,Desalinhamento de rolos LAM-02
+PA000442,2024-03-21,03:42,III,3,17,85,Desarme de disjuntor SUB-01
+PA000443,2024-03-25,13:54,I,1,15,72,Entupimento de rosca RSC-01
+PA000444,2024-03-30,14:48,I,3,15,235,Falha no inversor RSC-01
+PA000445,2024-04-04,19:34,II,3,9,94,Falha no inversor EXT-01
+PA000446,2024-04-07,19:33,II,2,9,60,Quebra de corrente EXT-01
+PA000447,2024-04-08,01:38,III,11,,572,Manutenção preventiva programada
+PA000448,2024-04-16,05:10,III,2,6,17,Troca de rolamento LAM-01
+PA000449,2024-04-18,11:02,I,3,7,120,Queima de motor LAM-02
+PA000450,2024-04-25,01:25,III,2,4,95,Quebra de eixo DSC-01
+PA000451,2024-04-26,15:13,II,1,11,8,Ajuste de temperatura DT-02
+PA000452,2024-04-30,17:14,II,1,10,56,Embuchamento válvula rotativa DT-01
+PA000453,2024-05-01,08:32,I,11,,925,Manutenção preventiva programada
+PA000454,2024-05-10,14:03,I,2,3,565,Troca de rolamento QBR-01
+PA000455,2024-05-11,21:53,II,2,8,96,Quebra de eixo EXP-01
+PA000456,2024-05-12,11:09,I,2,7,272,Troca de rolamento LAM-02
+PA000457,2024-05-13,03:56,III,1,11,25,Ajuste de temperatura DT-02
+PA000458,2024-05-14,05:28,III,2,15,63,Quebra de corrente RSC-01
+PA000459,2024-05-14,09:52,I,6,17,135,Queda de energia da concessionária
+PA000460,2024-05-18,09:36,I,1,11,47,Ajuste de temperatura DT-02
+PA000461,2024-05-18,03:24,III,3,9,55,Desarme de disjuntor EXT-01
+PA000462,2024-05-23,14:53,I,2,11,42,Vazamento de vapor DT-02
+PA000463,2024-05-28,03:05,III,1,11,15,Embuchamento válvula rotativa DT-02
+PA000464,2024-05-31,18:46,II,2,10,26,Vazamento de vapor DT-01
+PA000465,2024-05-31,14:55,I,2,9,107,Quebra de corrente EXT-01
+PA000466,2024-05-31,06:46,III,3,6,32,Queima de motor LAM-01
+PA000467,2024-06-07,01:58,III,2,7,66,Troca de rolamento LAM-02
+PA000468,2024-06-07,14:01,I,2,15,63,Quebra de eixo RSC-01
+PA000469,2024-06-08,13:13,I,3,9,36,Desarme de disjuntor EXT-01
+PA000470,2024-06-09,00:56,III,4,10,111,Leitura incorreta de temperatura DT-01
+PA000471,2024-06-10,13:36,I,2,15,31,Quebra de corrente RSC-01
+PA000472,2024-06-13,08:26,I,11,,695,Manutenção preventiva programada
+PA000473,2024-06-15,01:07,III,2,3,198,Troca de rolamento QBR-01
+PA000474,2024-06-18,06:44,III,3,10,39,Desarme de disjuntor DT-01
+PA000475,2024-06-23,14:41,I,4,10,25,Desarme sensor de nível DT-01
+PA000476,2024-06-24,06:19,III,7,9,116,Limpeza emergencial EXT-01
+PA000477,2024-07-01,01:48,III,2,7,1167,Desalinhamento de rolos LAM-02
+PA000478,2024-07-04,18:19,II,2,15,182,Quebra de eixo RSC-01
+PA000479,2024-07-09,06:24,III,2,15,385,Quebra de corrente RSC-01
+PA000480,2024-07-10,02:03,III,11,,767,Manutenção preventiva programada
+PA000481,2024-07-10,11:33,I,1,15,6,Entupimento de rosca RSC-01
+PA000482,2024-07-11,03:11,III,2,11,157,Vazamento de vapor DT-02
+PA000483,2024-07-14,11:30,I,1,15,27,Entupimento de rosca RSC-01
+PA000484,2024-07-14,20:15,II,2,6,41,Troca de rolamento LAM-01
+PA000485,2024-07-25,13:18,I,1,10,9,Ajuste de temperatura DT-01
+PA000486,2024-07-27,04:50,III,4,10,18,Leitura incorreta de temperatura DT-01
+PA000487,2024-07-28,17:28,II,2,6,66,Desalinhamento de rolos LAM-01
+PA000488,2024-07-28,06:45,III,7,12,282,Limpeza emergencial DST-01
+PA000489,2024-08-02,01:35,III,1,11,63,Embuchamento válvula rotativa DT-02
+PA000490,2024-08-07,04:30,III,4,10,18,Leitura incorreta de temperatura DT-01
+PA000491,2024-08-08,02:30,III,2,15,19,Quebra de corrente RSC-01
+PA000492,2024-08-08,01:02,III,3,17,61,Desarme de disjuntor SUB-01
+PA000493,2024-08-11,17:40,II,2,6,71,Desalinhamento de rolos LAM-01
+PA000494,2024-08-12,17:49,II,6,17,38,Queda de energia da concessionária
+PA000495,2024-08-14,05:27,III,11,,484,Manutenção preventiva programada
+PA000496,2024-08-26,23:19,III,2,7,25,Desalinhamento de rolos LAM-02
+PA000497,2024-09-01,04:08,III,2,8,96,Quebra de eixo EXP-01
+PA000498,2024-09-03,21:41,II,4,10,16,Leitura incorreta de temperatura DT-01
+PA000499,2024-09-05,18:52,II,1,5,17,Excesso de umidade na massa CND-01
+PA000500,2024-09-05,21:24,II,2,7,66,Desalinhamento de rolos LAM-02
+PA000501,2024-09-05,03:06,III,2,15,840,Quebra de eixo RSC-01
+PA000502,2024-09-05,16:38,II,2,5,52,Vazamento de vapor CND-01
+PA000503,2024-09-07,16:21,II,2,6,61,Desalinhamento de rolos LAM-01
+PA000504,2024-09-09,09:58,I,11,,817,Manutenção preventiva programada
+PA000505,2024-09-10,15:51,II,4,9,12,Desarme sensor de nível EXT-01
+PA000506,2024-09-12,13:59,I,2,15,44,Quebra de corrente RSC-01
+PA000507,2024-09-12,12:23,I,3,17,34,Desarme de disjuntor SUB-01
+PA000508,2024-09-13,20:36,II,2,9,84,Quebra de corrente EXT-01
+PA000509,2024-09-16,09:53,I,1,9,5,Entupimento de rosca EXT-01
+PA000510,2024-09-17,14:11,I,2,11,62,Vazamento de vapor DT-02
+PA000511,2024-09-20,10:30,I,1,9,10,Entupimento de rosca EXT-01
+PA000512,2024-09-20,18:05,II,1,11,51,Ajuste de temperatura DT-02
+PA000513,2024-09-20,17:47,II,2,3,34,Troca de rolamento QBR-01
+PA000514,2024-09-21,11:12,I,6,17,23,Queda de energia da concessionária
+PA000515,2024-09-26,05:03,III,4,9,31,Falha de comunicação CLP EXT-01
+PA000516,2024-09-28,04:33,III,2,8,24,Quebra de eixo EXP-01
+PA000517,2024-10-02,18:40,II,2,6,56,Troca de rolamento LAM-01
+PA000518,2024-10-06,11:48,I,2,7,227,Desalinhamento de rolos LAM-02
+PA000519,2024-10-06,04:42,III,3,17,54,Desarme de disjuntor SUB-01
+PA000520,2024-10-07,09:20,I,1,5,14,Excesso de umidade na massa CND-01
+PA000521,2024-10-07,11:08,I,2,15,80,Quebra de corrente RSC-01
+PA000522,2024-10-07,03:59,III,2,7,180,Troca de rolamento LAM-02
+PA000523,2024-10-07,11:48,I,2,6,35,Troca de rolamento LAM-01
+PA000524,2024-10-07,11:23,I,2,15,73,Quebra de corrente RSC-01
+PA000525,2024-10-10,13:04,I,2,15,237,Quebra de corrente RSC-01
+PA000526,2024-10-14,18:42,II,2,10,13,Vazamento de vapor DT-01
+PA000527,2024-10-15,18:40,II,2,9,150,Quebra de corrente EXT-01
+PA000528,2024-10-16,11:25,I,1,15,13,Entupimento de rosca RSC-01
+PA000529,2024-10-16,02:34,III,6,17,32,Queda de energia da concessionária
+PA000530,2024-10-23,00:35,III,11,,784,Manutenção preventiva programada
+PA000531,2024-10-24,06:45,III,1,5,32,Ajuste de temperatura CND-01
+PA000532,2024-10-26,00:17,III,1,5,62,Ajuste de temperatura CND-01
+PA000533,2024-11-03,20:55,II,4,10,25,Desarme sensor de nível DT-01
+PA000534,2024-11-05,20:29,II,2,15,190,Quebra de corrente RSC-01
+PA000535,2024-11-07,07:42,I,6,17,56,Queda de energia da concessionária
+PA000536,2024-11-08,21:56,II,2,6,45,Desalinhamento de rolos LAM-01
+PA000537,2024-11-09,13:44,I,6,17,128,Queda de energia da concessionária
+PA000538,2024-11-10,08:48,I,4,10,333,Desarme sensor de nível DT-01
+PA000539,2024-11-11,15:12,II,2,15,51,Quebra de eixo RSC-01
+PA000540,2024-11-12,02:12,III,9,,901,Falta de MP
+PA000541,2024-11-13,23:36,III,2,3,18,Troca de rolamento QBR-01
+PA000542,2024-11-13,00:17,III,9,,1422,Falta de MP
+PA000543,2024-11-14,00:01,III,9,,1440,Falta de MP
+PA000544,2024-11-15,00:05,III,9,,1440,Falta de MP
+PA000545,2024-11-16,00:01,III,9,,1440,Falta de MP
+PA000546,2024-11-17,01:31,III,2,15,35,Quebra de eixo RSC-01
+PA000547,2024-11-17,07:24,I,2,4,57,Quebra de eixo DSC-01
+PA000548,2024-11-17,00:43,III,9,,1349,Falta de MP
+PA000549,2024-11-18,01:55,III,7,9,239,Limpeza emergencial EXT-01
+PA000550,2024-11-18,00:22,III,9,,1201,Falta de MP
+PA000551,2024-11-19,06:56,III,1,5,46,Ajuste de temperatura CND-01
+PA000552,2024-11-19,00:07,III,9,,1394,Falta de MP
+PA000553,2024-11-20,00:02,III,9,,1440,Falta de MP
+PA000554,2024-11-21,00:00,III,9,,1440,Falta de MP
+PA000555,2024-11-22,00:05,III,9,,1440,Falta de MP
+PA000556,2024-11-23,00:02,III,9,,1440,Falta de MP
+PA000557,2024-11-24,00:03,III,9,,1440,Falta de MP
+PA000558,2024-11-25,00:00,III,9,,1440,Falta de MP
+PA000559,2024-11-26,00:04,III,9,,1440,Falta de MP
+PA000560,2024-11-27,17:50,II,1,15,46,Entupimento de rosca RSC-01
+PA000561,2024-11-27,00:12,III,9,,1394,Falta de MP
+PA000562,2024-11-28,00:01,III,9,,1440,Falta de MP
+PA000563,2024-11-29,10:23,I,11,,778,Manutenção preventiva programada
+PA000564,2024-11-29,02:40,III,9,,24,Falta de MP
+PA000565,2024-12-06,10:47,I,9,,356,Falta de MP
+PA000566,2024-12-07,00:04,III,9,,1440,Falta de MP
+PA000567,2024-12-08,00:05,III,9,,1440,Falta de MP
+PA000568,2024-12-09,00:03,III,9,,1440,Falta de MP
+PA000569,2024-12-10,00:03,III,9,,1440,Falta de MP
+PA000570,2024-12-11,00:43,III,4,9,16,Desarme sensor de nível EXT-01
+PA000571,2024-12-11,00:16,III,9,,1424,Falta de MP
+PA000572,2024-12-12,00:03,III,9,,1440,Falta de MP
+PA000573,2024-12-13,00:04,III,11,,709,Manutenção preventiva programada
+PA000574,2024-12-13,11:34,I,9,,731,Falta de MP
+PA000575,2024-12-14,00:00,III,8,,1440,Parada programada de entressafra
+PA000576,2024-12-15,00:00,III,8,,1440,Parada programada de entressafra
+PA000577,2024-12-16,00:00,III,8,,1440,Parada programada de entressafra
+PA000578,2024-12-17,00:00,III,8,,1440,Parada programada de entressafra
+PA000579,2024-12-18,00:00,III,8,,1440,Parada programada de entressafra
+PA000580,2024-12-19,00:00,III,8,,1440,Parada programada de entressafra
+PA000581,2024-12-20,00:00,III,8,,1440,Parada programada de entressafra
+PA000582,2024-12-21,00:00,III,8,,1440,Parada programada de entressafra
+PA000583,2024-12-22,00:00,III,8,,1440,Parada programada de entressafra
+PA000584,2024-12-23,00:00,III,8,,1440,Parada programada de entressafra
+PA000585,2024-12-24,00:00,III,8,,1440,Parada programada de entressafra
+PA000586,2024-12-25,00:00,III,8,,1440,Parada programada de entressafra
+PA000587,2024-12-26,00:00,III,8,,1440,Parada programada de entressafra
+PA000588,2024-12-27,00:00,III,8,,1440,Parada programada de entressafra
+PA000589,2024-12-28,00:00,III,8,,1440,Parada programada de entressafra
+PA000590,2024-12-29,00:00,III,8,,1440,Parada programada de entressafra
+PA000591,2024-12-30,00:00,III,8,,1440,Parada programada de entressafra
+PA000592,2024-12-31,00:00,III,8,,1440,Parada programada de entressafra
+PA000593,2025-01-01,00:00,III,8,,1440,Parada programada de entressafra
+PA000594,2025-01-02,00:00,III,8,,1440,Parada programada de entressafra
+PA000595,2025-01-03,00:00,III,8,,1440,Parada programada de entressafra
+PA000596,2025-01-04,00:00,III,8,,1440,Parada programada de entressafra
+PA000597,2025-01-05,00:00,III,8,,1440,Parada programada de entressafra
+PA000598,2025-01-06,00:00,III,8,,1440,Parada programada de entressafra
+PA000599,2025-01-07,00:00,III,8,,1440,Parada programada de entressafra
+PA000600,2025-01-08,00:00,III,8,,1440,Parada programada de entressafra
+PA000601,2025-01-09,00:00,III,8,,1440,Parada programada de entressafra
+PA000602,2025-01-10,00:00,III,8,,1440,Parada programada de entressafra
+PA000603,2025-01-11,00:00,III,8,,1440,Parada programada de entressafra
+PA000604,2025-01-12,00:00,III,8,,1440,Parada programada de entressafra
+PA000605,2025-01-13,00:00,III,8,,1440,Parada programada de entressafra
+PA000606,2025-01-14,00:00,III,8,,1440,Parada programada de entressafra
+PA000607,2025-01-15,05:33,III,9,,708,Falta de MP
+PA000608,2025-01-23,02:05,III,2,15,257,Quebra de eixo RSC-01
+PA000609,2025-01-24,20:10,II,1,5,21,Ajuste de temperatura CND-01
+PA000610,2025-01-25,04:01,III,1,15,37,Entupimento de rosca RSC-01
+PA000611,2025-01-27,00:27,III,2,5,40,Vazamento de vapor CND-01
+PA000612,2025-01-28,00:29,III,11,,914,Manutenção preventiva programada
+PA000613,2025-01-31,09:48,I,2,5,176,Vazamento de vapor CND-01
+PA000614,2025-02-04,21:04,II,2,9,22,Quebra de corrente EXT-01
+PA000615,2025-02-06,06:49,III,4,12,38,Falha de comunicação CLP DST-01
+PA000616,2025-02-10,08:42,I,11,,826,Manutenção preventiva programada
+PA000617,2025-02-10,09:24,I,2,7,117,Desalinhamento de rolos LAM-02
+PA000618,2025-02-11,04:49,III,2,15,102,Quebra de eixo RSC-01
+PA000619,2025-02-14,05:33,III,2,7,19,Desalinhamento de rolos LAM-02
+PA000620,2025-02-16,02:46,III,2,15,51,Quebra de corrente RSC-01
+PA000621,2025-02-18,00:32,III,2,5,946,Vazamento de vapor CND-01
+PA000622,2025-02-20,07:12,I,2,7,49,Desalinhamento de rolos LAM-02
+PA000623,2025-02-20,09:48,I,2,7,27,Desalinhamento de rolos LAM-02
+PA000624,2025-02-21,22:37,II,1,9,16,Entupimento de rosca EXT-01
+PA000625,2025-02-22,12:09,I,2,3,41,Troca de rolamento QBR-01
+PA000626,2025-02-23,10:38,I,4,12,5,Falha de comunicação CLP DST-01
+PA000627,2025-02-25,04:46,III,2,15,198,Quebra de eixo RSC-01
+PA000628,2025-03-01,19:57,II,3,15,14,Falha no inversor RSC-01
+PA000629,2025-03-05,08:02,I,2,8,184,Quebra de eixo EXP-01
+PA000630,2025-03-11,01:39,III,2,7,101,Desalinhamento de rolos LAM-02
+PA000631,2025-03-12,00:03,III,2,6,115,Desalinhamento de rolos LAM-01
+PA000632,2025-03-13,19:53,II,2,11,93,Vazamento de vapor DT-02
+PA000633,2025-03-14,12:04,I,2,10,188,Vazamento de vapor DT-01
+PA000634,2025-03-21,15:42,II,1,5,17,Ajuste de temperatura CND-01
+PA000635,2025-03-22,01:17,III,3,9,23,Desarme de disjuntor EXT-01
+PA000636,2025-03-24,10:07,I,4,11,8,Desarme sensor de nível DT-02
+PA000637,2025-03-27,03:49,III,1,8,77,Excesso de umidade na massa EXP-01
+PA000638,2025-03-27,06:42,III,2,6,32,Desalinhamento de rolos LAM-01
+PA000639,2025-03-31,03:16,III,11,,855,Manutenção preventiva programada
+PA000640,2025-04-02,08:54,I,11,,896,Manutenção preventiva programada
+PA000641,2025-04-11,12:15,I,2,11,38,Vazamento de vapor DT-02
+PA000642,2025-04-15,03:12,III,1,15,31,Entupimento de rosca RSC-01
+PA000643,2025-04-18,06:00,III,2,11,96,Vazamento de vapor DT-02
+PA000644,2025-04-20,02:44,III,3,9,64,Falha no inversor EXT-01
+PA000645,2025-04-22,18:50,II,6,17,93,Queda de energia da concessionária
+PA000646,2025-04-22,05:14,III,10,15,442,Armazém de farelo cheio
+PA000647,2025-04-23,07:15,I,3,9,88,Desarme de disjuntor EXT-01
+PA000648,2025-04-23,00:11,III,10,15,1352,Armazém de farelo cheio
+PA000649,2025-04-24,19:58,II,2,9,66,Quebra de corrente EXT-01
+PA000650,2025-04-28,05:39,III,2,8,73,Quebra de eixo EXP-01
+PA000651,2025-05-01,03:43,III,2,3,61,Troca de rolamento QBR-01
+PA000652,2025-05-02,01:29,III,2,8,245,Quebra de eixo EXP-01
+PA000653,2025-05-02,11:14,I,2,15,236,Quebra de corrente RSC-01
+PA000654,2025-05-03,07:12,I,2,3,59,Troca de rolamento QBR-01
+PA000655,2025-05-04,18:14,II,10,15,134,Armazém de farelo cheio
+PA000656,2025-05-05,00:01,III,11,,832,Manutenção preventiva programada
+PA000657,2025-05-05,15:05,II,7,12,50,Limpeza emergencial DST-01
+PA000658,2025-05-05,08:25,I,10,15,559,Armazém de farelo cheio
+PA000659,2025-05-06,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000660,2025-05-07,00:57,III,2,9,165,Quebra de corrente EXT-01
+PA000661,2025-05-08,11:03,I,6,17,7,Queda de energia da concessionária
+PA000662,2025-05-11,21:03,II,10,15,82,Armazém de farelo cheio
+PA000663,2025-05-12,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000664,2025-05-13,00:03,III,10,15,1440,Armazém de farelo cheio
+PA000665,2025-05-14,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000666,2025-05-16,09:27,I,2,8,265,Quebra de eixo EXP-01
+PA000667,2025-05-22,20:24,II,1,10,133,Embuchamento válvula rotativa DT-01
+PA000668,2025-05-23,01:45,III,2,7,277,Troca de rolamento LAM-02
+PA000669,2025-05-26,13:39,I,2,7,192,Desalinhamento de rolos LAM-02
+PA000670,2025-05-27,02:41,III,2,8,79,Quebra de eixo EXP-01
+PA000671,2025-05-29,21:08,II,10,15,11,Armazém de farelo cheio
+PA000672,2025-05-30,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000673,2025-06-01,03:02,III,2,9,49,Quebra de corrente EXT-01
+PA000674,2025-06-02,18:34,II,2,15,187,Quebra de corrente RSC-01
+PA000675,2025-06-08,15:30,II,6,17,44,Queda de energia da concessionária
+PA000676,2025-06-10,04:57,III,2,10,101,Vazamento de vapor DT-01
+PA000677,2025-06-12,17:31,II,2,6,45,Desalinhamento de rolos LAM-01
+PA000678,2025-06-12,10:46,I,2,5,106,Vazamento de vapor CND-01
+PA000679,2025-06-14,17:41,II,2,15,213,Quebra de corrente RSC-01
+PA000680,2025-06-14,17:00,II,4,9,50,Falha de comunicação CLP EXT-01
+PA000681,2025-06-15,13:59,I,3,6,33,Queima de motor LAM-01
+PA000682,2025-06-16,16:17,II,10,15,399,Armazém de farelo cheio
+PA000683,2025-06-17,00:16,III,2,15,264,Quebra de corrente RSC-01
+PA000684,2025-06-17,04:08,III,10,15,1176,Armazém de farelo cheio
+PA000685,2025-06-18,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000686,2025-06-19,04:58,III,11,,691,Manutenção preventiva programada
+PA000687,2025-06-20,04:15,III,3,17,29,Desarme de disjuntor SUB-01
+PA000688,2025-06-24,05:32,III,2,4,551,Quebra de eixo DSC-01
+PA000689,2025-06-24,16:51,II,3,15,124,Falha no inversor RSC-01
+PA000690,2025-06-28,01:33,III,3,6,77,Queima de motor LAM-01
+PA000691,2025-06-29,00:50,III,3,9,48,Falha no inversor EXT-01
+PA000692,2025-06-29,04:14,III,10,15,185,Armazém de farelo cheio
+PA000693,2025-06-30,00:03,III,10,15,1440,Armazém de farelo cheio
+PA000694,2025-07-01,01:45,III,2,5,145,Vazamento de vapor CND-01
+PA000695,2025-07-02,04:50,III,2,6,1050,Desalinhamento de rolos LAM-01
+PA000696,2025-07-03,10:24,I,7,9,796,Parada por inspeção de segurança
+PA000697,2025-07-11,07:36,I,10,15,661,Armazém de farelo cheio
+PA000698,2025-07-12,11:59,I,3,9,66,Falha no inversor EXT-01
+PA000699,2025-07-12,00:04,III,10,15,1374,Armazém de farelo cheio
+PA000700,2025-07-13,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000701,2025-07-14,01:19,III,1,9,9,Entupimento de rosca EXT-01
+PA000702,2025-07-17,03:01,III,11,,794,Manutenção preventiva programada
+PA000703,2025-07-19,04:19,III,2,7,29,Troca de rolamento LAM-02
+PA000704,2025-07-22,19:46,II,10,15,22,Armazém de farelo cheio
+PA000705,2025-07-23,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000706,2025-07-24,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000707,2025-07-25,11:04,I,3,15,17,Falha no inversor RSC-01
+PA000708,2025-07-26,17:41,II,3,8,104,Queima de motor EXP-01
+PA000709,2025-07-28,05:09,III,1,9,18,Entupimento de rosca EXT-01
+PA000710,2025-07-28,00:21,III,1,11,48,Ajuste de temperatura DT-02
+PA000711,2025-07-29,06:18,III,2,15,121,Quebra de corrente RSC-01
+PA000712,2025-08-01,04:38,III,10,15,282,Armazém de farelo cheio
+PA000713,2025-08-02,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000714,2025-08-05,01:31,III,11,,946,Manutenção preventiva programada
+PA000715,2025-08-05,11:48,I,4,10,26,Leitura incorreta de temperatura DT-01
+PA000716,2025-08-06,06:29,III,1,10,9,Embuchamento válvula rotativa DT-01
+PA000717,2025-08-08,06:19,III,10,15,681,Armazém de farelo cheio
+PA000718,2025-08-09,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000719,2025-08-11,12:01,I,2,9,85,Quebra de corrente EXT-01
+PA000720,2025-08-14,08:40,I,2,7,29,Desalinhamento de rolos LAM-02
+PA000721,2025-08-17,13:30,I,1,5,12,Excesso de umidade na massa CND-01
+PA000722,2025-08-17,00:23,III,4,12,35,Falha de comunicação CLP DST-01
+PA000723,2025-08-17,05:51,III,10,15,171,Armazém de farelo cheio
+PA000724,2025-08-18,00:03,III,10,15,1440,Armazém de farelo cheio
+PA000725,2025-08-19,20:48,II,4,9,20,Falha de comunicação CLP EXT-01
+PA000726,2025-08-19,00:17,III,10,15,1420,Armazém de farelo cheio
+PA000727,2025-08-20,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000728,2025-08-22,11:39,I,2,15,120,Quebra de corrente RSC-01
+PA000729,2025-08-23,10:37,I,10,15,200,Armazém de farelo cheio
+PA000730,2025-08-24,19:14,II,1,9,17,Embuchamento válvula rotativa EXT-01
+PA000731,2025-08-24,00:02,III,10,15,1423,Armazém de farelo cheio
+PA000732,2025-08-25,00:02,III,10,15,1440,Armazém de farelo cheio
+PA000733,2025-08-26,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000734,2025-08-27,21:20,II,3,17,46,Desarme de disjuntor SUB-01
+PA000735,2025-08-28,03:38,III,1,10,64,Ajuste de temperatura DT-01
+PA000736,2025-08-28,13:30,I,1,15,10,Entupimento de rosca RSC-01
+PA000737,2025-08-31,00:03,III,10,15,1440,Armazém de farelo cheio
+PA000738,2025-09-01,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000739,2025-09-04,01:31,III,7,9,18,Limpeza emergencial EXT-01
+PA000740,2025-09-05,10:05,I,1,9,20,Entupimento de rosca EXT-01
+PA000741,2025-09-06,17:54,II,10,15,295,Armazém de farelo cheio
+PA000742,2025-09-07,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000743,2025-09-09,06:04,III,2,15,1072,Quebra de eixo RSC-01
+PA000744,2025-09-13,07:04,I,1,9,53,Entupimento de rosca EXT-01
+PA000745,2025-09-13,09:31,I,10,15,112,Armazém de farelo cheio
+PA000746,2025-09-14,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000747,2025-09-15,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000748,2025-09-16,07:46,I,2,3,160,Troca de rolamento QBR-01
+PA000749,2025-09-16,05:05,III,2,6,59,Desalinhamento de rolos LAM-01
+PA000750,2025-09-16,00:32,III,10,15,1221,Armazém de farelo cheio
+PA000751,2025-09-20,04:14,III,1,8,70,Excesso de umidade na massa EXP-01
+PA000752,2025-09-20,06:35,III,10,15,591,Armazém de farelo cheio
+PA000753,2025-09-21,05:48,III,2,5,62,Vazamento de vapor CND-01
+PA000754,2025-09-21,00:19,III,10,15,1378,Armazém de farelo cheio
+PA000755,2025-09-23,14:26,I,4,10,40,Desarme sensor de nível DT-01
+PA000756,2025-09-26,11:45,I,10,15,78,Armazém de farelo cheio
+PA000757,2025-09-27,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000758,2025-09-28,02:49,III,1,8,42,Excesso de umidade na massa EXP-01
+PA000759,2025-09-28,00:02,III,10,15,1398,Armazém de farelo cheio
+PA000760,2025-09-29,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000761,2025-09-30,12:16,I,11,,618,Manutenção preventiva programada
+PA000762,2025-10-03,07:02,I,3,9,93,Falha no inversor EXT-01
+PA000763,2025-10-04,03:29,III,1,15,118,Entupimento de rosca RSC-01
+PA000764,2025-10-04,02:33,III,4,12,26,Falha de comunicação CLP DST-01
+PA000765,2025-10-05,07:16,I,10,15,91,Armazém de farelo cheio
+PA000766,2025-10-06,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000767,2025-10-07,05:20,III,2,11,97,Vazamento de vapor DT-02
+PA000768,2025-10-07,01:38,III,2,6,60,Troca de rolamento LAM-01
+PA000769,2025-10-07,02:13,III,10,15,1283,Armazém de farelo cheio
+PA000770,2025-10-08,00:02,III,10,15,1440,Armazém de farelo cheio
+PA000771,2025-10-12,07:32,I,2,6,24,Troca de rolamento LAM-01
+PA000772,2025-10-12,06:35,III,10,15,299,Armazém de farelo cheio
+PA000773,2025-10-13,00:02,III,10,15,1440,Armazém de farelo cheio
+PA000774,2025-10-14,11:36,I,3,15,93,Falha no inversor RSC-01
+PA000775,2025-10-14,01:18,III,10,15,1347,Armazém de farelo cheio
+PA000776,2025-10-15,00:03,III,10,15,1440,Armazém de farelo cheio
+PA000777,2025-10-16,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000778,2025-10-18,03:49,III,7,9,111,Parada por inspeção de segurança
+PA000779,2025-10-23,08:33,I,10,15,732,Armazém de farelo cheio
+PA000780,2025-10-24,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000781,2025-10-25,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000782,2025-10-26,15:46,II,4,11,26,Leitura incorreta de temperatura DT-02
+PA000783,2025-10-26,00:02,III,10,15,1414,Armazém de farelo cheio
+PA000784,2025-10-27,13:23,I,2,5,67,Vazamento de vapor CND-01
+PA000785,2025-10-28,20:44,II,1,5,62,Excesso de umidade na massa CND-01
+PA000786,2025-10-28,17:36,II,2,15,108,Quebra de corrente RSC-01
+PA000787,2025-10-29,02:08,III,5,17,36,Queda de energia interna SUB-01
+PA000788,2025-10-31,09:39,I,11,,832,Manutenção preventiva programada
+PA000789,2025-11-01,20:48,II,2,15,23,Quebra de eixo RSC-01
+PA000790,2025-11-01,20:51,II,4,12,103,Falha de comunicação CLP DST-01
+PA000791,2025-11-02,07:07,I,1,9,29,Embuchamento válvula rotativa EXT-01
+PA000792,2025-11-02,03:53,III,3,9,102,Desarme de disjuntor EXT-01
+PA000793,2025-11-02,01:46,III,3,9,80,Desarme de disjuntor EXT-01
+PA000794,2025-11-03,04:56,III,2,7,50,Desalinhamento de rolos LAM-02
+PA000795,2025-11-03,03:27,III,10,15,170,Armazém de farelo cheio
+PA000796,2025-11-04,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000797,2025-11-05,00:02,III,10,15,1440,Armazém de farelo cheio
+PA000798,2025-11-06,16:01,II,2,15,190,Quebra de eixo RSC-01
+PA000799,2025-11-06,00:14,III,10,15,1250,Armazém de farelo cheio
+PA000800,2025-11-10,15:52,II,10,15,108,Armazém de farelo cheio
+PA000801,2025-11-11,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000802,2025-11-12,15:35,II,4,10,36,Leitura incorreta de temperatura DT-01
+PA000803,2025-11-12,00:30,III,10,15,1404,Armazém de farelo cheio
+PA000804,2025-11-16,12:25,I,10,15,263,Armazém de farelo cheio
+PA000805,2025-11-17,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000806,2025-11-18,17:36,II,1,10,40,Ajuste de temperatura DT-01
+PA000807,2025-11-18,00:32,III,10,15,1400,Armazém de farelo cheio
+PA000808,2025-11-19,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000809,2025-11-20,00:05,III,10,15,1440,Armazém de farelo cheio
+PA000810,2025-11-21,10:37,I,11,,646,Manutenção preventiva programada
+PA000811,2025-11-21,18:42,II,2,9,157,Quebra de corrente EXT-01
+PA000812,2025-11-22,10:51,I,2,7,60,Troca de rolamento LAM-02
+PA000813,2025-11-22,18:58,II,2,8,170,Quebra de eixo EXP-01
+PA000814,2025-11-25,02:00,III,2,11,302,Vazamento de vapor DT-02
+PA000815,2025-11-26,05:58,III,10,15,462,Armazém de farelo cheio
+PA000816,2025-11-27,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000817,2025-11-28,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000818,2025-11-29,00:04,III,10,15,1440,Armazém de farelo cheio
+PA000819,2025-12-03,07:06,I,11,,539,Manutenção preventiva programada
+PA000820,2025-12-03,04:12,III,7,12,79,Limpeza emergencial DST-01
+PA000821,2025-12-04,05:25,III,2,7,36,Desalinhamento de rolos LAM-02
+PA000822,2025-12-06,14:57,I,1,11,21,Ajuste de temperatura DT-02
+PA000823,2025-12-06,01:09,III,3,6,50,Queima de motor LAM-01
+PA000824,2025-12-06,07:07,I,10,15,26,Armazém de farelo cheio
+PA000825,2025-12-07,13:00,I,3,15,69,Queima de motor RSC-01
+PA000826,2025-12-07,00:15,III,10,15,1371,Armazém de farelo cheio
+PA000827,2025-12-08,00:01,III,10,15,1440,Armazém de farelo cheio
+PA000828,2025-12-09,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000829,2025-12-10,00:00,III,10,15,1440,Armazém de farelo cheio
+PA000830,2025-12-11,00:02,III,10,15,1440,Armazém de farelo cheio
+PA000831,2025-12-12,13:27,I,2,15,160,Quebra de corrente RSC-01
+PA000832,2025-12-13,00:00,III,8,,1440,Parada programada de entressafra
+PA000833,2025-12-14,00:00,III,8,,1440,Parada programada de entressafra
+PA000834,2025-12-15,00:00,III,8,,1440,Parada programada de entressafra
+PA000835,2025-12-16,00:00,III,8,,1440,Parada programada de entressafra
+PA000836,2025-12-17,00:00,III,8,,1440,Parada programada de entressafra
+PA000837,2025-12-18,00:00,III,8,,1440,Parada programada de entressafra
+PA000838,2025-12-19,00:00,III,8,,1440,Parada programada de entressafra
+PA000839,2025-12-20,00:00,III,8,,1440,Parada programada de entressafra
+PA000840,2025-12-21,00:00,III,8,,1440,Parada programada de entressafra
+PA000841,2025-12-22,00:00,III,8,,1440,Parada programada de entressafra
+PA000842,2025-12-23,00:00,III,8,,1440,Parada programada de entressafra
+PA000843,2025-12-24,00:00,III,8,,1440,Parada programada de entressafra
+PA000844,2025-12-25,00:00,III,8,,1440,Parada programada de entressafra
+PA000845,2025-12-26,00:00,III,8,,1440,Parada programada de entressafra
+PA000846,2025-12-27,00:00,III,8,,1440,Parada programada de entressafra
+PA000847,2025-12-28,00:00,III,8,,1440,Parada programada de entressafra
+PA000848,2025-12-29,00:00,III,8,,1440,Parada programada de entressafra
+PA000849,2025-12-30,00:00,III,8,,1440,Parada programada de entressafra
+PA000850,2025-12-31,00:00,III,8,,1440,Parada programada de entressafra
+PA000851,2026-01-01,00:00,III,8,,1440,Parada programada de entressafra
+PA000852,2026-01-02,00:00,III,8,,1440,Parada programada de entressafra
+PA000853,2026-01-03,00:00,III,8,,1440,Parada programada de entressafra
+PA000854,2026-01-04,00:00,III,8,,1440,Parada programada de entressafra
+PA000855,2026-01-05,00:00,III,8,,1440,Parada programada de entressafra
+PA000856,2026-01-06,00:00,III,8,,1440,Parada programada de entressafra
+PA000857,2026-01-07,00:00,III,8,,1440,Parada programada de entressafra
+PA000858,2026-01-08,00:00,III,8,,1440,Parada programada de entressafra
+PA000859,2026-01-09,00:25,III,11,,853,Manutenção preventiva programada
+PA000860,2026-01-12,16:06,II,2,8,132,Quebra de eixo EXP-01
+PA000861,2026-01-16,04:48,III,3,8,52,Queima de motor EXP-01
+PA000862,2026-01-17,11:02,I,2,15,47,Quebra de eixo RSC-01
+PA000863,2026-01-18,14:07,I,2,6,143,Desalinhamento de rolos LAM-01
+PA000864,2026-01-20,15:33,II,1,9,42,Entupimento de rosca EXT-01
+PA000865,2026-01-22,02:02,III,4,9,45,Falha de comunicação CLP EXT-01
+PA000866,2026-01-24,07:34,I,4,12,11,Falha de comunicação CLP DST-01
+PA000867,2026-01-27,12:53,I,2,11,176,Vazamento de vapor DT-02
+PA000868,2026-01-29,02:48,III,2,15,300,Quebra de eixo RSC-01
+PA000869,2026-02-05,21:13,II,1,9,21,Entupimento de rosca EXT-01
+PA000870,2026-02-06,02:31,III,4,11,17,Desarme sensor de nível DT-02
+PA000871,2026-02-07,12:41,I,1,5,27,Excesso de umidade na massa CND-01
+PA000872,2026-02-14,11:35,I,1,11,17,Ajuste de temperatura DT-02
+PA000873,2026-02-14,04:21,III,2,11,1165,Vazamento de vapor DT-02
+PA000874,2026-02-16,19:29,II,1,11,39,Ajuste de temperatura DT-02
+PA000875,2026-02-16,18:14,II,1,8,39,Excesso de umidade na massa EXP-01
+PA000876,2026-02-17,09:26,I,1,8,53,Excesso de umidade na massa EXP-01
+PA000877,2026-02-17,21:06,II,2,11,73,Vazamento de vapor DT-02
+PA000878,2026-02-18,19:42,II,2,15,40,Quebra de corrente RSC-01
+PA000879,2026-02-18,16:52,II,2,15,79,Quebra de corrente RSC-01
+PA000880,2026-02-19,00:52,III,2,6,1234,Desalinhamento de rolos LAM-01
+PA000881,2026-02-20,17:35,II,2,6,158,Desalinhamento de rolos LAM-01
+PA000882,2026-02-20,06:34,III,6,17,178,Queda de energia da concessionária
+PA000883,2026-02-21,21:12,II,2,3,60,Troca de rolamento QBR-01
+PA000884,2026-02-22,16:18,II,2,8,33,Quebra de eixo EXP-01
+PA000885,2026-02-22,01:54,III,9,,322,Falta de MP
+PA000886,2026-02-23,04:49,III,2,9,63,Quebra de corrente EXT-01
+PA000887,2026-02-23,00:25,III,9,,1377,Falta de MP
+PA000888,2026-02-24,00:00,III,9,,1440,Falta de MP
+PA000889,2026-02-25,10:37,I,11,,715,Manutenção preventiva programada
+PA000890,2026-02-25,15:33,II,1,9,184,Embuchamento válvula rotativa EXT-01
+PA000891,2026-02-25,02:24,III,1,5,115,Ajuste de temperatura CND-01
+PA000892,2026-02-25,02:19,III,9,,426,Falta de MP
+PA000893,2026-02-26,00:00,III,9,,1440,Falta de MP
+PA000894,2026-02-27,00:03,III,9,,1440,Falta de MP
+PA000895,2026-02-28,08:08,I,2,7,207,Desalinhamento de rolos LAM-02
+PA000896,2026-02-28,17:23,II,9,,180,Falta de MP
+PA000897,2026-03-04,18:13,II,2,10,215,Vazamento de vapor DT-01
+PA000898,2026-03-05,10:37,I,1,8,52,Excesso de umidade na massa EXP-01
+PA000899,2026-03-06,13:19,I,5,17,24,Queda de energia interna SUB-01
+PA000900,2026-03-11,21:37,II,3,9,92,Falha no inversor EXT-01
+PA000901,2026-03-15,10:49,I,9,,607,Falta de MP
+PA000902,2026-03-16,00:03,III,9,,1440,Falta de MP
+PA000903,2026-03-17,22:24,II,1,9,15,Entupimento de rosca EXT-01
+PA000904,2026-03-17,01:29,III,4,10,43,Desarme sensor de nível DT-01
+PA000905,2026-03-17,00:53,III,9,,1381,Falta de MP
+PA000906,2026-03-18,11:20,I,7,9,109,Limpeza emergencial EXT-01
+PA000907,2026-03-18,00:00,III,9,,1331,Falta de MP
+PA000908,2026-03-19,00:02,III,9,,1440,Falta de MP
+PA000909,2026-03-20,00:04,III,9,,1440,Falta de MP
+PA000910,2026-03-21,00:03,III,9,,1440,Falta de MP
+PA000911,2026-03-22,09:29,I,9,,425,Falta de MP
+PA000912,2026-03-27,11:01,I,1,5,20,Excesso de umidade na massa CND-01
+PA000913,2026-03-29,11:36,I,3,8,48,Queima de motor EXP-01
+PA000914,2026-03-31,11:22,I,11,,703,Manutenção preventiva programada
+PA000915,2026-04-08,01:50,III,11,,704,Manutenção preventiva programada
+PA000916,2026-04-08,01:12,III,2,9,736,Quebra de corrente EXT-01
+PA000917,2026-04-09,06:14,III,2,6,793,Desalinhamento de rolos LAM-01
+PA000918,2026-04-13,17:20,II,2,15,70,Quebra de corrente RSC-01
+PA000919,2026-04-19,06:01,III,1,8,11,Excesso de umidade na massa EXP-01
+PA000920,2026-04-19,03:02,III,2,9,203,Quebra de corrente EXT-01
+PA000921,2026-04-20,18:51,II,1,15,130,Entupimento de rosca RSC-01
+PA000922,2026-04-24,18:38,II,2,9,58,Quebra de corrente EXT-01
+PA000923,2026-04-25,14:36,I,2,9,58,Quebra de corrente EXT-01
+PA000924,2026-04-27,21:37,II,4,10,76,Leitura incorreta de temperatura DT-01
+PA000925,2026-04-27,10:02,I,7,9,181,Parada por inspeção de segurança
+PA000926,2026-04-28,03:30,III,1,5,8,Excesso de umidade na massa CND-01
+PA000927,2026-04-28,09:18,I,4,10,19,Desarme sensor de nível DT-01
+PA000928,2026-04-30,18:11,II,4,11,31,Leitura incorreta de temperatura DT-02
+PA000929,2026-05-02,12:48,I,1,11,43,Ajuste de temperatura DT-02
+PA000930,2026-05-06,08:06,I,1,8,52,Excesso de umidade na massa EXP-01
+PA000931,2026-05-06,00:50,III,1,5,49,Excesso de umidade na massa CND-01
+PA000932,2026-05-07,03:22,III,2,7,64,Desalinhamento de rolos LAM-02
+PA000933,2026-05-08,03:45,III,1,5,19,Ajuste de temperatura CND-01
+PA000934,2026-05-09,15:24,II,3,15,153,Falha no inversor RSC-01
+PA000935,2026-05-11,07:41,I,2,11,78,Vazamento de vapor DT-02
+PA000936,2026-05-13,05:53,III,11,,861,Manutenção preventiva programada
+PA000937,2026-05-16,06:28,III,2,7,71,Desalinhamento de rolos LAM-02
+PA000938,2026-05-16,13:38,I,2,6,29,Desalinhamento de rolos LAM-01
+PA000939,2026-05-18,19:53,II,2,15,44,Quebra de eixo RSC-01
+PA000940,2026-05-20,23:26,III,1,10,32,Embuchamento válvula rotativa DT-01
+PA000941,2026-05-24,04:22,III,2,5,20,Vazamento de vapor CND-01
+PA000942,2026-05-25,11:53,I,7,9,106,Parada por inspeção de segurança
+PA000943,2026-05-29,10:09,I,2,8,110,Quebra de eixo EXP-01
+PA000944,2026-05-29,08:10,I,3,7,44,Queima de motor LAM-02
+PA000945,2026-05-31,06:24,III,6,17,84,Queda de energia da concessionária
+PA000946,2026-06-01,23:15,III,2,4,41,Quebra de eixo DSC-01
+PA000947,2026-06-02,02:13,III,1,15,67,Entupimento de rosca RSC-01
+PA000948,2026-06-05,02:40,III,11,,521,Manutenção preventiva programada
+PA000949,2026-06-05,20:56,II,4,10,49,Desarme sensor de nível DT-01
+PA000950,2026-06-07,18:36,II,2,7,79,Desalinhamento de rolos LAM-02
+PA000951,2026-06-08,04:29,III,1,10,40,Embuchamento válvula rotativa DT-01
+PA000952,2026-06-08,02:09,III,2,6,130,Troca de rolamento LAM-01
+PA000953,2026-06-16,23:04,III,2,4,46,Quebra de eixo DSC-01
+PA000954,2026-06-16,20:38,II,2,4,96,Quebra de eixo DSC-01
+PA000955,2026-06-17,05:15,III,9,,220,Falta de MP
+PA000956,2026-06-18,00:01,III,9,,1440,Falta de MP
+PA000957,2026-06-19,00:00,III,9,,1440,Falta de MP
+PA000958,2026-06-20,00:05,III,9,,1440,Falta de MP
+PA000959,2026-06-21,09:03,I,7,9,129,Parada por inspeção de segurança
+PA000960,2026-06-21,01:03,III,9,,1311,Falta de MP
+PA000961,2026-06-22,00:02,III,9,,1440,Falta de MP
+PA000962,2026-06-23,15:01,II,1,15,17,Entupimento de rosca RSC-01
+PA000963,2026-06-23,00:07,III,9,,1423,Falta de MP
+PA000964,2026-06-24,15:39,II,1,9,22,Embuchamento válvula rotativa EXT-01
+PA000965,2026-06-24,00:12,III,9,,1418,Falta de MP
+PA000966,2026-06-25,20:32,II,2,6,144,Troca de rolamento LAM-01
+PA000967,2026-06-25,01:00,III,9,,1296,Falta de MP
+PA000968,2026-06-26,17:32,II,1,9,15,Embuchamento válvula rotativa EXT-01
+PA000969,2026-06-26,00:08,III,9,,1425,Falta de MP
+PA000970,2026-06-27,05:22,III,9,,793,Falta de MP
+PA000971,2026-06-29,08:18,I,3,9,14,Desarme de disjuntor EXT-01
+PA000972,2026-06-29,16:36,II,4,12,103,Falha de comunicação CLP DST-01
+PA000973,2026-07-02,01:54,III,1,8,27,Excesso de umidade na massa EXP-01
+PA000974,2026-07-06,08:06,I,9,,934,Falta de MP
+PA000975,2026-07-07,00:05,III,9,,1440,Falta de MP
+PA000976,2026-07-08,00:01,III,9,,1440,Falta de MP
+PA000977,2026-07-09,18:05,II,1,11,33,Ajuste de temperatura DT-02
+PA000978,2026-07-09,00:17,III,9,,1407,Falta de MP
+PA000979,2026-07-10,13:10,I,1,5,78,Ajuste de temperatura CND-01
+PA000980,2026-07-10,00:00,III,9,,1362,Falta de MP
+PA000981,2026-07-11,00:01,III,9,,1440,Falta de MP
+PA000982,2026-07-12,00:01,III,9,,1440,Falta de MP
+PA000983,2026-07-13,00:05,III,9,,1440,Falta de MP
+PA000984,2026-07-14,00:02,III,9,,1440,Falta de MP
+PA000985,2026-07-15,00:04,III,9,,1440,Falta de MP
+PA000986,2026-07-16,13:47,I,1,5,19,Excesso de umidade na massa CND-01
+PA000987,2026-07-16,00:15,III,9,,1421,Falta de MP
+PA000988,2026-07-17,05:37,III,11,,865,Manutenção preventiva programada
+PA000989,2026-07-17,15:37,II,2,7,28,Desalinhamento de rolos LAM-02
+PA000990,2026-07-18,11:03,I,3,8,82,Queima de motor EXP-01
+PA000991,2026-07-19,21:01,II,1,5,19,Ajuste de temperatura CND-01
+PA000992,2026-07-19,07:49,I,3,9,14,Desarme de disjuntor EXT-01
+PA000993,2026-07-22,14:44,I,2,15,45,Quebra de corrente RSC-01
+PA000994,2026-07-23,19:01,II,4,11,101,Desarme sensor de nível DT-02
+PA000995,2026-07-25,01:29,III,9,,713,Falta de MP
+PA000996,2026-07-26,00:02,III,9,,1440,Falta de MP
+PA000997,2026-07-27,00:00,III,9,,1440,Falta de MP
+PA000998,2026-07-28,00:03,III,9,,1440,Falta de MP
+PA000999,2026-07-29,00:03,III,9,,1440,Falta de MP
+PA001000,2026-07-30,00:03,III,9,,1440,Falta de MP
+PA001001,2026-07-31,00:01,III,9,,1440,Falta de MP
+PA001002,2026-08-01,00:03,III,9,,1440,Falta de MP
+PA001003,2026-08-02,00:01,III,9,,1440,Falta de MP
+PA001004,2026-08-03,00:05,III,9,,1440,Falta de MP
+PA001005,2026-08-04,07:54,I,9,,958,Falta de MP
+PA001006,2026-08-08,08:40,I,2,9,80,Quebra de corrente EXT-01
+PA001007,2026-08-10,17:50,II,1,8,45,Excesso de umidade na massa EXP-01
+PA001008,2026-08-10,02:16,III,1,15,64,Entupimento de rosca RSC-01
+PA001009,2026-08-13,00:59,III,1,11,9,Ajuste de temperatura DT-02
+PA001010,2026-08-13,03:32,III,9,,1024,Falta de MP
+PA001011,2026-08-14,04:54,III,11,,924,Manutenção preventiva programada
+PA001012,2026-08-14,03:20,III,9,,516,Falta de MP
+PA001013,2026-08-15,14:13,I,1,11,17,Ajuste de temperatura DT-02
+PA001014,2026-08-15,01:18,III,4,5,27,Leitura incorreta de temperatura CND-01
+PA001015,2026-08-15,00:11,III,9,,1396,Falta de MP
+PA001016,2026-08-16,00:03,III,9,,1440,Falta de MP
+PA001017,2026-08-17,00:02,III,9,,1440,Falta de MP
+PA001018,2026-08-18,00:03,III,9,,1440,Falta de MP
+PA001019,2026-08-19,12:30,I,2,3,27,Troca de rolamento QBR-01
+PA001020,2026-08-19,08:13,I,7,9,53,Parada por inspeção de segurança
+PA001021,2026-08-19,01:02,III,9,,1360,Falta de MP
+PA001022,2026-08-20,00:00,III,9,,1440,Falta de MP
+PA001023,2026-08-21,00:01,III,9,,1440,Falta de MP
+PA001024,2026-08-22,09:39,I,3,10,18,Desarme de disjuntor DT-01
+PA001025,2026-08-22,00:12,III,9,,1422,Falta de MP
+PA001026,2026-08-23,00:00,III,9,,1440,Falta de MP
+PA001027,2026-08-24,00:03,III,9,,1440,Falta de MP
+PA001028,2026-08-25,00:02,III,9,,1440,Falta de MP
+PA001029,2026-08-26,09:14,I,2,6,71,Desalinhamento de rolos LAM-01
+PA001030,2026-08-26,14:38,I,6,17,26,Queda de energia da concessionária
+PA001031,2026-08-26,00:55,III,9,,1343,Falta de MP
+PA001032,2026-08-27,01:23,III,2,15,1261,Quebra de eixo RSC-01
+PA001033,2026-08-27,01:59,III,9,,179,Falta de MP
+PA001034,2026-08-28,00:01,III,9,,1440,Falta de MP
+PA001035,2026-08-29,00:00,III,9,,1440,Falta de MP
+PA001036,2026-08-30,00:33,III,9,,775,Falta de MP
+PA001037,2026-09-05,20:13,II,3,9,78,Falha no inversor EXT-01
+PA001038,2026-09-06,03:54,III,9,,475,Falta de MP
+PA001039,2026-09-07,00:46,III,2,10,35,Vazamento de vapor DT-01
+PA001040,2026-09-07,23:43,III,4,5,12,Leitura incorreta de temperatura CND-01
+PA001041,2026-09-07,00:29,III,9,,1393,Falta de MP
+PA001042,2026-09-08,00:02,III,9,,1440,Falta de MP
+PA001043,2026-09-09,00:01,III,9,,1440,Falta de MP
+PA001044,2026-09-10,00:05,III,9,,1440,Falta de MP
+PA001045,2026-09-11,00:04,III,9,,1440,Falta de MP
+PA001046,2026-09-12,00:05,III,9,,1440,Falta de MP
+PA001047,2026-09-13,00:01,III,9,,1440,Falta de MP
+PA001048,2026-09-14,13:48,I,2,6,62,Desalinhamento de rolos LAM-01
+PA001049,2026-09-14,00:19,III,9,,1378,Falta de MP
+PA001050,2026-09-15,04:07,III,1,8,22,Excesso de umidade na massa EXP-01
+PA001051,2026-09-15,22:31,II,1,10,9,Ajuste de temperatura DT-01
+PA001052,2026-09-15,00:02,III,9,,1410,Falta de MP
+PA001053,2026-09-16,00:04,III,9,,1440,Falta de MP
+PA001054,2026-09-17,00:01,III,9,,1440,Falta de MP
+PA001055,2026-09-18,00:04,III,9,,1440,Falta de MP
+PA001056,2026-09-19,00:00,III,9,,1440,Falta de MP
+PA001057,2026-09-20,17:47,II,4,10,22,Desarme sensor de nível DT-01
+PA001058,2026-09-20,00:20,III,9,,1418,Falta de MP
+PA001059,2026-09-21,12:50,I,5,17,93,Queda de energia interna SUB-01
+PA001060,2026-09-21,01:13,III,9,,1347,Falta de MP
+PA001061,2026-09-22,21:53,II,1,10,11,Embuchamento válvula rotativa DT-01
+PA001062,2026-09-22,09:45,I,3,8,27,Queima de motor EXP-01
+PA001063,2026-09-22,00:14,III,9,,1402,Falta de MP
+PA001064,2026-09-23,00:01,III,9,,1440,Falta de MP
+PA001065,2026-09-24,00:04,III,9,,1440,Falta de MP
+PA001066,2026-09-25,07:35,I,11,,498,Manutenção preventiva programada
+PA001067,2026-09-25,20:04,II,1,9,9,Embuchamento válvula rotativa EXT-01
+PA001068,2026-09-25,06:58,III,9,,933,Falta de MP
+PA001069,2026-09-26,07:19,I,9,,389,Falta de MP
+PA001070,2026-09-30,19:36,II,4,9,21,Desarme sensor de nível EXT-01

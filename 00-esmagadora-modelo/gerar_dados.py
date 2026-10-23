@@ -231,7 +231,7 @@ def simular():
     aguardando_mp = aguardando_espaco = False
     ontem_parado = False
     motivo_ontem = "Falta de matéria-prima"
-    DIAS_PARA_RETOMAR_MP = 3.0
+    DIAS_PARA_RETOMAR_MP = 5.0
     DIAS_PARA_RETOMAR_ESPACO = 2.0
     prod, paradas, lab, lab_soja, receb, exped = [], [], [], [], [], []
     n_ticket, n_parada, n_lab, n_nf = 0, 0, 0, 0
@@ -319,6 +319,9 @@ def simular():
             # evento raro: quebra longa
             if rng.random() < 0.004:
                 eventos.append(("Falha mecânica", float(rng.uniform(14, 22))))
+        soma = sum(h for _, h in eventos)
+        if soma > 24.0:  # eventos sobrepostos no mesmo dia: o dia tem no máximo 24 h
+            eventos = [(m, h * 24.0 / soma) for m, h in eventos]
         horas_paradas = min(sum(h for _, h in eventos), 24.0)
         horas_disp = 24.0 - horas_paradas
 
