@@ -1,6 +1,6 @@
 # Portfólio de Análise de Dados | Operações e Supply Chain na Agroindústria
 
-Engenheiro de Produção com experiência em PCP, Melhoria Contínua e SAP PP em uma unidade de esmagamento de soja. Hoje uso dados para responder as perguntas que eu respondia no chão de fábrica: por que a fábrica parou, quanto óleo ficou no farelo, quando vai faltar soja no silo.
+Engenheiro de Produção com experiência em PCP, Melhoria Contínua e SAP (PP/MM/CO) em uma unidade de esmagamento de soja. Hoje uso dados para responder as perguntas que eu respondia no chão de fábrica: por que a fábrica parou, quanto óleo ficou no farelo, quando vai faltar soja no silo.
 
 **Ferramentas:** Excel e Power Query · SQL (PostgreSQL) · Power BI · Python (pandas) · Git
 

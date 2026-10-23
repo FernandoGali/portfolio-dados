@@ -95,7 +95,7 @@ anota("fato_producao", "energia_kwh vazia", len(idx), "isna / IS NULL")
 idx = amostra(p[p.hexano_l > 0], 0.004)
 p.loc[idx, "hexano_l"] = p.loc[idx, "hexano_l"] * 10
 anota("fato_producao", "hexano_l digitado com um zero a mais (x10)", len(idx),
-      "Índice L/t muito acima do normal (> 8 L/t)")
+      "Índice L/t muito acima do normal (> 5 L/t)")
 p["data"] = datas_misturadas(p["data"], "fato_producao")
 salvar(p, "fato_producao")
 

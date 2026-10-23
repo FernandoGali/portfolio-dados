@@ -31,11 +31,11 @@ TAXA_NOMINAL = 61.0       # t/h esmagadas
 CENARIO = {
     # recebimento anual alvo (t), multiplicador de expedição de farelo,
     # índice de hexano base (L/t), residual de óleo no farelo base (%)
-    2022: dict(receb=470_000, exp_farelo=1.00, hexano=1.95, residual=0.66),
-    2023: dict(receb=455_000, exp_farelo=1.00, hexano=2.02, residual=0.63),
-    2024: dict(receb=490_000, exp_farelo=1.02, hexano=1.55, residual=0.61),
-    2025: dict(receb=430_000, exp_farelo=0.74, hexano=1.50, residual=0.82),
-    2026: dict(receb=300_000, exp_farelo=1.05, hexano=1.49, residual=0.52),
+    2022: dict(receb=470_000, exp_farelo=1.00, hexano=1.32, residual=0.66),
+    2023: dict(receb=455_000, exp_farelo=1.00, hexano=1.40, residual=0.63),
+    2024: dict(receb=490_000, exp_farelo=1.02, hexano=0.95, residual=0.61),
+    2025: dict(receb=430_000, exp_farelo=0.74, hexano=0.92, residual=0.82),
+    2026: dict(receb=300_000, exp_farelo=1.05, hexano=0.90, residual=0.52),
 }
 
 # Sazonalidade do recebimento (safra fev-jun)
@@ -225,6 +225,14 @@ def simular():
             preventivas[candidatos[int(rng.integers(0, len(candidatos)))]] = float(rng.uniform(8, 16))
 
     est_soja, est_farelo, est_oleo = 45_000.0, 9_000.0, 1_800.0
+    # Operação em campanha: sem matéria-prima ou sem espaço, a fábrica PARA e só
+    # volta a rodar cheia quando há estoque/espaço para alguns dias (não roda a meia carga).
+    rng_op = np.random.default_rng(SEED + 1)
+    aguardando_mp = aguardando_espaco = False
+    ontem_parado = False
+    motivo_ontem = "Falta de matéria-prima"
+    DIAS_PARA_RETOMAR_MP = 3.0
+    DIAS_PARA_RETOMAR_ESPACO = 2.0
     prod, paradas, lab, lab_soja, receb, exped = [], [], [], [], [], []
     n_ticket, n_parada, n_lab, n_nf = 0, 0, 0, 0
 
@@ -315,13 +323,36 @@ def simular():
         horas_disp = 24.0 - horas_paradas
 
         taxa = float(np.clip(rng.normal(TAXA_NOMINAL + (1 if ano >= 2024 else 0), 2.4), 48, 67))
+        cheio_dia = 24.0 * taxa
         desejado = horas_disp * taxa
 
-        # ---- limite por matéria-prima
-        disponivel_soja = est_soja + 0.55 * receb_liq
-        esmagado = min(desejado, max(disponivel_soja - 300, 0))  # 300 t de lastro no silo
-        if desejado - esmagado > 0.5 * taxa:
-            eventos.append(("Falta de matéria-prima", (desejado - esmagado) / taxa))
+        # ---- partida: no dia em que volta a rodar depois de um dia parado, roda só parte do dia
+        # (as horas antes da partida contam no motivo que deixou a fábrica parada)
+        if d not in bloqueios and ontem_parado and not aguardando_mp and not aguardando_espaco and desejado > 0:
+            horas_partida = float(rng_op.uniform(8, 18))
+            if horas_partida < horas_disp:
+                eventos.append((motivo_ontem, horas_disp - horas_partida))
+                desejado = horas_partida * taxa
+
+        # ---- limite por matéria-prima (campanha)
+        disponivel_soja = est_soja + 0.55 * receb_liq - 300  # 300 t de lastro no silo
+        if d in bloqueios:
+            esmagado = 0.0
+        elif aguardando_mp:
+            if disponivel_soja >= DIAS_PARA_RETOMAR_MP * cheio_dia:
+                aguardando_mp = False
+                horas_partida = float(rng_op.uniform(8, 18))
+                desejado = min(desejado, horas_partida * taxa)
+                eventos.append(("Falta de matéria-prima", max(horas_disp - horas_partida, 0)))
+                esmagado = desejado
+            else:
+                eventos.append(("Falta de matéria-prima", horas_disp))
+                esmagado = 0.0
+        else:
+            esmagado = min(desejado, max(disponivel_soja, 0))
+            if desejado - esmagado > 0.5 * taxa:
+                eventos.append(("Falta de matéria-prima", (desejado - esmagado) / taxa))
+                aguardando_mp = True
 
         # ---- rendimentos
         umid_ind = float(np.clip(rng.normal(10.1, 0.5), 8.5, 12))
@@ -332,10 +363,17 @@ def simular():
 
         # ---- limite por espaço no armazém de farelo
         espaco = CAP_FARELO - est_farelo
+        if aguardando_espaco and esmagado > 0:
+            if espaco >= DIAS_PARA_RETOMAR_ESPACO * cheio_dia * rend_farelo:
+                aguardando_espaco = False
+            else:
+                eventos.append(("Falta de espaço para armazenar", esmagado / taxa))
+                esmagado = 0.0
         if esmagado * rend_farelo > espaco:
             novo = max(espaco, 0) / rend_farelo
             eventos.append(("Falta de espaço para armazenar", (esmagado - novo) / taxa))
             esmagado = novo
+            aguardando_espaco = True
         espaco_ol = CAP_OLEO - est_oleo
         if esmagado * rend_oleo > espaco_ol:
             novo = max(espaco_ol, 0) / rend_oleo
@@ -343,6 +381,9 @@ def simular():
             esmagado = novo
 
         horas_trab = round(esmagado / taxa, 2) if esmagado > 0 else 0.0
+        ontem_parado = esmagado <= 0
+        if ontem_parado and eventos:
+            motivo_ontem = max(eventos, key=lambda e: e[1])[0]
         farelo = esmagado * rend_farelo
         oleo = esmagado * rend_oleo
         est_soja = est_soja + receb_liq - esmagado

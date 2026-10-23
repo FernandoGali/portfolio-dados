@@ -2,6 +2,8 @@
 
 Base usada em todo o roadmap de Analista de Dados. Simula uma unidade de esmagamento de soja de 01/01/2022 a 30/09/2026: recebimento de soja, armazenagem em silo, esmagamento, produção de farelo e óleo degomado, paradas, consumo de utilidades, laboratório e expedição.
 
+A operação segue a lógica de uma planta real: quando roda, roda cheia (1.200 a 1.600 t/dia). Sem matéria-prima ou sem espaço para armazenar, a fábrica para e só volta quando há estoque ou espaço para alguns dias. Dias com produção baixa são pontuais: dias de partida ou de parada.
+
 **Todos os dados são fictícios.** Nomes de fornecedores, clientes, números e eventos foram gerados por script. A estrutura foi inspirada em um boletim diário de produção típico do setor, que não faz parte deste repositório.
 
 ## Estrutura
@@ -122,7 +124,7 @@ Qualidade média da soja que entrou no processo no dia: `proteina_pct`, `oleo_pc
 |---|---|---|
 | Rendimento de óleo | óleo degomado / soja esmagada | 19,9% a 20,2% |
 | Rendimento de farelo | farelo produzido / soja esmagada | cerca de 72,5% |
-| Índice de hexano | hexano (L) / soja esmagada (t) | 1,5 a 2,1 L/t |
+| Índice de hexano | hexano (L) / soja esmagada (t) | 0,95 a 1,45 L/t (referência do setor: cerca de 1 L/t; acima de 1,5 é alto) |
 | Consumo de vapor | vapor (kg) / soja esmagada (t) | cerca de 270 kg/t |
 | Consumo de energia | energia (kWh) / soja esmagada (t) | cerca de 45 kWh/t |
 | Produtividade | soja esmagada / horas trabalhadas | cerca de 61 t/h |
