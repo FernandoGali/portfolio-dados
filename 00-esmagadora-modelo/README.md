@@ -122,6 +122,8 @@ Qualidade média da soja que entrou no processo no dia: `proteina_pct`, `oleo_pc
 
 ## Fórmulas dos principais KPIs
 
+Ficha completa de cada indicador (definição, fonte, faixa e armadilha): [kpis.md](kpis.md)
+
 | KPI | Fórmula | Faixa típica nesta base |
 |---|---|---|
 | Rendimento de óleo | óleo degomado / soja esmagada | 19,9% a 20,2% |
