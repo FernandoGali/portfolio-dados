@@ -35,6 +35,8 @@ esmagadora/
 
 ## Modelo de dados
 
+Diagrama das ligações e três críticas ao modelo: [modelo_dados.md](modelo_dados.md)
+
 Esquema estrela: tabelas fato (eventos e medições) ligadas a tabelas dimensão (cadastros).
 
 | Tabela | Grão | Linhas (aprox.) | Liga com |
