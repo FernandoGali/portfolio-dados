@@ -18,3 +18,9 @@ Todos os projetos usam a **Esmagadora Modelo**, uma base fictícia de uma unidad
 | 03 | Dashboard de Operações e Supply Chain | Power BI | | Em breve |
 
 > A coluna "Resultado" recebe uma frase com número em cada projeto concluído (ex.: "Identifiquei que a falta de matéria-prima custou 2.200 h de fábrica em 2026").
+
+## Outros projetos com dados públicos
+
+| Projeto | Ferramentas | Resultado | Status |
+|---|---|---|---|
+| [Gastos do governo federal com viagens (2023 a 2026)](https://github.com/FernandoGali/estudos-dados/tree/main/extras/viagens-governo) | Python, pandas, Power BI | 2,9 milhões de viagens analisadas. Achei que 2026 tinha queda de 15,6% no gasto, mas os meses recentes ainda estavam incompletos: a queda real é de 7,8% | Concluído |
