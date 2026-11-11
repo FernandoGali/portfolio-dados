@@ -24,3 +24,4 @@ Todos os projetos usam a **Esmagadora Modelo**, uma base fictícia de uma unidad
 | Projeto | Ferramentas | Resultado | Status |
 |---|---|---|---|
 | [Gastos do governo federal com viagens (2023 a 2026)](https://github.com/FernandoGali/estudos-dados/tree/main/extras/viagens-governo) | Python, pandas, Power BI | 2,9 milhões de viagens analisadas. Achei que 2026 tinha queda de 15,6% no gasto, mas os meses recentes ainda estavam incompletos: a queda real é de 7,8% | Concluído |
+| [Tibia Boss Detector](https://github.com/FernandoGali/tibia-boss-detector) | Python, PostgreSQL, SQL, FastAPI | Pipeline ETL diário com 90 mundos e 59 criaturas raras, previsão calculada em SQL e [site no ar](https://bossdetector.duckdns.org). Um erro de nomes deixava 8 criaturas zeradas; corrigido, elas somaram 395 aparições em 3 dias | No ar |
